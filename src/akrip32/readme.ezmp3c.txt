@@ -1,0 +1,1 @@
+This is a modified version of akrip32 from foobar2000 forum, it support usb devices via SPTI interface (on Windows NT series only).

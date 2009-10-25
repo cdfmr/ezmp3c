@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=Acceptar
+Cancel=Cancel.lar
+Close=Tancar
+Back=< &Anterior
+Next=&Següent >
+Exit=&Sortir
+GO=&Començar!
+Pause=&Pausa
+Resume=&Continuar
+Abort=&Abortar
+Menu=&Menú
+
+[AudioInfo]
+Title=Títol:
+Album=Àlbum:
+Artist=Artista:
+Year=Any:
+Genre=Gènere:
+Comment=Comentari:
+TrackTitles=Cançons:
+
+[String]
+NoDriver=(Cap)
+
+NoTrackSelected=Has de seleccionar al menys una pista!
+NoCDFound=No es pot detectar CD a la unitat selecionada!
+
+CDDBConnect=Recuperant informació del CD des de %s ...
+CDDBSuccess=Informació del CD obtinguda!
+CDDBFailed=Error en recuperar informació del CD!
+
+OutputFolderError=Nom de carpeta de sortida incorrecte!
+FileNameRuleError=Nom d'arxiu de sortida incorrecte!
+CreateFolderError=No es pot crear la carpeta de sortida!
+
+UnknownArtist=Artista desconegut
+UnkonwnAlbum=Àlbum desconegut
+
+Progress=Processant pista %d de %d
+
+AbortOperation=Vols acabar l'operació?
+
+LogStart=Començant registre d'activitat...
+LogRip=Extraient %s...
+LogEncode=Codificant %s...
+LogSuccess=Tot correcte!
+LogFailed=Ha fallat!
+LogCanceled=Cancel.lat per l'usuari.
+LogFinish=Registre d'activitat finalitzat.
+
+RegInfoNotComplete=Introdueix la teva informació de registre!
+RegFailed=Número de sèrie no vàlid!
+RegSuccess=Gràcies per registrar-te!
+
+PlaylistFilter=Arxiu de llista de reproducció (*.m3u)
+PlaylistFailed=Error en crear llista de reproducció!
+
+[Main]
+Unregistered=No registrat
+MenuHelp=&Temes d'Ajut
+MenuRegister=&Registrar...
+MenuAbout=En qu&ant a...
+SelectOperation=Seleciona l'operació dessitjada:
+SelectCDROM=Seleciona la unitat de CDROM que vols utilitzar:
+NoDisc=Inserta un CD d'audio!
+Title=Títol
+Length=Durada
+Size=Tamany (Mb)
+MenuRefresh=&Actualitzar
+MenuSelectAll=Selecionar &Tot
+MenuSelectNone=Des-selecio&nar
+MenuInverseSelection=&Invertir Seleció
+MenuConfigCDDB=&Configurar CDDB
+MenuQueryCDDB=&Localitzar Títols a CDDB
+MenuEditDiscInfo=Editar Informació de &Disc
+MenuEditTrackInfo=Editar Informació de &Pista
+MenuClearInfo=Esborrar In&formació
+ButtonRefresh=Actualitzar
+ButtonSelectAll=Selecionar Tot
+ButtonSelectNone=Des-selecionar
+ButtonInverseSelection=Invertir Seleció
+ButtonConfigCDDB=Configurar CDDB
+ButtonQueryCDDB=Localitzar Títols a CDDB
+ButtonEditDiscInfo=Editar Informació de Disc
+ButtonEditTrackInfo=Editar Informació de Pista
+ButtonClearInfo=Esborrar Informació
+OutputFolder=Desar a:
+FileName=Nom d'Arxiu:
+Priority=Prioritat:
+Priority1=La més Baixa
+Priority2=Baixa
+Priority3=Normal
+Priority4=Alta
+Priority5=La més Alta
+WaveOptions=PCM 44,100Hz 2Ch 16bits
+DeleteWave=Esborrar arxius WAV després de codificar-los
+Bitrate=BitRate:
+From=Mínim
+To=Màxim
+AudioMode=Modus d'Audio:
+AudioMode1=Mono
+AudioMode2=Estèreo
+AudioMode3=Joint Estèreo
+Quality=Qualitat:
+MP3EnableVBR=Habilitar VBR
+MP3WriteVBRHeader=Escriure capçalera VBR
+MP3QualityHint=(0: Alta, 9: Ràpid)
+ExtractWave=Extraient dades WAV
+EncodeWave=Codificant Arxius de Música
+TotalProgess=Progrés Total
+
+[CDDBConfig]
+Title=Conexió a CDDB
+Server=Servidor:
+Script=Codi a executar:
+Proxy=Habilitar Proxy
+Host=Host:
+Port=Port:
+Authorization=Autorització
+Name=Nom:
+Password=Mot de pas:
+
+[CDDBQuery]
+Title=Informació de CDDB
+Save=Desar
+
+[CDDBMatch]
+Title=Discs Coincidents
+Hint=Hi ha més d'un disc que compleix els criteris de consulta, seleciona el correcte.
+DiscTitle=Títol del Disc
+Artist=Artista
+
+[DiscInfo]
+Title=Informació de Disc
+
+[TrackInfo]
+Title=Informació de Pista
+
+[Log]
+Title=Registre d'activitat
+OpenOutputFolder=Obrir Carpeta
+CreatePlaylist=Crear .m3u
+
+[Register]
+Title=Registrar
+Name=Usuari:
+SN=N. de sèrie:
+Buy=Comprar Ara!
+
+[About]
+Title=En quant
+Translator=Traduït per ddominguez
+RegisterTo=Registrat per:
+Unregistered=No Registrat

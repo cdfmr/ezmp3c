@@ -1,0 +1,143 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Naslov fonta
+TitleFontSize=10
+[Button]
+OK=U redu
+Cancel=Poništi
+Close=Zatvori
+Back=Vrati se
+Next=Sledeæi
+Exit=I&zlaz
+GO=&Idi!
+Pause=&Pauza
+Resume=&Nastavak
+Abort=&Prekid
+Menu=&Meni
+[AudioInfo]
+Title=Naslov:
+Album=Album:
+Artist=Izvoða?
+Year=Godina:
+Genre=Žanr:
+Comment=Komentar:
+TrackTitles=Naslov pesme:
+[String]
+NoDriver=(Nema)
+NoTrackSelected=Mora se markirati jedan ili više fajlova!
+NoCDFound=Nije pronaðen CD u CDROM drajvu!
+CDDBConnect=Dobivam podatke sa %s ...
+CDDBSuccess=Uspešno dobiveni podaci o CD-u!
+CDDBFailed=Nema podataka o CD-u!
+OutputFolderError=Naziv izlaznog direktorijuma pogrešan!
+FileNameRuleError=Pogrešno ime izlaznog fajla!
+CreateFolderError=Nemoguæe napraviti izlazni direktorijum!
+UnknownArtist=Nepoznat izvoða?
+UnkonwnAlbum=Nepoznat album
+Progress=Napredak %d od %d
+AbortOperation=Želite li prekinuti proces?
+LogStart=Poèetak...
+LogRip=Grebovanje %s...
+LogEncode=Enkodiranje %s...
+LogSuccess=Uspešno!
+LogFailed=Neuspeh!
+LogCanceled=Prekid od strane korisnika.
+LogFinish=Završetak.
+RegInfoNotComplete=Molimo unesite Vaše registracionke podatke!
+RegFailed=Pogrešan serijski broj!
+RegSuccess=Hvala što ste se registrovali!
+PlaylistFilter=Plej lista fajlova (*.m3u)
+PlaylistFailed=Nemoguæe kreirati plej listu!
+[Main]
+Unregistered=Neregistrovana verzija
+MenuHelp=&Pomo?meni
+MenuRegister=&Registracija...
+MenuAbout=&O...
+SelectOperation=Izaberi operaciju koju želi?
+SelectCDROM=Markiraj CD drajv koji želi?koristiti:
+NoDisc=Molim ubacite audio CD!
+Title=Naslov
+Length=Dužina
+Size=Velièina (M)
+MenuRefresh=&Osveži
+MenuSelectAll=Markiraj &Sve
+MenuSelectNone=Markirano &Ništa
+MenuInverseSelection=&Inverzno markiranje
+MenuConfigCDDB=&Postavke CDDB
+MenuQueryCDDB=&Upit CDDB
+MenuEditDiscInfo=Prikazati &CD informacije
+MenuEditTrackInfo=Prikazati &Informacije o fajlovima
+MenuClearInfo=Obriši in&formaciju
+ButtonRefresh=Osveži
+ButtonSelectAll=Markiraj sve
+ButtonSelectNone=Nije ništa markirano
+ButtonInverseSelection=Inverzno markiranje
+ButtonConfigCDDB=Postavke CDDB
+ButtonQueryCDDB=Upit CDDB
+ButtonEditDiscInfo=Prikaži CD informacije
+ButtonEditTrackInfo=Prikaži informacije o fajlovima
+ButtonClearInfo=Brisanje informacija
+OutputFolder=Izlazni direktorijum:
+FileName=Ime fajla:
+Priority=Važnost:
+Priority1=Najniža
+Priority2=Srednja
+Priority3=Standardna
+Priority4=Visoka
+Priority5=Maksimalna
+WaveOptions=Nema postavki za wav izlazni fajl
+DeleteWave=Obriši wav fajl nakon enkodiranja
+Bitrate=Bitrate:
+From=Od
+To=Do
+AudioMode=Audio Mod:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint stereo
+Quality=Kvalitet:
+MP3EnableVBR=Omoguæi VBR
+MP3WriteVBRHeader=Piši VBR zaglavlje
+MP3QualityHint=(0: najviši, 9: najbrži)
+ExtractWave=Izvadi WAV fajlove
+EncodeWave=Enkodiraj muzièke fajlove
+TotalProgess=Ukupni napredak
+[CDDBConfig]
+Title=CDDB konekcija
+Server=Server:
+Script=Upitna skripta:
+Proxy=Omoguæi proxy
+Host=Server:
+Port=Port:
+Authorization=Potvrda
+Name=Ime:
+Password=Lozinka:
+[CDDBQuery]
+Title=CDDB informacije
+Save=Snimi
+[CDDBMatch]
+Title=Podudarnost diska
+Hint=Više od jednog diska naðeno u bazi, molim izaberite odgovarajuæi.
+DiscTitle=Naslov CD-a
+Artist=Izvoða?
+[DiscInfo]
+Title=CD Informacije
+[TrackInfo]
+Title=Informacije o fajlovima
+[Log]
+Title=Log
+OpenOutputFolder=Izlazni direktorijum
+CreatePlaylist=Formiraj PU
+[Register]
+Title=Registracija
+Name=Korisnièko ime:
+SN=Serijski broj:
+Buy=Kupi odmah!
+[About]
+Title=O
+Translator=Engleski jezièki fajl od Linasofta
+RegisterTo=Registrovan na ime:
+Unregistered=Neregistrovana verzija

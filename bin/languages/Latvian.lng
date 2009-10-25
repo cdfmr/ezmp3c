@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=&Labi
+Cancel=&Atcelt
+Close=Aiz&vçrt
+Back=< Atpa&kaï
+Next=&Tâlâk >
+Exit=&Pabeigt
+GO=Ai&ziet!
+Pause=&Pauze
+Resume=&Turpinât
+Abort=Pâ&rtraukt
+Menu=&Izvçle
+
+[AudioInfo]
+Title=Title:
+Album=Albums:
+Artist=Izpildîtâjs:
+Year=Gads:
+Genre=Þanrs:
+Comment=Piezîmes:
+TrackTitles=Ierakstu nos.:
+
+[String]    
+NoDriver=(Nav)
+
+NoTrackSelected=Jums jâizvçlas vismaz viens ieraksts!
+NoCDFound=Izvçlçtajâ CDROM diskiekârtâ CD nav atrasts!
+
+CDDBConnect=Tiek pieprasîta CD informâcija no %s ...
+CDDBSuccess=CD informâcijas pieprasîjums veiksmîgs!
+CDDBFailed=CD informâcijas pieprasîjums neveiksmîgs!
+
+OutputFolderError=Saglabâðanas mapes nosaukums ir nederîgs!
+FileNameRuleError=Saglabâjamâ faila nosaukums ir nederîgs!
+CreateFolderError=Nav iespçjams izveidot saglabâðanas mapi!
+
+UnknownArtist=Nezinâms izpildîtâjs
+UnkonwnAlbum=Nezinâms albums
+
+Progress=Apstrâdâjas %d. ieraksts no %d
+
+AbortOperation=Vai vçlaties pârtraukt ðo darbîbu?
+
+LogStart=Sâkums...
+LogRip=Kopçjas %s...
+LogEncode=Kodçjas %s...
+LogSuccess=Veiksmîgi!
+LogFailed=Neveiksmîgi!
+LogCanceled=Lietotâja atcelts.
+LogFinish=Pabeigts.
+
+RegInfoNotComplete=Lûdzu ievadiet jûsu reìistrçðanas informâciju!
+RegFailed=Nepareizs seriâlais numurs!
+RegSuccess=Paldies jums par reìistrçðanos!
+
+PlaylistFilter=Atskaòoðanas saraksta fails (*.m3u)
+PlaylistFailed=Atskaòoðanas saraksta faila izveidoðana neveiksmîga!
+
+[Main]
+Unregistered=Nereìistrçts
+MenuHelp=Rokasgâmatas &saturs
+MenuRegister=&Reìistrçt...
+MenuAbout=&Par...
+SelectOperation=Izvçlieties vçlamo darbîbu:
+SelectCDROM=Izvçlieties CDROM iekârtu, kuru izmantosiet:
+NoDisc=Lûdzu ievietojiet audio CD!
+Title=Nosaukums
+Length=Garums
+Size=Lielums (M)
+MenuRefresh=&Pârlasît
+MenuSelectAll=Iezîmçt &visu
+MenuSelectNone=Neiezîmçt &neko
+MenuInverseSelection=&Apgriezt iezîmçto
+MenuConfigCDDB=&Pielâgot CDDB
+MenuQueryCDDB=Piep&rasît CDDB
+MenuEditDiscInfo=Labot &diska info
+MenuEditTrackInfo=Labot &ieraksta info
+MenuClearInfo=Dzçst in&fo
+ButtonRefresh=Pârlasît
+ButtonSelectAll=Iezîmçt visu
+ButtonSelectNone=Neiezîmçt neko
+ButtonInverseSelection=Apgriezt iezîmçto
+ButtonConfigCDDB=Pielâgot CDDB
+ButtonQueryCDDB=Pieprasît CDDB
+ButtonEditDiscInfo=Labot diska info
+ButtonEditTrackInfo=Labot ieraksta info
+ButtonClearInfo=Dzçst info
+OutputFolder=Saglab. mape:
+FileName=Faila nosaukums:
+Priority=Prioritâte:
+Priority1=Zemâkâ
+Priority2=Zemâ
+Priority3=Parastâ
+Priority4=Augstâ
+Priority5=Augstâkâ
+WaveOptions=Wave ir bez uzstâdîjumiem
+DeleteWave=Pçc kodçðanas wave failus dzçst
+Bitrate=Bitrate:
+From=No
+To=Lîdz
+AudioMode=Audio reþîms:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=kvalitâte:
+MP3EnableVBR=Ieslçgt VBR
+MP3WriteVBRHeader=Ierakstît VBR galviòu
+MP3QualityHint=(0: augstâ, 9: âtrâ)
+ExtractWave=Izvelkas wave dati
+EncodeWave=Kodçjas mûzikas faili
+TotalProgess=Kopçjais progress
+
+[CDDBConfig]
+Title=CDDB savienojums
+Server=Serveris:
+Script=Pieprasît skriptu:
+Proxy=Ieslçgt proxy
+Host=Hosts:
+Port=Ports:
+Authorization=Autorizçðanâs
+Name=Vârds:
+Password=Parole:
+
+[CDDBQuery]
+Title=CDDB informâcija
+Save=Saglabât
+
+[CDDBMatch]
+Title=Diska sakritîbas
+Hint=Datubâzç ir atrasta vairâk kâ viena iespçjamâ saderîba, lûdzu izvçlieties pareizo.
+DiscTitle=Diska nosaukums
+Artist=Izpildîtâjs
+
+[DiscInfo]
+Title=Diska informâcija
+
+[TrackInfo]
+Title=Ieraksta informâcija
+
+[Log]
+Title=Protokols
+OpenOutputFolder=&Saglab. mape
+CreatePlaylist=&Izv. sarakstu
+
+[Register]
+Title=Registrçðana
+Name=Lietotâja &vârds:
+SN=Seriâlais &numurs:
+Buy=&Pirkt tûlît!
+
+[About]
+Title=Par
+Translator=Latvieðu valodâ tulkojis Armands Radzuðka
+RegisterTo=Reìistrçjis:
+Unregistered=Nereìistrçts

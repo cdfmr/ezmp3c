@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=Validare
+Cancel=Renuntare
+Close=Inchide
+Back=< &Inapoi
+Next=I&nainte >
+Exit=Iesire
+GO=&Start!
+Pause=&Pauza
+Resume=&Reluare
+Abort=R&enuntare
+Menu=&Meniu
+
+[AudioInfo]
+Title=Titlu:
+Album=Album:
+Artist=Artist:
+Year=An:
+Genre=Gen:
+Comment=Note:
+TrackTitles=Titluri piese:
+
+[String]    
+NoDriver=(nici un disc)
+
+NoTrackSelected= Trebuie sa selectati cel putin o piesa!
+NoCDFound=Nu exista nici un CD in unitatea CDROM!
+
+CDDBConnect=Se obtin informatiile pentru CD de la %s ...
+CDDBSuccess=Informatiile pentru CD au fost obtinute!
+CDDBFailed=Nu s-au putut obtine informatiile necesare pentru CD!
+
+OutputFolderError=Numele directorului este invalid!
+FileNameRuleError=Numele fisierului este invalid!
+CreateFolderError=Directorul nu poate fi creat!
+
+UnknownArtist=Artist necunoscut
+UnkonwnAlbum=Album necunoscut
+
+Progress=Se proceseaza piesa %d din %d
+
+AbortOperation=Doriti sa anulati operatia?
+
+LogStart=Se initializeaza...
+LogRip=Se extrage %s...
+LogEncode=Se prelucreaza %s...
+LogSuccess=Succes!
+LogFailed=Eroare!
+LogCanceled=Intrerupt de Utilizator.
+LogFinish=Gata!
+
+RegInfoNotComplete=Va rugam sa introduceti datele de inregistrare!
+RegFailed=Numar serial invalid!
+RegSuccess=Va multumim pentru inregistrare!
+
+PlaylistFilter=Lista de piese (*.m3u)
+PlaylistFailed=Eroarea la crearea listei de piese!
+
+[Main]
+Unregistered=Neinregistrat.
+MenuHelp=&Ajutor...
+MenuRegister=&Inregistrare...
+MenuAbout=&Despre...
+SelectOperation=Selectati operatia dorita:
+SelectCDROM=Selectati unitatea CDROM:
+NoDisc=Va rugam sa introduceti un CD audio!
+Title=Titlu
+Length=Lungime
+Size=Marime
+MenuRefresh=&Reincarcare Info
+MenuSelectAll=Selectare &toate piesele
+MenuSelectNone=&Deselectare piese
+MenuInverseSelection=&Inversare selectie
+MenuConfigCDDB=&Configurare CDDB
+MenuQueryCDDB=&Interogare CDDB
+MenuEditDiscInfo=Editare informatie &disc
+MenuEditTrackInfo=Editare informatie &piesa
+MenuClearInfo=&Stergere Informatie
+ButtonRefresh=Reincarcare informatie
+ButtonSelectAll=Selectare toate piesele
+ButtonSelectNone=Deselectare piese
+ButtonInverseSelection=Inversare selectie
+ButtonConfigCDDB=Configurare CDDB
+ButtonQueryCDDB=Interogare CDDB
+ButtonEditDiscInfo=Editare informatie disc
+ButtonEditTrackInfo=Editare informatie piesa
+ButtonClearInfo=Stergere info
+OutputFolder=Destinatie:
+FileName=Nume piesa:
+Priority=Prioritate:
+Priority1=Fara prioritate
+Priority2=Scazut
+Priority3=Normal
+Priority4=Important
+Priority5=Foarte important
+WaveOptions=Nu exista optiuni pentru fisierele wave.
+DeleteWave=Stergere  fisiere wave dupa encodare.
+Bitrate=Rata biti:
+From=de la:
+To=la:
+AudioMode=Mod audio:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Calitate:
+MP3EnableVBR=Activare VBR
+MP3WriteVBRHeader=Includere info VBR
+MP3QualityHint=(0: inalta, 9: viteza)
+ExtractWave=Extragere informatie Wave
+EncodeWave=Prelucrare fisiere muzica
+TotalProgess=Progres total
+
+[CDDBConfig]
+Title=Conexiune CDDB
+Server=Server:
+Script=Interogare:
+Proxy=Activeaza Proxy
+Host=Gazda:
+Port=Port:
+Authorization=Autorizare
+Name=Nume:
+Password=Parola:
+
+[CDDBQuery]
+Title=Informatie CDDB
+Save=Salvare
+
+[CDDBMatch]
+Title=Optiuni de disc
+Hint=Au fost gasite mai multe variante potentiale, va rugam alegeti una potrivita.
+DiscTitle=Titlu disc
+Artist=Artist
+
+[DiscInfo]
+Title=Informatie disc
+
+[TrackInfo]
+Title=Informatie piesa
+
+[Log]
+Title=Log
+OpenOutputFolder=Destinatie
+CreatePlaylist=Creare lista
+
+[Register]
+Title=Inregistrare
+Name=Nume Utilizator:
+SN=Numar Serial:
+Buy=Cumpara!
+
+[About]
+Title=Despre
+Translator=Versiunea in limba romana oferita de CataS.
+RegisterTo=Inregistrat de:
+Unregistered=Neinregsitrat

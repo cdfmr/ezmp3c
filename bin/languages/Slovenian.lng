@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=OK
+Cancel=prekli?i
+Close=zapri 
+Back=nazaj
+Next=naslednji
+Exit=izhod iz programa
+GO=pojdi
+Pause=pavza
+Resume=ponovi
+Abort=opusti
+Menu=Meni
+
+[AudioInfo]
+Title=naslov:
+Album=Album:
+Artist=artist:
+Year=leto:
+Genre=spol:
+Comment=komentar:
+TrackTitles=naslov pesmi:
+
+[String]    
+NoDriver=(ni?)
+
+NoTrackSelected=izbrati morate vsaj eno pesem!
+NoCDFound=ne zaznam CD-ja v tej CD enoti!
+
+CDDBConnect=dobivam informacije o CD-ju od %s ...
+CDDBSuccess=CD informacije uspe?no dobljene!
+CDDBFailed=CD informacije niso bile dobljene!
+
+OutputFolderError=ime datoteke je neveljavno!
+FileNameRuleError=ime datoteke je napa?no!
+CreateFolderError=ne morem narediti direktorija datoteke!
+
+UnknownArtist=neznan izvajalec
+UnkonwnAlbum=neznan album
+
+Progress=obdelujem pesem %d od %d
+
+AbortOperation=ali ?elite opustiti to operacijo?
+
+LogStart=za?enjam...
+LogRip=kodiram %s...
+LogEncode=dekodiram %s...
+LogSuccess=uspeh!
+LogFailed=ni uspelo!
+LogCanceled=prekinitev uporabnika.
+LogFinish=konec.
+
+RegInfoNotComplete=prosim vpi?ite registracijske informacije!
+RegFailed=neveljavna ?tevilka!
+RegSuccess=najlep?a hvala za registracijo!
+
+PlaylistFilter=igraj pesem z lista (*.m3u)
+PlaylistFailed=ni mi uspelo narediti lista!
+
+[Main]
+Unregistered=neregistrirano
+MenuHelp=teme pomo?i
+MenuRegister=registriraj...
+MenuAbout=predstavitev...
+SelectOperation=izberite operacijo, ki jo ?elite opraviti:
+SelectCDROM=izberite CD enoto, ki jo ?elite uporabljati:
+NoDisc=vstavite glasbeni CD!
+Title=naslov
+Length=dol?ina
+Size=velikost (M)
+MenuRefresh=osve?i
+MenuSelectAll=izberi vse
+MenuSelectNone=izberi ni?
+MenuInverseSelection=&Inverse Selection
+MenuConfigCDDB=konfiguriraj CDDB
+MenuQueryCDDB=&Query CDDB
+MenuEditDiscInfo=dodaj informacije o disku
+MenuEditTrackInfo=dodaj informacije o pesmi
+MenuClearInfo=izbri?i informacije
+ButtonRefresh=osve?i
+ButtonSelectAll=izberi vse
+ButtonSelectNone=izberi ni?
+ButtonInverseSelection=Inverse Selection
+ButtonConfigCDDB=konfiguriraj CDDB
+ButtonQueryCDDB=Query CDDB
+ButtonEditDiscInfo=dodaj informacije o disku
+ButtonEditTrackInfo=dodaj informacije o pesmi
+ButtonClearInfo=izbri?i informacije
+OutputFolder=izhodna datoteka:
+FileName=ime mape:
+Priority=Pomembnost:
+Priority1=najmanj?a
+Priority2=srednja
+Priority3=normalna
+Priority4=vi?ja
+Priority5=najvi?ja
+WaveOptions=ni? opcij za wave izhod
+DeleteWave=izbri?i Wave datoteke po dekodiranju
+Bitrate=izdaj:
+From=od
+To=za
+AudioMode=Audio na?in:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=zdru?eni Stereo
+Quality=kvaliteta:
+MP3EnableVBR=onemogo?i VBR
+MP3WriteVBRHeader=pi?i VBR Header
+MP3QualityHint=(0: high, 9: fast)
+ExtractWave=Ekstrahiram Wave podatke
+EncodeWave=dekodiram glasbene datoteke
+TotalProgess=kon?ni rezultat
+
+[CDDBConfig]
+Title=CDDB povezava
+Server=Server:
+Script=Query skripta:
+Proxy=onemogo?i Proxy
+Host=gostitelj:
+Port=vod:
+Authorization=avtorizacija
+Name=ime:
+Password=geslo:
+
+[CDDBQuery]
+Title=CDDB informacije
+Save=Shrani
+
+[CDDBMatch]
+Title=ujemanje diskov
+Hint=ve? kot en ustrezen disk sem na?el, prosim izberite pravega
+DiscTitle=naslov diska
+Artist=izvajalec
+
+[DiscInfo]
+Title=informacije o diku
+
+[TrackInfo]
+Title=informacije o pesmi
+
+[Log]
+Title=Log
+OpenOutputFolder=izhodna datoteka
+CreatePlaylist=naredi list
+
+[Register]
+Title=Registriraj
+Name=uporani?ko ime:
+SN=Serijska ?tevilka:
+Buy=kupi sedaj !
+
+[About]
+Title=predstavitev
+Translator=Mapa Slovenskega jezika by Edo Bele
+RegisterTo=registrirajte v:
+Unregistered=neregistrirano

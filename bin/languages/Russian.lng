@@ -1,0 +1,153 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=OK
+Cancel=Отмена 
+Close=Закрыть
+Back=< &Назад
+Next=&Вперед >
+Exit=В&ыход
+GO=&Пуск!
+Pause=&Пауза
+Resume=&Резюме
+Abort=&Отказ
+Menu=&Меню
+[AudioInfo]
+Title=Название:
+Album=Альбом:
+Artist=Артист:
+Year=Год:
+Genre=Жанр:
+Comment=Комментарий:
+TrackTitles=Имя Дорожки:
+[String]
+NoDriver=(Нет)
+
+NoTrackSelected=Вы должны выбрать хотя бы одну дорожку!
+NoCDFound=Диск не определен в выбранном CDROM!
+
+CDDBConnect=Поиск информации на CD из %s...
+CDDBSuccess=Информация с CD извлеченная успешно!
+CDDBFailed=Ошибка извлечения информации с CD!
+
+OutputFolderError=Выбранная папка не существует!
+FileNameRuleError=Выбранное имя файла недействительно!
+CreateFolderError=Невозможно создать выбранную папку!
+
+UnknownArtist=Неизвестный Артист
+UnkonwnAlbum=Неизвестный Альбом
+
+Progress=Обработка Дорожки %d из %d
+
+AbortOperation=Вы желаете прервать операцию?
+
+LogStart=Запуск...
+LogRip=Ограбление %s...
+LogEncode=Кодирование %s...
+LogSuccess=Операция успешно завершена !
+LogFailed=Ошибка!
+LogCanceled=Отменено пользователем.
+LogFinish=Финиш.
+
+RegInfoNotComplete=Пожалуйста введите вашу регистрационную информацию!
+RegFailed=Неправильный серийный номер!
+RegSuccess=Благодарим вас за регистрацию!
+
+PlaylistFilter=Список воспроизведения (*.m3u)
+PlaylistFailed=Ошибка создания списка воспроизведения!
+[Main]
+Unregistered=Не зарегистрирована 
+MenuHelp=&Помощь
+MenuRegister=&Регистрация...
+MenuAbout=&О программе...
+SelectOperation=Выберете необходимое действие:
+SelectCDROM=Выберете CDROM, который вы хотите использовать:
+NoDisc=Пожалуйста, вставьте audio CD!
+Title=Название
+Length=Длина
+Size=Размер (M)
+MenuRefresh=&Обновить 
+MenuSelectAll=Выбрать &Все
+MenuSelectNone=Выбрать&Ничего
+MenuInverseSelection=&Обратный Выбор
+MenuConfigCDDB=&Настройки CDDB
+MenuQueryCDDB=&Запрос CDDB
+MenuEditDiscInfo=Редактирование &Диск Инф.
+MenuEditTrackInfo=Редактирование &Дорожка Инф.
+MenuClearInfo=Очистка Ин&ф.
+ButtonRefresh=Обновить %t%t%t
+ButtonSelectAll=Выбрать все
+ButtonSelectNone=Выбрать ничего
+ButtonInverseSelection=Обратный Выбор
+ButtonConfigCDDB=Настройки CDDB
+ButtonQueryCDDB=Запрос CDDB
+ButtonEditDiscInfo=Редактирование
+ButtonEditTrackInfo=Редактирование
+ButtonClearInfo=Очистка
+OutputFolder=Папка:
+FileName=Имя файла:
+Priority=Приоритет:
+Priority1=Самый низкий
+Priority2=Низкий
+Priority3=Нормальный
+Priority4=Высокий
+Priority5=Самый Высокий
+WaveOptions=Никакие опции для начала процесса не выбраны
+DeleteWave=Удалить файл после кодирования 
+Bitrate=Скорость:
+From=Из
+To=В
+AudioMode=Качество звука:
+AudioMode1=Моно
+AudioMode2=Стерео
+AudioMode3=Совместимое Стерео
+Quality=Качество:
+MP3EnableVBR=Включить  VBR
+MP3WriteVBRHeader=Заголовок Записи VBR
+MP3QualityHint=(0: выше, 9: быстрее)
+ExtractWave=Извлечение данных дорожки
+EncodeWave=Кодирование Музыкального Файла
+TotalProgess=Общий Прогресс
+[CDDBConfig]
+Title=CDDB Соединение
+Server=Сервер:
+Script=Скрипт Запроса:
+Proxy=Использовать Proxy
+Host=Хост:
+Port=Порт:
+Authorization=Разрешение
+Name=Имя:
+Password=Пароль:
+[CDDBQuery]
+Title=CDDB  Информация
+Save=Сохранить
+[CDDBMatch]
+Title=Дисковые Спички
+Hint=В базе обнаружено более чем одно сопоставление, пожалуйста, выберете правильное. 
+DiscTitle=Название Диска
+Artist=Артист
+[DiscInfo]
+Title=Диск Инф.
+[TrackInfo]
+Title= Дорожка Инф.
+[Log]
+Title=Журнал
+OpenOutputFolder=Папка
+CreatePlaylist=Создать Список Воспроизведения  
+[Register]
+Title=Регистрация 
+Name=Имя:
+SN=Серийный номер:
+Buy=Купить!
+[About]
+Title=О программе
+Translator=Перевод от GK сайт http://capicat.narod.ru 
+RegisterTo=Владелиц:
+Unregistered=Не зарегистрировано  
+

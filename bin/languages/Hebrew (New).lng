@@ -1,0 +1,162 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=אישור
+Cancel=ביטול
+Close=סגור
+Back=< הקודם
+Next=הבא >
+Exit=י&ציאה
+GO=!בצע
+Pause=&הפסק
+Resume=&המשך
+Abort=&בטל פעולה
+Menu=&תפריט
+
+[AudioInfo]
+Title=כותרת:
+Album=אלבום:
+Artist=אמן:
+Year=שנה:
+Genre=סגנון:
+Comment=הערה:
+TrackTitles=כותרות הרצועות:
+
+[String]    
+NoDriver=(אין)
+
+NoTrackSelected=!עליך לבחור לפחות רצועה אחת
+NoCDFound=!לא הובחן בדיסק בכונן הדיסקים שנבחר
+
+CDDBConnect=... %s מאחזר מידע על הדיסק מ
+CDDBSuccess=!המידע על הדיסק אוחזר בהצלחה
+CDDBFailed=!אחזור המידע על הדיסק נכשל
+
+OutputFolderError=!תיקיית פלט לא חוקית
+FileNameRuleError=!שם הקובץ של הפלט לא חוקי
+CreateFolderError=!לא מסוגל ליצור סיפריית פלט
+
+UnknownArtist=אמן לא ידוע
+UnkonwnAlbum=אלבום לא ידוע
+
+Progress=מעבד רצועה %d מתוך %d
+
+AbortOperation=?האם ברצונך לבטל את הפעולה
+
+LogStart=...מתחיל
+LogRip=...%s העתקה מדיסק
+LogEncode=...%s קידד
+LogSuccess=!הצליח
+LogFailed=!נכשל
+LogCanceled=.המשתמש ביטל את הפעולה
+LogFinish=.הסתיים
+
+RegInfoNotComplete=!הכנס את מידע ההרשמה שלך
+RegFailed=!מספר סידורי שגוי
+RegSuccess=!תודה שנרשמת לתוכנה
+
+PlaylistFilter=(*.m3u) קובץ רשימת השמעה
+PlaylistFailed=!נכשל ביצירת רשימת השמעה
+
+[Main]
+Unregistered=לא רשום
+MenuHelp=&נושאי עזרה
+MenuRegister=&...הירשם
+MenuAbout=...אודות&
+SelectOperation=בחר מה ברצונך לעשות:
+SelectCDROM=בחר את כונן הדיסקים שברצונך להשתמש בו:
+NoDisc=!אנא, הכנס דיסק אודיו
+Title=כותרת
+Length=משך זמן
+Size=גודל (M)
+MenuRefresh=&רענן
+MenuSelectAll=בחר &הכל
+MenuSelectNone=בחר &בכלום
+MenuInverseSelection=&הפוך בחירה
+MenuConfigCDDB=&CDDB הגדר את
+MenuQueryCDDB=&CDDB בקש לאחזר מידע מ
+MenuEditDiscInfo=ערוך &מידע על הדיסק
+MenuEditTrackInfo=ערוך &מידע על הרצועה
+MenuClearInfo=נקה מי&דע
+ButtonRefresh=רענן
+ButtonSelectAll=בחר הכל
+ButtonSelectNone=בחר בכלום
+ButtonInverseSelection=הפוך בחירה
+ButtonConfigCDDB=CDDB הגדר את
+ButtonQueryCDDB=CDDB בקש לאחזור מידע מ
+ButtonEditDiscInfo=ערוך מידע על הדיסק
+ButtonEditTrackInfo=ערוך מידע על הרצועה
+ButtonClearInfo=נקה מידע
+OutputFolder=תיקיית פלט:
+FileName=שם הקובץ:
+Priority=עדיפות:
+Priority1=הכי נמוכה
+Priority2=יותר נמוכה
+Priority3=רגילה
+Priority4=גבוהה
+Priority5=הכי גבוהה
+WaveOptions=Wave אין אפשרויות לקבצי
+DeleteWave=לאחר הקידוד Wave מחק קבצי
+Bitrate=Bitrate:
+From=מ
+To=אל
+AudioMode=מצב אודיו:
+AudioMode1=חד-קולי
+AudioMode2=סטריאו
+AudioMode3=Joint Stereo
+Quality=איכות:
+MP3EnableVBR=VBR הפעל
+MP3WriteVBRHeader=Write VBR Header
+MP3QualityHint=(גבוה :0, מהיר :9)
+ExtractWave=מחלץ נתוני אודיו
+EncodeWave=מקודד קבצי מוזיקה
+CurrentTrack=רצועה נוכחית
+TotalProgess=התקדמות כוללת
+
+[CDDBConfig]
+Title=CDDB התחברות ל
+Server=שרת:
+Script=Query Script:
+Proxy=Proxy הפעל
+Host=מארח:
+Port=(יציאה(פורט:
+Authorization=הרשאה
+Name=שם:
+Password=סיסמא:
+
+[CDDBQuery]
+Title=CDDB מידע
+Save=שמור
+
+[CDDBMatch]
+Title=התאמות של הדיסק
+Hint=.יותר מהתאמה אפשרית אחת נמצאה בבסיס הנתונים, בחר את האחת הנכונה
+DiscTitle=כותרת הדיסק
+Artist=אמן
+
+[DiscInfo]
+Title=מידע על הדיסק
+
+[TrackInfo]
+Title=מידע על הרצועה
+
+[Log]
+Title=רישום פעילות
+OpenOutputFolder=תיקיית פלט
+CreatePlaylist=רשימת השמעה
+
+[Register]
+Title=הירשם
+Name=שם משתמש:
+SN=מספר סידורי:
+Buy=! קנה עכשיו
+
+[About]
+Title=אודות
+Translator=HebTrans.up.co.il && תורגם ע"י אור ברלוביץ
+RegisterTo=רשום ל:
+Unregistered=לא רשום

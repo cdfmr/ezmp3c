@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=Да
+Cancel=Отказ
+Close=Затвори
+Back=< &Назад
+Next=&Напред >
+Exit=И&зход
+GO=&ИДИ!
+Pause=&Пауза
+Resume=&Продължи
+Abort=&Прекъсни
+Menu=&Меню
+
+[AudioInfo]
+Title=Заглавие:
+Album=Албум:
+Artist=Изпълнител:
+Year=Година:
+Genre=Жанр:
+Comment=Коментар:
+TrackTitles=Заглавие на песента:
+
+[String]    
+NoDriver=(Няма Диск)
+
+NoTrackSelected=Необходимо е да изберете песен!
+NoCDFound=Не мога да намеря CD в избраното CDROM устройство!
+
+CDDBConnect=Получаване на информация за CD %s ...
+CDDBSuccess=Получаването на информация за CD завърши успешно!
+CDDBFailed=Получаването на информация за CD неуспешно!
+
+OutputFolderError=Името на изходящата папка е неправилно!
+FileNameRuleError=Името на изходящия файл е неправилно!
+CreateFolderError=Не мога да създам изходяща папка!
+
+UnknownArtist=Неизвестен Изпълнител
+UnkonwnAlbum=Неизвестен Албум
+
+Progress=Завършени %d от %d
+
+AbortOperation=Искате ли да прекъснете действието?
+
+LogStart=Стартиране...
+LogRip=Ripping %s...
+LogEncode=Декодиране %s...
+LogSuccess=Успешно!
+LogFailed=Неуспешно!
+LogCanceled=Прекъснато от потребителя.
+LogFinish=Завършено.
+
+RegInfoNotComplete=Моля въведете регистрационната информация!
+RegFailed=Неправилен Сериен Номер!
+RegSuccess=Благодарим Ви за регистрацията!
+
+PlaylistFilter=Плей Лист Файл (*.m3u)
+PlaylistFailed=Плей Листа не е създаден!
+
+[Main]
+Unregistered=Нерегистрирана
+MenuHelp=&Помощ
+MenuRegister=&Регистрация...
+MenuAbout=&За EZ MP3 Creator...
+SelectOperation=Изберете действието, което искате да извършите:
+SelectCDROM=Изберете CDROM устройството, което искате да използвате:
+NoDisc=Моля поставете аудио CD!
+Title=Заглавие
+Length=Дължина
+Size=Размер (M)
+MenuRefresh=&Обнови
+MenuSelectAll=Избери &Всички
+MenuSelectNone=Не &Избирай
+MenuInverseSelection=&Обърни Избора
+MenuConfigCDDB=&Конфигурирай CDDB
+MenuQueryCDDB=&Провери CDDB
+MenuEditDiscInfo=Редактирай &Информацията за Диска
+MenuEditTrackInfo=Редактирай &Информацията за Песента
+MenuClearInfo=Изчисти Ин&формацията
+ButtonRefresh=Обнови
+ButtonSelectAll=Избери Всички
+ButtonSelectNone=Не Избирай
+ButtonInverseSelection=Обърни Избора
+ButtonConfigCDDB=Конфигурирай CDDB
+ButtonQueryCDDB=Провери CDDB
+ButtonEditDiscInfo=Редактирай Информацията за Диска
+ButtonEditTrackInfo=Редактирай Информацията за Песента
+ButtonClearInfo=Изчисти Информацията
+OutputFolder=Изходяща Папка:
+FileName=Име на Файла:
+Priority=Приоритет:
+Priority1=Най-нисък
+Priority2=По-нисък
+Priority3=Нормален
+Priority4=По-висок
+Priority5=Най-висок
+WaveOptions=Няма настройки за изходящия Wave файл
+DeleteWave=Изтрий Wave Файла след декодирането
+Bitrate=Bitrate:
+From=От
+To=До
+AudioMode=Аудио Способ:
+AudioMode1=Моно
+AudioMode2=Стерео
+AudioMode3=Комбинирано Стерео
+Quality=Качество:
+MP3EnableVBR=Разреши VBR
+MP3WriteVBRHeader=Запиши VBR Заглавие
+MP3QualityHint=(0: висок, 9: нисък)
+ExtractWave=Извлечи Wave Данните
+EncodeWave=Кодирай Музикалните Файлове
+TotalProgess=Цялостен Ход
+
+[CDDBConfig]
+Title=CDDB Връзка
+Server=Сървър:
+Script=Въпросен Сценарии:
+Proxy=Разреши Прокси
+Host=Хост:
+Port=Порт:
+Authorization=Упълномощяване
+Name=Име:
+Password=Парола:
+
+[CDDBQuery]
+Title=CDDB Информация
+Save=Съхрани
+
+[CDDBMatch]
+Title=Дисково Подобие
+Hint=Повече от едно подобие е налично в базата с данни, моля изберете правилно едно от тях.
+DiscTitle=Заглавие на Диска
+Artist=Изпълнител
+
+[DiscInfo]
+Title=Информация за Диска
+
+[TrackInfo]
+Title=Информация за Песента
+
+[Log]
+Title=Лог
+OpenOutputFolder=Изходяща Папка
+CreatePlaylist=Създай Плейлист
+
+[Register]
+Title=Регистрация
+Name=Име, Фамилия:
+SN=Сериен Номер:
+Buy=Купи Сега !
+
+[About]
+Title=За EZ MP3 Creator
+Translator=Преведена от Красимир Стойчев
+RegisterTo=Регистрирана:
+Unregistered=Нерегистрирана

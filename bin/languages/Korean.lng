@@ -1,0 +1,163 @@
+;Translator:taewon Yun(saeamdo@hanmail.net)
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=확인
+Cancel=취소
+Close=닫기
+Back=< 뒤로(&B)
+Next=다음(&N) >
+Exit=종료(&X)
+GO=실행!(&G)
+Pause=휴식(&P)
+Resume=재시작(&R)
+Abort=취소(&A)
+Menu=메뉴(&M)
+
+[AudioInfo]
+Title=제목:
+Album=앨범:
+Artist=가수:
+Year=년도:
+Genre=장르:
+Comment=설명:
+TrackTitles=트랙 제목:
+
+[String]    
+NoDriver=(None)
+
+NoTrackSelected=적어도 하나 이상의 트랙을 선택해야합니다!
+NoCDFound=선택한 시디롬 드라이브에는 CD가 없습니다!
+
+CDDBConnect=%s로부터 CD 정보를 복구중입니다...
+CDDBSuccess=CD 정보가 성공적으로 복구되었습니다!
+CDDBFailed=CD 정보 복구 실패!
+
+OutputFolderError=대상 폴더 이름이 틀립니다!
+FileNameRuleError=대상 파일 이름이 틀립니다!
+CreateFolderError=대상 폴더를 만들 수 없습니다!
+
+UnknownArtist=알 수 없는 가수
+UnkonwnAlbum=알 수 없는 앨범
+
+Progress=트랙 진행 중 %d of %d
+
+AbortOperation=이 작업을 그만 두겠습니까?
+
+LogStart=시작...
+LogRip=굽는중 %s...
+LogEncode=인코딩중 %s...
+LogSuccess=성공!
+LogFailed=실패!
+LogCanceled=사용자에 의해 취소됨.
+LogFinish=종료.
+
+RegInfoNotComplete=사용자 등록 정보를 입력하세요!
+RegFailed=등록 번호 틀림!
+RegSuccess=등록해 주셔서 감사합니다!
+
+PlaylistFilter=재생 목록 파일 (*.m3u)
+PlaylistFailed=재생 목록 만들기 실패!
+
+[Main]
+Unregistered=비등록판
+MenuHelp=도움말 목차(&H)
+MenuRegister=등록(&R)...
+MenuAbout=정보(&A)...
+SelectOperation=원하는 작업을 선택하세요:
+SelectCDROM=사용할 시디 드라이브를 선택하세요:
+NoDisc=오디오 시디를 넣으세요!
+Title=제목
+Length=길이
+Size=크기 (M)
+MenuRefresh=새로고침(&R)
+MenuSelectAll=모두 선택(&A)
+MenuSelectNone=선택 취소(&N)
+MenuInverseSelection=선택 반전(&I)
+MenuConfigCDDB=CDDB 설정(&C)
+MenuQueryCDDB=CDDB 전송(&Q)
+MenuEditDiscInfo=디스크 정보 편집(&D)
+MenuEditTrackInfo=트랙 정보 편집(&T)
+MenuClearInfo=정보 삭제(&F)
+ButtonRefresh=새로고침
+ButtonSelectAll=모두 선택
+ButtonSelectNone=선택 취소
+ButtonInverseSelection=선택 반전
+ButtonConfigCDDB=CDDB 설정
+ButtonQueryCDDB=CDDB 전송
+ButtonEditDiscInfo=디스크 정보 편집
+ButtonEditTrackInfo=트랙 정보 편집
+ButtonClearInfo=정보 삭제
+OutputFolder=대상 폴더:
+FileName=파일 이름:
+Priority=우선순위:
+Priority1=가장 낮음
+Priority2=낮음
+Priority3=보통
+Priority4=높음
+Priority5=가장 높음
+WaveOptions=웨이브 출력에 관한 옵션 없음
+DeleteWave=인코딩 후 웨이브 파일 삭제
+Bitrate=진동수:
+From=에서
+To=까지
+AudioMode=오디오 모드:
+AudioMode1=모노
+AudioMode2=스테레오
+AudioMode3=조인트 스테레오
+Quality=품질:
+MP3EnableVBR=VBR 사용
+MP3WriteVBRHeader=VBR 헤더 쓰기
+MP3QualityHint=(0: high, 9: fast)
+ExtractWave=웨이브 파일 추출 중
+EncodeWave=음악 파일 인코딩 중
+TotalProgess=모든 과정
+
+[CDDBConfig]
+Title=CDDB 연결
+Server=서버:
+Script=전송 스크립트:
+Proxy=프락시 사용
+Host=호스트:
+Port=포트:
+Authorization=인증
+Name=이름:
+Password=암호:
+
+[CDDBQuery]
+Title=CDDB 정보
+Save=저장
+
+[CDDBMatch]
+Title=일치하는 디스크
+Hint=데이타베이스에서 일치하는 항목을 찾았습니다, 정확한 항목을 선택하세요.
+DiscTitle=디스크 제목
+Artist=가수
+
+[DiscInfo]
+Title=디스크 정보
+
+[TrackInfo]
+Title=트랙 정보
+
+[Log]
+Title=로그
+OpenOutputFolder=대상 폴더
+CreatePlaylist=재생목록 만들기
+
+[Register]
+Title=등록
+Name=사용자 이름:
+SN=등록 번호:
+Buy=지금 구입!
+
+[About]
+Title=정보
+Translator=English Language File by Linasoft
+RegisterTo=등록 사용자:
+Unregistered=비등록 버젼

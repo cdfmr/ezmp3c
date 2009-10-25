@@ -1,0 +1,162 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=OK
+Cancel=Batal
+Close=Tutup
+Back=< &Kembali
+Next=&Maju >
+Exit=Ke&luar
+GO=&GO!
+Pause=&Tunda
+Resume=&Lanjutkan
+Abort=&Batalkan
+Menu=&Menu
+
+[AudioInfo]
+Title=Judul:
+Album=Album:
+Artist=Artis:
+Year=Tahun:
+Genre=Genre:
+Comment=Comment:
+TrackTitles=Judul Track:
+
+[String]    
+NoDriver=(None)
+
+NoTrackSelected=Anda harus memilih paling tidak satu track!
+NoCDFound=Tidak dapat mendeteksi CD pada CDROM yang anda tentukan!
+
+CDDBConnect=Membaca informasi CD dari %s ...
+CDDBSuccess=Informasi CD berhasil dibaca!
+CDDBFailed=Gagal membaca informasi CD!
+
+OutputFolderError=Folder Output salah!
+FileNameRuleError=Nama file Output salah!
+CreateFolderError=Tidak dapat menciptakan direktori untuk output!
+
+UnknownArtist=Artis tidak diketahui
+UnkonwnAlbum=Album tidak diketahui
+
+Progress=Memproses Processing %d dari %d
+
+AbortOperation=Apakah anda ingin membatalkan proses ini?
+
+LogStart=Memulai...
+LogRip=Ripping %s...
+LogEncode=Encoding %s...
+LogSuccess=Berhasil!
+LogFailed=Gagal!
+LogCanceled=Dibatalkan User.
+LogFinish=Selesai.
+
+RegInfoNotComplete=Tolong masukkan informasi pendaftaran!
+RegFailed=Nomor serial salah!
+RegSuccess=Terimakasih telah mendaftar!
+
+PlaylistFilter=File Play List (*.m3u)
+PlaylistFailed=Gagal membuat play list!
+
+[Main]
+Unregistered=Tak terdaftar
+MenuHelp=&Topik bantuan
+MenuRegister=&Mendaftar...
+MenuAbout=&Tentang...
+SelectOperation=Tolong pilih apa yang ingin anda lakukan:
+SelectCDROM=Please Tolong pilih perangkat CDROM yang ingin digunakan:
+NoDisc=Tolong masukkan audio CD!
+Title=Judul
+Length=Durasi
+Size=Ukuran (M)
+MenuRefresh=&Refresh
+MenuSelectAll=Pilih &Semua
+MenuSelectNone=Tidak &Memilih
+MenuInverseSelection=&Balikkan Pilihan
+MenuConfigCDDB=&Konfigurasi CDDB
+MenuQueryCDDB=&Ringkasan CDDB
+MenuEditDiscInfo=Edit &Informasi CD
+MenuEditTrackInfo=Edit &Informasi Track
+MenuClearInfo=Hapus In&fo
+ButtonRefresh=Refresh
+ButtonSelectAll=Pilih Semua
+ButtonSelectNone=Tidak Memilih
+ButtonInverseSelection=Balikkan Seleksi
+ButtonConfigCDDB=Konfigurasi CDDB
+ButtonQueryCDDB=Ringkasan CDDB
+ButtonEditDiscInfo=Edit Informasi CD
+ButtonEditTrackInfo=Edit Informasi Track
+ButtonClearInfo=Hapus Info
+OutputFolder=Output Folder:
+FileName=Nama File:
+Priority=Prioritas:
+Priority1=Paling Rendah
+Priority2=Rendah
+Priority3=Normal
+Priority4=Tinggi
+Priority5=Paling Tinggi
+WaveOptions=Tidak perlu opsio untuk output wave
+DeleteWave=Hapus file Wave (.wav) setelah Encoding
+Bitrate=Bitrate:
+From=Dari
+To=Ke
+AudioMode=Audio Mode:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Qualitas:
+MP3EnableVBR=Aktifkan VBR
+MP3WriteVBRHeader=Tulis VBR Header
+MP3QualityHint=(0: Tinggi, 9: Cepat)
+ExtractWave=Mengekstrak data Audio
+EncodeWave=Mengencode File Musik
+CurrentTrack=Track saat ini
+TotalProgess=Perkembangan Total
+
+[CDDBConfig]
+Title=Koneksi CDDB
+Server=Server:
+Script=Rangkuman Script:
+Proxy=Aktifkan Proxy
+Host=Host:
+Port=Port:
+Authorization=Authorisasi
+Name=Nama:
+Password=Password:
+
+[CDDBQuery]
+Title=Informasi CDDB
+Save=Simpan
+
+[CDDBMatch]
+Title=CD yang cocok
+Hint=Lebih dari satu CD mungkin cocok dengan yang anda cari, silahkan pilih yang tepat
+DiscTitle=Judul CD
+Artist=Artis
+
+[DiscInfo]
+Title=Informasi CD
+
+[TrackInfo]
+Title=Informasi Track 
+
+[Log]
+Title=Log
+OpenOutputFolder=Output Folder
+CreatePlaylist=Buatkan Playlist
+
+[Register]
+Title=Terdaftar
+Name=Nama Pengguna:
+SN=Nomor Seri:
+Buy=Beli sekarang !
+
+[About]
+Title=Tentang
+Translator=Bahasa Indonesia oleh dwi susanto
+RegisterTo=Terdaftar pada:
+Unregistered=Tak terdaftar

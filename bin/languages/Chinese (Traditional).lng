@@ -1,0 +1,162 @@
+[Font]
+FontName=新細明体
+FontSize=9
+TitleFontName=新細明体
+TitleFontSize=9
+
+[Button]
+OK=确定
+Cancel=取消
+Close=關閉
+Back=< 上一步(&B)
+Next=下一步(&N) >
+Exit=結束(&X)
+GO=開始(&G)
+Pause=暫停(&P)
+Resume=恢复(&R)
+Abort=放棄(&A)
+Menu=功能表(&M)
+
+[AudioInfo]
+Title=標題:
+Album=專輯:
+Artist=歌手:
+Year=年份:
+Genre=風格:
+Comment=注釋:
+TrackTitles=樂曲標題:
+
+[String]  
+NoDriver=(無)
+  
+NoTrackSelected=您沒有選擇任何樂曲!
+NoCDFound=指定的光碟机中沒有音樂 CD!
+
+CDDBConnect=正在連接 %s 獲取 CD 資訊...
+CDDBSuccess=成功獲得 CD 資訊!
+CDDBFailed=無法獲得 CD 資訊!
+
+OutputFolderError=目標資料夾名稱不正确!
+FileNameRuleError=檔案命名規則不正确!
+CreateFolderError=無法創建目標資料夾!
+
+UnknownArtist=未知歌手
+UnkonwnAlbum=未知專輯
+
+Progress=正在處理第 %d 首樂曲,共 %d 首
+
+AbortOperation=确實要放棄正在進行的操作嗎?
+
+LogStart=開始...
+LogRip=抓取 %s ...
+LogEncode=編碼 %s ...
+LogSuccess=成功!
+LogFailed=失敗!
+LogCanceled=用戶取消.
+LogFinish=完成.
+
+RegInfoNotComplete=請輸入完整的注冊資訊!
+RegFailed=錯誤的序列號!
+RegSuccess=非常感謝您的注冊!
+
+PlaylistFilter=播放清單檔案 (*.m3u)
+PlaylistFailed=播放清單創建失敗!
+
+[Main]
+Unregistered=未注冊
+MenuHelp=幫助(&H)
+MenuRegister=注冊(&R)...
+MenuAbout=關于(&A)...
+SelectOperation=請選擇您要進行的操作:
+SelectCDROM=請選擇您要使用的光碟机:
+NoDisc=沒有發現 CD 光碟!
+Title=標題
+Length=長度
+Size=大小(M)
+MenuRefresh=刷新(&R)
+MenuSelectAll=全選(&A)
+MenuSelectNone=全不選(&N)
+MenuInverseSelection=反選(&I)
+MenuConfigCDDB=設置 CDDB(&C)
+MenuQueryCDDB=查詢 CDDB(&Q)
+MenuEditDiscInfo=編輯 CD 資訊(&D)
+MenuEditTrackInfo=編輯樂曲資訊(&T)
+MenuClearInfo=清除資訊(&F)
+ButtonRefresh=刷新
+ButtonSelectAll=全選
+ButtonSelectNone=全不選
+ButtonInverseSelection=反選
+ButtonConfigCDDB=設置 CDDB
+ButtonQueryCDDB=查詢 CDDB
+ButtonEditDiscInfo=編輯 CD 資訊
+ButtonEditTrackInfo=編輯樂曲資訊
+ButtonClearInfo=清除資訊
+OutputFolder=目標資料夾:
+FileName=檔案命名規則:
+Priority=优先順序:
+Priority1=最低
+Priority2=較低
+Priority3=普通
+Priority4=較高
+Priority5=最高
+WaveOptions=輸出 WAVE 檔案時無參數設置
+DeleteWave=編碼之后刪除 WAVE 檔案
+Bitrate=比特率:
+From=從
+To=到
+AudioMode=聲道模式:
+AudioMode1=單聲道
+AudioMode2=身歷聲
+AudioMode3=聯合身歷聲
+Quality=質量:
+MP3EnableVBR=使用 VBR
+MP3WriteVBRHeader=寫入 VBR 頭部資訊
+MP3QualityHint=(0:最高質, 9:最快速)
+ExtractWave=抓取音頻數据
+EncodeWave=編碼音樂檔案
+CurrentTrack=當前樂曲
+TotalProgess=總進度
+
+[CDDBConfig]
+Title=CDDB 連接參數
+Server=伺服器:
+Script=查詢腳本:
+Proxy=使用代理伺服器
+Host=伺服器:
+Port=埠:
+Authorization=代理伺服器需要驗証
+Name=用戶名:
+Password=口令:
+
+[CDDBQuery]
+Title=查詢 CDDB 資訊
+Save=保存
+
+[CDDBMatch]
+Title=選擇 CD 資訊
+Hint=查詢結果不止一條,請選擇正确的一條記錄.
+DiscTitle=CD標題
+Artist=歌手
+
+[DiscInfo]
+Title=CD 資訊
+
+[TrackInfo]
+Title=樂曲資訊
+
+[Log]
+Title=記錄
+OpenOutputFolder=打開資料夾
+CreatePlaylist=創建清單
+
+[Register]
+Title=注冊
+Name=用戶名:
+SN=序列號:
+Buy=購買!
+
+[About]
+Title=關于
+Translator=正体中文翻譯: S.W.O.R.D.B.O.Y
+RegisterTo=注冊給:
+Unregistered=未注冊

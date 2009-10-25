@@ -1,0 +1,143 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=OK
+Cancel=Zaniechaj
+Close=Zamknij
+Back=< &Cofnij
+Next=&Nastêpny >
+Exit=&Wyjœcie
+GO=&START!
+Pause=&Pausa
+Resume=P&owrót
+Abort=P&rzerwij
+Menu=&Menu
+[AudioInfo]
+Title=Tytu³:
+Album=Album:
+Artist=Artysta:
+Year=Rok:
+Genre=Rodzaj:
+Comment=Komentarz:
+TrackTitles=Nazwy œcie¿ek:
+[String]
+NoDriver=(Brak)
+NoTrackSelected=Musisz zaznaczyæ co najmniej jedn¹ œcie¿kê!
+NoCDFound=Brak p³yty w urz¹dzeniu CD/DVD-ROM!
+CDDBConnect=Przesylam dane dla Plyty z %s...
+CDDBSuccess=Dane dla Plyty przeslane poprawnie!
+CDDBFailed=Dane dla Plyty nie zostaly przeslane!
+OutputFolderError=Z³a nazwa katalogu wyjœciowego!
+FileNameRuleError=Z³a nazwa pliku wyjœciowego!
+CreateFolderError=Nie mogê utworzyæ katalogu wyjœciowego!
+UnknownArtist=Nieznany Artysta
+UnkonwnAlbum=Nieznany Album
+Progress=Przetwarzanie œcie¿ki %d z %d
+AbortOperation=Czy na pewno przerwaæ operacjê?
+LogStart=Rozpoczynam...
+LogRip=Zrzucam %s...
+LogEncode=Kodujê %s...
+LogSuccess=Sukces!
+LogFailed=Pora¿ka!
+LogCanceled=Przerwane przez u¿ytkownika.
+LogFinish=Koniec.
+RegInfoNotComplete=WprowadŸ wszystkie potrzebne dane!
+RegFailed=Nieprawid³owy Numer Seryjny!
+RegSuccess=Dziêkujê za rejestracjê!
+PlaylistFilter=Plik Listy plików (*.m3u)
+PlaylistFailed=Nie mo¿na utworzyæ Listy plików!
+[Main]
+Unregistered=Niezarejestrowany
+MenuHelp=Tematy &Pomocy
+MenuRegister=&Rejestruj...
+MenuAbout=&O programie...
+SelectOperation=Wybierz co chcesz zrobiæ:
+SelectCDROM=Wybierz napêd CD/DVD:
+NoDisc=W³ó¿ CD do napêdu CD/DVD!
+Title=Tytu³
+Length=D³ugoœæ
+Size=Rozmiar (M)
+MenuRefresh=&Odœwie¿
+MenuSelectAll=Zaznacz &wszystko
+MenuSelectNone=&Odznacz wszystko
+MenuInverseSelection=O&dwróæ zaznaczenie
+MenuConfigCDDB=&Konfiguruj CDDB
+MenuQueryCDDB=&Pobierz dane CDDB
+MenuEditDiscInfo=Edytuj Info &Dysku
+MenuEditTrackInfo=Edytuj Info &œcie¿ki
+MenuClearInfo=&Usuñ Info
+ButtonRefresh=Odœwie¿
+ButtonSelectAll=Zaznacz wszystko
+ButtonSelectNone=Odznacz wszystko
+ButtonInverseSelection=Odwróæ zaznaczenie
+ButtonConfigCDDB=Konfiguruj CDDB
+ButtonQueryCDDB=Pobierz dane CDDB
+ButtonEditDiscInfo=Edytuj Info P³yty
+ButtonEditTrackInfo=Edytuj Info œcie¿ki
+ButtonClearInfo=Usuñ Info
+OutputFolder=Katalog docelowy:
+FileName=Nazwa pliku:
+Priority=Priorytet:
+Priority1=Najni¿szy
+Priority2=Ni¿szy
+Priority3=Normalny
+Priority4=Wy¿szy
+Priority5=Najwy¿szy
+WaveOptions=Brak opcji dla wyjœcia typu wav
+DeleteWave=Usuñ pliki *.wav po przetworzeniu
+Bitrate=Bitrate:
+From=Z
+To=Do
+AudioMode=Tryb Audio:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Jakoœæ:
+MP3EnableVBR=W³¹cz VBR
+MP3WriteVBRHeader=Zapisz nag³ówek VBR
+MP3QualityHint=(0: jakoœæ, 9:szybkoœæ)
+ExtractWave=Zapisujê œcie¿ki na dysk
+EncodeWave=Kodujê pliki z dysku
+TotalProgess=Postêp ca³kowity
+[CDDBConfig]
+Title=Polaczenie CDDB
+Server=Serwer:
+Script=Skrypt:
+Proxy=W³¹cz Proxy
+Host=Host:
+Port=Port:
+Authorization=Autoryzacja
+Name=Login:
+Password=Has³o:
+[CDDBQuery]
+Title=Informacja CDDB
+Save=Zapisz
+[CDDBMatch]
+Title=Pasujace tytuly
+Hint=Znaleziono wiêcej ni¿ jeden pasuj¹cy tytu³ w bazie danych, wybierz jeden z poni¿szych.
+DiscTitle=Tytu³ P³yty
+Artist=Artysta
+[DiscInfo]
+Title=Inormacja o Plycie
+[TrackInfo]
+Title=Informacja o sciezce
+[Log]
+Title=Log
+OpenOutputFolder=Katalog docel.
+CreatePlaylist=Utwórz plik Listy
+[Register]
+Title=Rejestruj
+Name=Nazwa u¿ytk.:
+SN=Numer seryjny:
+Buy=Kup Teraz !
+[About]
+Title=O programie
+Translator=Polskie t³umaczenie przez gregoryi (ic3man)
+RegisterTo=Zarejestrowany:
+Unregistered=Niezarejestrowany

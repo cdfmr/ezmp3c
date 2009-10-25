@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=OK
+Cancel=Cancella
+Close=Chiudi
+Back=< &Indietro
+Next=&Avanti >
+Exit=E&sci
+GO=&VAI!
+Pause=&Pausa
+Resume=&Riprendi
+Abort=&Cancella
+Menu=&Menu
+
+[AudioInfo]
+Title=Titolo:
+Album=Album:
+Artist=Artista:
+Year=Anno:
+Genre=Genere:
+Comment=Commento:
+TrackTitles=Titoli Traccia:
+
+[String]    
+NoDriver=(Nessuno)
+
+NoTrackSelected=Devi selezionare almeno una traccia!
+NoCDFound=Non riesco a trovare un CD nell'unità CD Rom selezionata!
+
+CDDBConnect=Recupera le informazioni del CD da %s ...
+CDDBSuccess=Informazioni  recuperate con successo!
+CDDBFailed=Fallito il recupero delle informazioni!
+
+OutputFolderError=Il nome della cartella di uscita non è valido!
+FileNameRuleError=Il nome del file di uscita non è valido!
+CreateFolderError=Non posso creare la cartella di output!
+
+UnknownArtist=Artista sconosciuto
+UnkonwnAlbum=Album sconosciuto
+
+Progress=Traccia%d di %d
+
+AbortOperation=Vuoi veramente terminare l'operazione?
+
+LogStart=Partenza...
+LogRip=Estrazione %s...
+LogEncode=Codifica %s...
+LogSuccess=Tutto bene!
+LogFailed=Fallito!
+LogCanceled=Cancellato dall'utente.
+LogFinish=Finito.
+
+RegInfoNotComplete=Inserisci le informazioni di registrazione.
+RegFailed=Numero di serie non valido!
+RegSuccess=Grazie per esserti registrato!
+
+PlaylistFilter=File di Play List (*.m3u)
+PlaylistFailed=Fallita la creazione di Play List!
+
+[Main]
+Unregistered=Non registrato
+MenuHelp=&Aiuto...
+MenuRegister=&Registrazione...
+MenuAbout=&A proposito di...
+SelectOperation=Seleziona l'operazione desiderata.
+SelectCDROM=Seleziona l'unità CD Rom che desideri usare.
+NoDisc=Inserisci un CD Audio!
+Title=Titolo
+Length=Durata
+Size=Dimensioni (M)
+MenuRefresh=&Aggiorna
+MenuSelectAll=Seleziona &Tutto
+MenuSelectNone=Deseleziona &Tutto
+MenuInverseSelection=&Inverti la selezione
+MenuConfigCDDB=&Configura CDDB
+MenuQueryCDDB=&Interroga CDDB
+MenuEditDiscInfo=Edita &Le informazioni del disco
+MenuEditTrackInfo=Edita &Le informazioni della traccia
+MenuClearInfo=Cancella In&fo
+ButtonRefresh=Aggiorna
+ButtonSelectAll=Seleziona tutto
+ButtonSelectNone=Deseleziona tutto
+ButtonInverseSelection=Inverti la selezione
+ButtonConfigCDDB=Configura CDDB
+ButtonQueryCDDB=Interroga CDDB
+ButtonEditDiscInfo=Edita Info CD 
+ButtonEditTrackInfo=Edita Info Traccia
+ButtonClearInfo=Cancella Info
+OutputFolder=Cartella di uscita:
+FileName=Nome file:
+Priority=Priorità:
+Priority1=Più bassa
+Priority2=Bassa
+Priority3=Normale
+Priority4=Alta
+Priority5=Più alta
+WaveOptions=Nessuna opzione per l'uscita Wav
+DeleteWave=Cancella il file Wav dopo la codifica
+Bitrate=Bitrate:
+From=Da
+To=a
+AudioMode=Modo Audio:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Qualità:
+MP3EnableVBR=Abilita VBR
+MP3WriteVBRHeader=Scrivi le informazioni VBR
+MP3QualityHint=(0: Alta, 9: Veloce)
+ExtractWave=Estrazione dati Wav
+EncodeWave=Codifica 
+TotalProgess=Progresso totale
+
+[CDDBConfig]
+Title=Connessione CDDB
+Server=Server:
+Script=Query Script:
+Proxy=Abilita Proxy
+Host=Host:
+Port=Porta:
+Authorization=Autorizzazione
+Name=Nome:
+Password=Password:
+
+[CDDBQuery]
+Title=Informazioni CDDB
+Save=Salva
+
+[CDDBMatch]
+Title=Risultati ricerca
+Hint=Più di una voce è stata trovata nel Database; scegli la più corretta per il CD corrente
+DiscTitle=Titolo CD
+Artist=Artista
+
+[DiscInfo]
+Title=Info CD
+
+[TrackInfo]
+Title=Info traccia
+
+[Log]
+Title=Log
+OpenOutputFolder=Cartella
+CreatePlaylist=Crea Play List
+
+[Register]
+Title=Registra
+Name=Nome utente:
+SN=Numero di serie:
+Buy=Comprami!
+
+[About]
+Title=A proposito di:
+Translator=Traduzione di Alterugo (alterugo@inwind.it)
+RegisterTo=Registrato a:
+Unregistered=Non registrato

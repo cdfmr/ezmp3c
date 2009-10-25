@@ -1,0 +1,21 @@
+EZ MP3 Creator is licensed under GNU GENERAL PUBLIC LICENSE V2,
+see COPYING file.
+
+The license of other part in this project is described below:
+
+1) AKRip32 is licensed under GNU LESSER GENERAL PUBLIC LICENSE
+   http://akrip.sourceforge.net
+
+2) GOGO is licensed under GNU LIBRARY GENERAL PUBLIC LICENSE
+   http://homepage1.nifty.com/herumi/gogo_e.html
+
+3) Ogg Vorbis is copyrighted by Xiph.org Foundation
+   http://www.xiph.org
+
+4) Windows Media Audio is copyrighted by Microsoft
+   http://www.microsoft.com
+   
+5) FlatStyle is copyrighted by flatstyle.de
+   http://www.flatstyle.de
+   
+6) MCDPlayer is copyrighted by MichaL MutL

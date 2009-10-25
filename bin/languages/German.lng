@@ -1,0 +1,143 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=OK
+Cancel=Abbrechen
+Close=Schließen
+Back=< &Zurück
+Next=&Weiter >
+Exit=&Beenden
+GO=&Start!
+Pause=&Pause
+Resume=&Fortsetzen
+Abort=&Abbrechen
+Menu=&Menü
+[AudioInfo]
+Title=Titel:
+Album=Album:
+Artist=Interpret:
+Year=Jahr:
+Genre=Genre:
+Comment=Kommentar:
+TrackTitles=Track-Titel:
+[String]
+NoDriver=(kein)
+NoTrackSelected=Sie müssen mindestens einen Track auswählen!
+NoCDFound=Im Laufwerk wurde keine CD gefunden!
+CDDBConnect=CD-Information wird abgerufen von %s ...
+CDDBSuccess=CD-Information erfolgreich abgerufen!
+CDDBFailed=Abruf der CD-Informationen fehlgeschlagen!
+OutputFolderError=Name des Output-Ordners fehlerhaft!
+FileNameRuleError=Output-Dateiname ist ungültig!
+CreateFolderError=Kann kein Output-Verzeichnis erstellen!
+UnknownArtist=Unbekannter Interpret
+UnkonwnAlbum=Unbekanntes Album
+Progress=Track wird verarbeitet %d von %d
+AbortOperation=Wollen Sie diesen Vorgang abbrechen?
+LogStart=Start...
+LogRip=Ripping %s...
+LogEncode=Enkodieren %s...
+LogSuccess=Erfolgreich!
+LogFailed=Fehlgeschlagen!
+LogCanceled=Abbruch durch den Benutzer.
+LogFinish=Beendet.
+RegInfoNotComplete=Bitte tragen Sie Ihre Registrierungs-Daten ein!
+RegFailed=Falsche Seriennummer!
+RegSuccess=Vielen Dank für Ihre Registrierung!
+PlaylistFilter=Wiedergabeliste (*.m3u)
+PlaylistFailed=Erstellen der Wiedergabeliste fehlgeschlagen!
+[Main]
+Unregistered=unregistriert
+MenuHelp=&Hilfethemen
+MenuRegister=&Registrierung...
+MenuAbout=&Info...
+SelectOperation=Option auswählen
+SelectCDROM=CDROM-Laufwerk auswählen
+NoDisc=Bitte legen Sie eine Audio-CD ein!
+Title=Titel
+Length=Länge
+Size=Größe (M)
+MenuRefresh=%Atualisieren
+MenuSelectAll=Alles &auswählen
+MenuSelectNone=&nichts auswählen
+MenuInverseSelection=Auswahl &umkehren
+MenuConfigCDDB=CDDB &konfigurieren
+MenuQueryCDDB=CDDB &durchsuchen
+MenuEditDiscInfo=&Diskinfo bearbeiten
+MenuEditTrackInfo=&Track-Info bearbeiten
+MenuClearInfo=In&fo löschen
+ButtonRefresh=Aktualisieren
+ButtonSelectAll=Alles auswählen
+ButtonSelectNone=Auswahl aufheben
+ButtonInverseSelection=Auswahl umkehren
+ButtonConfigCDDB=CDDB konfigurieren
+ButtonQueryCDDB=CDDB durchsuchen
+ButtonEditDiscInfo=DiskInfo bearbeiten
+ButtonEditTrackInfo=TrackInfo bearbeiten
+ButtonClearInfo=Info löschen
+OutputFolder=Output-Ordner:
+FileName=Dateiname:
+Priority=Priorität:
+Priority1=sehr niedrig
+Priority2=niedrig
+Priority3=normal
+Priority4=hoch
+Priority5=sehr hoch
+WaveOptions=Keine Optionen für Wave-Output
+DeleteWave=Wave-Dateien nach dem Enkodieren löschen
+Bitrate=Bitrate:
+From=von
+To=bis
+AudioMode=AudioModus:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Qualität:
+MP3EnableVBR=VBR ermöglichen
+MP3WriteVBRHeader=VBR Header schreiben
+MP3QualityHint=(0: hoch, 9: schnell)
+ExtractWave=Wave-Daten extrahieren
+EncodeWave=Musik-Dateien enkodieren
+TotalProgess=Absoluter Fortschritt
+[CDDBConfig]
+Title=CDDB Verbindung
+Server=Server:
+Script=Such-String:
+Proxy=Proxy verwenden
+Host=Host:
+Port=Port:
+Authorization=Authorisation
+Name=Name:
+Password=Paßwort:
+[CDDBQuery]
+Title=CDDB Information
+Save=Speichern
+[CDDBMatch]
+Title=Disk stimmt überein
+Hint=Mehr als eine Übereinstimmung wurden in der Datenbank gefunden, bitte wählen Sie die richtige aus.
+DiscTitle=Albumtitel
+Artist=Interpret
+[DiscInfo]
+Title=CD-Information
+[TrackInfo]
+Title=Track-Information
+[Log]
+Title=Log
+OpenOutputFolder=Output-Ordner
+CreatePlaylist=Wiedergabeliste erstellen
+[Register]
+Title=Registrieren
+Name=Benutzer-Name:
+SN=Seriennummer:
+Buy=Jetzt kaufen!
+[About]
+Title=Info
+Translator=Deutsche Übersetzung von Jutta Steckeweh
+RegisterTo=Registriert für:
+Unregistered=unregistriert

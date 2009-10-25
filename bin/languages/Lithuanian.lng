@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=OK
+Cancel=Atðaukti
+Close=Uþdaryti
+Back=< &Atgal
+Next=&Toliau >
+Exit=Iðeiti
+GO=&Pirmyn!
+Pause=&Pauzë
+Resume=&Tæsti
+Abort=&Nutraukti
+Menu=&Meniu
+
+[AudioInfo]
+Title=Antraðtë:
+Album=Albumas:
+Artist=Atlikëjas:
+Year=Metai:
+Genre=Þanras:
+Comment=Komentarai:
+TrackTitles=Takelio Antraðtë:
+
+[String]    
+NoDriver=(Nieko)
+
+NoTrackSelected=Turite pasirinkti bent vienà takelá!
+NoCDFound=Nerandu CD pasirinktame CD grotuve!
+
+CDDBConnect=Renku CD informacijà ið %s ...
+CDDBSuccess=CD informacija surinkta sëkmingai!
+CDDBFailed=Negaliu surinkti CD informacijos!
+
+OutputFolderError=Paskirties aplanko pavadinimas klaidingas!
+FileNameRuleError=Paskirties bylos pavadinimas klaidingas!
+CreateFolderError=Negaliu sukurti paskirties aplanko!
+
+UnknownArtist=Neþinomas Atlikëjas
+UnkonwnAlbum=Neþinomas Albumas
+
+Progress=Apdorojamas Takelis %d ið %d
+
+AbortOperation=Ar jûs norite nutraukti procesà?
+
+LogStart=Pradedu...
+LogRip=Kopijuoju %s...
+LogEncode=ðifruoju %s...
+LogSuccess=Sëkmingai!
+LogFailed=Klaida!
+LogCanceled=Vartotojo nutraukta.
+LogFinish=Baigta.
+
+RegInfoNotComplete=Praðau ávesti savo registracinius duomenis!
+RegFailed=Klaidingas serijinis numeris!
+RegSuccess=Dëkojame uþ registracijà!
+
+PlaylistFilter=Grojaraðèio byla (*.m3u)
+PlaylistFailed=Negaliu sukurti grojaraðèio bylos!
+
+[Main]
+Unregistered=Neregistruota
+MenuHelp=&Aktuali Pagalba
+MenuRegister=&Registruotis...
+MenuAbout=&Apie...
+SelectOperation=Pasirinkite procesà kurá norite vykdyti:
+SelectCDROM=Pasirinkite CD grotuvà kurá norite naudoti:
+NoDisc=Praðau ádëti muzikiná CD!
+Title=Antraðtë
+Length=Ilgis
+Size=Dydis (M)
+MenuRefresh=&Atnaujinti
+MenuSelectAll=Pasirinkti &Viskà
+MenuSelectNone=Pasirinkti &Nieko
+MenuInverseSelection=&Atvirkðtinis Þymëjimas
+MenuConfigCDDB=&Konfigûruoti CDDB
+MenuQueryCDDB=&Uþklausti CDDB
+MenuEditDiscInfo=Redaguoti &Disko Info
+MenuEditTrackInfo=Redaguoti &Takelio Info
+MenuClearInfo=Iðvalyti In&fo
+ButtonRefresh=Atnaujinti
+ButtonSelectAll=Pasirinkti Viskà
+ButtonSelectNone=Pasirinkti Nieko
+ButtonInverseSelection=Atvirkðtinis Þymëjimas
+ButtonConfigCDDB=Konfigûruoti CDDB
+ButtonQueryCDDB=Uþklausti CDDB
+ButtonEditDiscInfo=Redaguoti Disko Info
+ButtonEditTrackInfo=Redaguoti Takelio Info
+ButtonClearInfo=Iðvalyti Info
+OutputFolder=Paskirties Aplankas:
+FileName=Bylos Pavadinimas:
+Priority=Prioritetas:
+Priority1=Þemiausias
+Priority2=Þemesnis
+Priority3=Normalus
+Priority4=Aukðtesnis
+Priority5=Aukðèiausias
+WaveOptions=Wave paskirèiai nëra pasirinkimo
+DeleteWave=Trinti Wave bylas po ðifravimo
+Bitrate=Bitrate:
+From=ið
+To=á
+AudioMode=Audio reþimas:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Sujungtas Stereo
+Quality=Kokybë:
+MP3EnableVBR=Ájungti VBR
+MP3WriteVBRHeader=Raðyti VBR Header
+MP3QualityHint=(0: aukðta, 9: greita)
+ExtractWave=Iðgaunami Wave Duomenys
+EncodeWave=Ðifruojamos Muzikinës Bylos
+TotalProgess=Bendras Progresas
+
+[CDDBConfig]
+Title=CDDB Ryðys
+Server=Serveris:
+Script=Klausimo Braiþas:
+Proxy=Ájungti Proxy
+Host=Host:
+Port=Port:
+Authorization=Authorization
+Name=Vardas:
+Password=Slaptaþodis:
+
+[CDDBQuery]
+Title=CDDB Informacija
+Save=Uþsaugoti
+
+[CDDBMatch]
+Title=Diskø Poros
+Hint=duomenø bazëje rasta daugiau nei viena galima diskø pora, pasirinkite vienà teisingà.
+DiscTitle=Disko Antraðtë
+Artist=Atlikëjas
+
+[DiscInfo]
+Title=Disko Informacija
+
+[TrackInfo]
+Title=Takelio Informacija
+
+[Log]
+Title=Log
+OpenOutputFolder=Paskirties Aplankas
+CreatePlaylist=Sukurti Grojaraðtá
+
+[Register]
+Title=Registruotis
+Name=Vartotojo Vardas:
+SN=Serijinis Numeris:
+Buy=Pirk !
+
+[About]
+Title=Apie
+Translator=Lietuviø kalba by Petro Vedecko
+RegisterTo=Registruota:
+Unregistered=Neregistruota

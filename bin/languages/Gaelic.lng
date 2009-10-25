@@ -1,0 +1,144 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=Ceart%n
+Cancel=Cealaigh
+Close=Dún
+Back=< &Ar Ais
+Next=&Earc Luachra >
+Exit=Slí Amach
+GO=Gabh
+Pause=Fán
+Resume=Atosaigh
+Abort=Stop
+Menu=Clár
+[AudioInfo]
+Title=Teideal:
+Album=Albám:
+Artist=Ceoltóir(í):
+Year=Bliain:
+Genre=Earnáil:
+Comment=Trácht:
+TrackTitles=Teideal Trác:
+[String]
+NoDriver=(Níl Aon Ceann)
+NoTrackSelected=Ar lú chaithaigh tú aon trác a roghnaigh!
+NoCDFound=Níl aon dlúthdhiosca sa dlúthdhiosca-léimhamháin a rogh tú!
+CDDBConnect=Ag aisghabh eolas ar dlúthdiosca ó  %s ...
+CDDBSuccess=Bhí an aisgabh eolas dlúthdiosca rathúil!
+CDDBFailed=Bhí an aisgeabh eolas dlúthdiosca cliseadh!
+OutputFolderError=Áschur filteán mí céart!
+FileNameRuleError=Áschur anim-comhaid mí ceart!
+CreateFolderError=Níl cruthaigh áschur eolaire!
+UnknownArtist=Ceoltóir Anaithnid
+UnkonwnAlbum=Albam Anaithnid
+Progress=Próiseáil Trác
+AbortOperation=Ar maith leat deireadh a chur leis an oibriú?
+LogStart=Ag Thósaigh...
+LogRip=Ag Roiseadh %s...
+LogEncode=Encoding %s...
+LogSuccess=Conách!
+LogFailed=Theip ar!
+LogCanceled=Úsáideoir cealaigh.
+LogFinish=Críoch.
+RegInfoNotComplete=Cuir isteach do eolas clárú más é do thoil é!
+RegFailed=Sraithuimhir mí ceart!
+RegSuccess=Gúr raibh maith agat le do clárú
+PlaylistFilter=Liost-imir comhad (*.m3u)
+PlaylistFailed=Theip ag cruthaigh liost-imir!
+[Main]
+Unregistered=Neamhchláraithe
+MenuHelp=&Cabhair Ábhar
+MenuRegister=&Cláraigh ...
+MenuAbout=&Faoi...
+SelectOperation=Togair cád a maith leat a deaneamh más é do thoil é:
+SelectCDROM=Togair an dlúthdhiosca-léimhamháin a maith leat a usáid más é do thoil é:
+NoDisc=Cuir isteach dlúthdiosca closaigh!
+Title=Teideal
+Length=Fád
+Size=Méid (M)
+MenuRefresh=&úraigh
+MenuSelectAll=Togair &Gach Uile
+MenuSelectNone=Togair &Aon Ceann
+MenuInverseSelection=&
+MenuConfigCDDB=&Cumraíocht Dlúthdioscaí DB
+MenuQueryCDDB=&Ceist Dlúthdioscaí DB
+MenuEditDiscInfo=Athraigh &Diosca Eolas
+MenuEditTrackInfo=Athraigh &Trác Eolas
+MenuClearInfo=Glán Eolas
+ButtonRefresh=Úraigh
+ButtonSelectAll=Togair Gach Uile
+ButtonSelectNone=Togair Aon Ceann
+ButtonInverseSelection=Inverse Selection
+ButtonConfigCDDB=cumraíocht
+ButtonQueryCDDB=Ceist
+ButtonEditDiscInfo=Athraigh Diosca Eolas
+ButtonEditTrackInfo=Athraigh Trác Eolas
+ButtonClearInfo=Glán Eolas
+OutputFolder=Áschur Filteán:
+FileName=Áschur Anim-comhaid:
+Priority=Tosaíocht
+Priority1=Is Lú
+Priority2=Níos Lú
+Priority3=Gnáth
+Priority4=Níos Mó
+Priority5=Is Mó
+WaveOptions=Níl aon roghanna le tonntracha áschur
+DeleteWave=Scríos comhad tonntracha tar eís !"£$%^&*(
+Bitrate=Giota-ráta
+From=Ó
+To=Go
+AudioMode=Modha Closaigh
+AudioMode1=Mono
+AudioMode2=Steiréafón
+AudioMode3=Siúnta Steiréafón
+Quality=Cáilíocht:
+MP3EnableVBR=Chumas VBR
+MP3WriteVBRHeader=Scríobh
+MP3QualityHint=(0: árd, 9: tapa)
+ExtractWave=Úsc Closdálaí
+EncodeWave=Códála Céol Comhad
+CurrentTrack=Cúrsaí Trác
+TotalProgess=Iomlán lamhá
+[CDDBConfig]
+Title=Dlúthdiosca DB cónasc
+Server=Freastalaí:
+Script=Ceist Script:
+Proxy=Enable Proxy
+Host=Óstach:
+Port=Iompar Trasna:
+Authorization=Údarú
+Name=Ainm:
+Password=focal faire:
+[CDDBQuery]
+Title=Dlúthdiosca DB eolas
+Save=Sábháil
+[CDDBMatch]
+Title=Diosca Meaitseáil
+Hint=Níos mó ná meaitseáil amhain fuairthe sa bunachar sonraí, togair an ceann ceart más é do thoil é.
+DiscTitle=Tideal Diosca
+Artist=Ceolteor
+[DiscInfo]
+Title=Eolas Diosca
+[TrackInfo]
+Title=Eolas Trác
+[Log]
+Title=Logartam
+OpenOutputFolder=Áschur Filteán
+CreatePlaylist=Cruthaigh liost-imir
+[Register]
+Title=Cláraigh
+Name=Úsáideoir Ainm
+SN=Sraithuimhir
+Buy=Ceannaigh Anois!
+[About]
+Title=Faoi
+Translator=Comhad Gaelgie as mappers
+RegisterTo=Clárú chun:
+Unregistered=Neamhchláraithe

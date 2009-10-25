@@ -1,0 +1,142 @@
+ Translation made with Omar yacoup (omar_yacoup@yahoo.com)
+
+[Font]
+FontName=äæÚ ÇáÎØ
+FontSize=ÍÌã ÇáÎØ
+TitleFontName=äæÚ ÇáÎØ
+TitleFontSize=äæÚ ÍÌã ÇáÎØ
+[Button]
+OK=äÚã
+Cancel=ÇáÛÇÁ
+Close=ÇÛáÇŞ
+Back=ÚæÏÉ
+Next=ÇáÊÇáí
+Exit=ÎÑæÌ
+GO=ÇĞåÈ
+Pause=ÊæŞİ
+Resume=ãÊÇÈÚÉ
+Abort=ÇáÛÇÁ
+Menu=ÇáãÍÊæíÇÊ
+[AudioInfo]
+Title=Title
+Album=ÇáÈæã
+Artist=ÇáİäÇä
+Year=ÓäÉ
+Genre=äãØ
+Comment= ãáÇÍÙÉ
+TrackTitles=ÚäæÇä ÇáÊÑÇß
+[String]
+NoDriver=áÇíæÌÏ ÏÑÇíİ
+NoTrackSelected=áã íÊã ÊÍÏíÏ ÊÑÇß
+NoCDFound=áÇíæÌÏ Óí Ïí
+CDDBConnect=ÇÓÊÑÌÇÚ ãÚáæãÇÊ ÇáÓí Ïí
+CDDBSuccess=äÌÇÍ ÇÓÊÑÌÇÚ ÇáãÚáæãÇÊ
+CDDBFailed=İÔá  ÇÓÊÑÌÇÚ ÇáãÚáæãÇÊ
+OutputFolderError=áÇíæÌÏ ÇÓã ááãáİ ÇáÎÇÑÌí
+FileNameRuleError=áÇíæÌ ÇÓã ÈÇáİÇíá ÇáÎÇÑÌí
+CreateFolderError=áÇíãßä ÇäÔÇÁ Ïáíá
+UnknownArtist=İäÇä ÛíÑ ãÚÑæİ
+UnkonwnAlbum=ÇáÈæã ÛíÑ ãÚÑæİ
+Progress=Progressing
+AbortOperation=ÇáÛÇÁ ÇáÚãáíÉ
+LogStart=ÇÈÏÇ
+LogRip=ÇäŞÓÇã
+LogEncode=ÊÍæíá 
+LogSuccess=äÌÇÍ
+LogFailed=İÔá
+LogCanceled=Êã ÇáÛÇÁ
+LogFinish=ÇäÊåÇÁ
+RegInfoNotComplete=ÇáÑÌÇÁ ÇÏÎÇá ãÚáæãÇÊ ÇáÊÓÌíá
+RegFailed=ÇáÑŞã ÇáãÊÓáÓá ÛíÑ ÕÍíÍ
+RegSuccess=Êã ÇáÊÓÌíá ÈäÌÇÍ
+PlaylistFilter=ÊÔÛíá ŞÇÆãÉ
+PlaylistFailed=ÎØÃ ÊÔÛíá ÇáŞÇÆãÉ
+[Main]
+Unregistered=Unregistered
+MenuHelp=ÇáãÓÇÚÏÉ
+MenuRegister=ÊÓÌíá ÇáÈÑäÇãÌ
+MenuAbout=Úä ÇáãäÊÌ
+SelectOperation=ÇÎÊÇÑ ÇáÚãáíÉ ÇáÊí ÊÑíÏ
+SelectCDROM=ÇÎÊÇÑ ÇáÏÑÇíİ
+NoDisc=áÇíæÌÏ ÏÓß
+Title=ÇáÚäæÇä
+Length=ÇáãÓÇÍÉ
+Size=ÍÌã
+MenuRefresh=ÊäÔíØ 
+MenuSelectAll=ÊÖáíá Çáßá
+MenuSelectNone=Öáá áÇÔíÁ
+MenuInverseSelection=ÊÑÇÌÚ Úä ÊÖáíá
+MenuConfigCDDB=ÊÑÊíÈ
+MenuQueryCDDB=ÍİÙ ãÚáæãÇÊ Úä ÇáÊÑÇß
+MenuEditDiscInfo=ÊÚÏíá &ãÚáæãÇÊ ÇáÏÓß
+MenuEditTrackInfo=ÊÚÏíá&ãÚáæãÇÊ ÇáÊÑÇß
+MenuClearInfo=ãÓÍ ÇáãÚáæãÇÊ
+ButtonRefresh=ÊÍÏíË
+ButtonSelectAll=ÊÖáíá Çáßá
+ButtonSelectNone=Öáá áÇÔíÁ
+ButtonInverseSelection=ÊÑÇÌÚ Úä  ÊÖáíá 
+ButtonConfigCDDB=ÊÑÊíÈ
+ButtonQueryCDDB=ÍİÙ ÇáãÚáæãÇÊ Úä ÇáãÓÊÎÏã
+ButtonEditDiscInfo=ÊÚÏíá&ãÚáæãÇÊ ÇáÏÓß
+ButtonEditTrackInfo=ÊÚÏíá&ãÚáæãÇÊ ÇáÊÑÇß
+ButtonClearInfo=ãÓÍ
+OutputFolder=Çáãáİ ÇáÎÇÑÌí
+FileName=ÇÓã Çáãáİ
+Priority=ÇæáæíÉ
+Priority1=ãäÎİÖ
+Priority2=ÎÇİÖ
+Priority3=ØÈíÚí
+Priority4=ÚÇáí
+Priority5=ÚÇáí ÌÏÇ
+WaveOptions=No options for wave output
+DeleteWave=ÍĞİ Çáæíİ
+Bitrate=ÈÇíÊ
+From=ãä
+To=Çáí
+AudioMode=äãØ ÇáÇæÏíæ
+AudioMode1=ãæäæ
+AudioMode2=ÓÊíÑíæ
+AudioMode3=ÓÊíÑíæ ãÏãÌ
+Quality=ÇáäæÚíÉ
+MP3EnableVBR=vbr İÊÍ
+MP3WriteVBRHeader=äÓÎ  ßÊÇÈÉ 
+MP3QualityHint=ÚÇáì ,ÓÑíÚ
+ExtractWave=ÊİÑíÛ Çáæíİ
+EncodeWave=ÊÍæíá İÇíá ÇáãæÓíŞí
+TotalProgess=ÇáãÌãæÚ
+[CDDBConfig]
+Title=CDBB ÇÊÕÇá
+Server=ÓíÑİÑ
+Script=ÓßÑÈÊ
+Proxy=İÊÍ ÇáÈÑæßÓí
+Host=HOST ÇáãÖíİ
+Port=ÈæÑÊ
+Authorization=ãÓãæÍ
+Name=ÇáÇÓã
+Password=ßáãÉ ÇáÓÑ
+[CDDBQuery]
+Title=CDBB ãÚáæãÇÊ
+Save=ÍİÙ
+[CDDBMatch]
+Title=ÊÔÇÈÉ İí ÇáÏÓß
+Hint=ÇßËÑ ãä äÏ æÌÏ ÇáÑÌÇÁ ÇÎÊíÇÑ ÇáÕÍíÍ
+DiscTitle=ÚäæÇä ÇáÏÓß
+Artist=İäÇä
+[DiscInfo]
+Title=ãÚáæãÇÊ ÇáÏÓß
+[TrackInfo]
+Title=ãÚáæãÇÊ ÇáÊÑÇß
+[Log]
+Title=log
+OpenOutputFolder=Çáãáİ ÇáÎÇÑÌí
+CreatePlaylist=ÇäÔÇÁ ŞÇÆãÉ
+[Register]
+Title=Register
+user Name =None
+SN=ÇáÑŞã ÇáãÊÓáÓá
+Buy=ÇÔÊÑí ÇáÇä
+[About]
+Title=About EZ MP3 Creator
+Translator=Made By Omar Yacoup
+RegisterTo=Register to:
+Unregistered=Unregistered

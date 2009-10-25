@@ -1,0 +1,140 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=OK
+Cancel=Zrušit
+Close=Zavøít
+Back=< &Zpìt
+Next=&Další >
+Exit=&Konec
+GO=&Spus
+Pause=&Pauza
+Resume=Pokraè&uj
+Abort=Pøe&ruš
+Menu=&Menu
+[AudioInfo]
+Title=Název:
+Album=Album:
+Artist=Umìlec:
+Year=Rok:
+Genre=ánr:
+Comment=Komentáø
+TrackTitles=Názvy stop:
+[String]
+NoDriver=(Není)
+NoTrackSelected=Musíte vybrat nejménì jednu stopu!
+NoCDFound=Nemohu najít CD ve vybrané CD ROM mechanice!
+CDDBConnect=Získávám informace z %s ...
+CDDBSuccess=Informace o CD staeny!
+CDDBFailed=Nemohu najít informace o CD!
+OutputFolderError=Jméno cílové sloky je neplatné!
+FileNameRuleError=Jméno cílového souboru je neplatné!
+CreateFolderError=Nemohu vytvoøit cílovı adresáø!
+UnknownArtist=Neznámı umìlec
+UnkonwnAlbum=Neznámé album
+Progress=Prùbìh stopy %d z %d
+AbortOperation=Chcete pøerušit operaci?
+LogStart=Zaèínám...
+LogRip=Stahuji %s...
+LogEncode=Pøevádím %s...
+LogSuccess=Hotovo!
+LogFailed=Operace se nezdaøila!
+LogCanceled=Zrušeno uivatelem.
+LogFinish=Hotovo.
+RegInfoNotComplete=Prosím zadejte vaše registraèní údaje!
+RegFailed=Neplatné sériové èíslo!
+RegSuccess=Dìkujeme za vaši registraci!
+PlaylistFilter=Seznam skladeb (*.m3u)
+PlaylistFailed=Nepodaøilo se mi vytvoøit seznam skladeb!
+[Main]
+Unregistered=Nezaregistrováno
+MenuHelp=&Témata nápovìdy
+MenuRegister=&Registrace...
+MenuAbout=&O programu
+SelectOperation=Vyberte akci, kterou chcete provést:
+SelectCDROM=Vyberte jednotku CD ROM, kterou chcete pouít:
+NoDisc=Prosím vlote audio CD!
+Title=Název
+Length=Délka
+Size=Velikost (M)
+MenuRefresh=&Obnov
+MenuSelectAll=Vyber &Vše
+MenuSelectNone=&Zruš vıbìr
+MenuInverseSelection=Otoè vıbì&r
+MenuConfigCDDB=&Konfigurace CDDB
+MenuQueryCDDB=&Dotaz CDDB
+MenuEditDiscInfo=&Uprav informace o disku
+MenuEditTrackInfo=Uprav informace o &stopì
+MenuClearInfo=V&yma info
+ButtonRefresh=Aktualizuj
+ButtonSelectAll=Vyber vše
+ButtonSelectNone=Zruš vıbìr
+ButtonInverseSelection=Otoè vıbìr
+ButtonConfigCDDB=Konfiguruj pøipojení k CDDB
+ButtonQueryCDDB=Stáhni z Internetu
+ButtonEditDiscInfo=Uprav info o disku
+ButtonEditTrackInfo=Uprav info o stopì
+ButtonClearInfo=Sma info
+OutputFolder=Vıstupní sloka:
+FileName=Jméno souboru:
+Priority=Priorita:
+Priority1=Nejniší
+Priority2=Nízká
+Priority3=Normální
+Priority4=Vyšší
+Priority5=Nejvyšší
+WaveOptions=ádné volby pro wave vıstup
+DeleteWave=Odstraò soubory wave po pøevodu
+Bitrate=Bitrate:
+From=Od
+To=Do
+AudioMode=Audio mód:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Smíšené stereo
+Quality=Kvalita:
+MP3EnableVBR=Povolit VBR
+MP3WriteVBRHeader=Zapsat hlavièku VBR
+MP3QualityHint=(0: vysoká, 9: rychle)
+ExtractWave=Kopíruji hudební soubory
+EncodeWave=Pøevádím hudební soubory
+TotalProgess=Celkovı prùbìh
+[CDDBConfig]
+Title=Pøipojení CDDB
+Server=Server:
+Script=Dotazovací skript:
+Proxy=Povolit proxy
+Host=Host:
+Port=Port:
+Authorization=Autentizace
+Name=Jméno:
+Password=Heslo:
+[CDDBQuery]
+Title=Informace CDDB
+Save=Ulo
+[CDDBMatch]
+Title=Disk nalezen
+Hint=Vyberte správnı záznam, v databázi bylo nalazeno více záznamù pro tento disk.
+DiscTitle=Název disku
+Artist=Umìlec
+[DiscInfo]
+Title=Informace o disku
+[TrackInfo]
+Title=Informace o stopì
+[Log]
+Title=Log
+OpenOutputFolder=Vıstupní sloka
+CreatePlaylist=Seznam skladeb
+[Register]
+Title=Registrace
+Name=Jméno:
+SN=Sériové èíslo:
+Buy=Koupit nyní!
+[About]
+Title=O programu
+Translator=Do èeštiny pøeloil Karel Naiman
+RegisterTo=Registrováno na:
+Unregistered=Nezaregistrováno

@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=OK
+Cancel=Cancelar
+Close=Fechar
+Back=< &Voltar
+Next=&Próximo >
+Exit=S&air
+GO=&Iniciar!
+Pause=&Pausar
+Resume=&Continuar
+Abort=C&ancelar
+Menu=&Menu
+
+[AudioInfo]
+Title=Título:
+Album=Album:
+Artist=Artista:
+Year=Ano:
+Genre=Tipo:
+Comment=Comentário:
+TrackTitles=Faixas:
+
+[String]    
+NoDriver=(Nenhum)
+
+NoTrackSelected=Selecione uma ou mais faixas!
+NoCDFound=Nenhum CD na unidade de CD-ROM!
+
+CDDBConnect=Buscando informações do CD em %s ...
+CDDBSuccess=Informações do CD obtidas com sucesso!
+CDDBFailed=Falha buscando informações do CD!
+
+OutputFolderError=Nome da pasta destino inválido!
+FileNameRuleError=Nome do arquivo destino inválido!
+CreateFolderError=Não é possível criar a pasta destino!
+
+UnknownArtist=Artista desconhecido
+UnkonwnAlbum=Album desconhecido
+
+Progress=Processando faixa %d de %d
+
+AbortOperation=Terminar Operação?
+
+LogStart=Iniciando...
+LogRip=Extraindo do CD %s...
+LogEncode=Convertendo %s...
+LogSuccess=Successo!
+LogFailed=Falhou!
+LogCanceled=Cancelado pelo usuário.
+LogFinish=Concluído.
+
+RegInfoNotComplete=Por favor preencha as informações de registro!
+RegFailed=Número de série inválido!
+RegSuccess=Obrigado por fazer o seu registro!
+
+PlaylistFilter=Arquivo da Lista de Reprodução (*.m3u)
+PlaylistFailed=Falha ao criar a lista de reprodução!
+
+[Main]
+Unregistered=Não Registrado
+MenuHelp=&Tópicos de Ajuda
+MenuRegister=&Registrar...
+MenuAbout=&Sobre...
+SelectOperation=Selecione a operação:
+SelectCDROM=Selecione a unidade de CD-ROM:
+NoDisc=Insira um CD de áudio!
+Title=Título
+Length=Duração
+Size=Tamanho (M)
+MenuRefresh=&Atualizar
+MenuSelectAll=Selecionar &Todas
+MenuSelectNone=&Nenhuma Selecionada
+MenuInverseSelection=&Inverter Seleção
+MenuConfigCDDB=&Configurar CDDB
+MenuQueryCDDB=&Consultar CDDB
+MenuEditDiscInfo=Editar Informações do &Album
+MenuEditTrackInfo=Editar Informações da &Faixa
+MenuClearInfo=&Limpar
+ButtonRefresh=Atualizar
+ButtonSelectAll=Selecionar Todas
+ButtonSelectNone=Nenhuma Selecionada
+ButtonInverseSelection=Inverter Seleção
+ButtonConfigCDDB=Configurar CDDB
+ButtonQueryCDDB=Consultar CDDB
+ButtonEditDiscInfo=Editar Info Album
+ButtonEditTrackInfo=Editar Info Faixa
+ButtonClearInfo=Limpar
+OutputFolder=Arquivo Destino:
+FileName=Nome do Arquivo:
+Priority=Prioridade:
+Priority1=Mínima
+Priority2=Menor
+Priority3=Normal
+Priority4=Maior
+Priority5=Máxima
+WaveOptions=Sem opções para wave 
+DeleteWave=Excluir arquivo wave após conversão 
+Bitrate=Bitrate:
+From=De
+To=Para
+AudioMode=Modo de áudio:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Qualidade:
+MP3EnableVBR=Ativar VBR
+MP3WriteVBRHeader=Cabeçalho VBR
+MP3QualityHint=(0: alta, 9: rápido)
+ExtractWave=Extraindo do CD
+EncodeWave=Convertendo arquivos de música
+TotalProgess=Progresso total
+
+[CDDBConfig]
+Title=Conexão CDDB
+Server=Servidor:
+Script=Query Script:
+Proxy=Acionar Proxy
+Host=Host:
+Port=Port:
+Authorization=Autorização
+Name=Nome:
+Password=Senha:
+
+[CDDBQuery]
+Title=Informação CDDB
+Save=Salvar
+
+[CDDBMatch]
+Title=Resultado da busca
+Hint=Mais de uma opção encontrada, escolha uma.
+DiscTitle=Tít. do album
+Artist=Artista
+
+[DiscInfo]
+Title=Informações do album
+
+[TrackInfo]
+Title=Informações da faixa
+
+[Log]
+Title=Log
+OpenOutputFolder=Arquivo destino
+CreatePlaylist=Criar lista de reprodução
+
+[Register]
+Title=Registrar
+Name=Nome do usuário:
+SN=Número de série:
+Buy=Comprar !
+
+[About]
+Title=Sobre
+Translator=Brazilian Portuguese language file by Mauro Baur
+RegisterTo=Registrado para:
+Unregistered=Não registrado

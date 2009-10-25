@@ -1,0 +1,143 @@
+ Translation By ali fahimi (alicnc2002@hotmail.com)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=ÊÇåæãÇ
+FontSize=8
+TitleFontName=ÊÇåæãÇ
+TitleFontSize=10
+[Button]
+OK=ŞÈæá
+Cancel=áÛæ
+Close=ÈÓÊä
+Back=ŞÈáí
+Next=ÈÚÏí
+Exit=ÎÑæÌ
+GO=ÔÑæÚ
+Pause=ÊæŞİ ãæŞÊ
+Resume=ÈÇÒÔÊ
+Abort=áÛæ
+Menu=ãäæ
+[AudioInfo]
+Title=ÚäæÇä
+Album=ÂáÈæã
+Artist=åäÑãäÏ
+Year=ÓÇá
+Genre=äæÚ
+Comment=ÊæÖíÍ
+TrackTitles=ÚäæÇä ÔíÇÑ
+[String]
+NoDriver=ÏÑÇíæÑí ãæÌæÏ äíÓÊ
+NoTrackSelected=ÔãÇ íÇíÏ ÍÏÇŞá í˜ ÔíÇÑ ÑÇ ÇäÊÎÇÈ äãÇííÏ
+NoCDFound=Óí Ïí ÏÑ ÏÑÇíæ ÇäÊÎÇÈ ÔÏå íÇİÊ äÔÏ
+CDDBConnect=ÏÑíÇİÊ ÇØáÇÚÇÊ Óí Ïí ÇÒ %s...
+CDDBSuccess=ÇØáÇÚÇÊ Óí Ïí ÏÑÈÇİÊ ÔÏ!
+CDDBFailed=ÎØÇ ÏÑ ÏÑíÇİÊ ÇØáÇÚÇÊ Óí Ïí
+OutputFolderError=æÔå ÎÑæÌí Èí ÇÚÊÈÇÑ ÇÓÊ 
+FileNameRuleError=äÇã İÇíá ÎÑæÌí Èí ÇÚÊÈÇÑ ÇÓÊ
+CreateFolderError=ÎØÇ ÏÑ åäÇã ÇíÌÇÏ æÔå ÎÑæÌí
+UnknownArtist=åäÑãäÏ äÇÔäÇÓ
+UnkonwnAlbum=ÂáÈæã äÇÔäÇÓ
+Progress=íÔÑİÊ ÏÑ ÔíÇÑ %d ÇÒ %d
+AbortOperation=ÂíÇ ãíÎæÇåíÏ Úãá ÑÇ áÛæ ˜äíÏ
+LogStart=ÔÑæÚ ÔÏå ÏÑ
+LogRip=ÏÑ ÍÇá Ô˜ÇİÊä %s....
+LogEncode=ÏÑ ÍÇá ÑãÒ ĞÇÑí %s...
+LogSuccess=Ê˜ãíá ÔÏ !
+LogFailed=äÇÊæÇäí ÏÑ ÇäÌÇã Úãá!
+LogCanceled=˜ÇÑÈÑ Úãá ÑÇ áÛæ ˜ÑÏå!
+LogFinish=ÇÊãÇã
+RegInfoNotComplete=áØİÇğ ÇØáÇÚÇÊ ËÈÊ äÇã ÎæÏ ÑÇ æÇÑÏ ˜äíÏ !
+RegFailed=ÔãÇÑå ÓÑíÇá ÈÇØá ÇÓÊ !
+RegSuccess=ÇÒ ËÈÊ äÇã ÔãÇ ãÊÔ˜Ñíã !
+PlaylistFilter=İÇíá áíÓÊ ÎÔ
+PlaylistFailed=äÇÊæÇäí ÏÑ ÇíÌÇÏ áíÓÊ ÎÔ
+[Main]
+Unregistered=ËÈÊ äÇã äÔÏå
+MenuHelp=ÑÇåäãÇ
+MenuRegister=ËÈÊ äÇã...
+MenuAbout=ÏÑÈÇÑå ...
+SelectOperation=å ˜ÇÑí ÑÇ ãíÎæÇåíÏ ÇäÌÇã ÏåíÏ¿
+SelectCDROM=áØİÇ ÏÑÇíæ ÓíÏí ÑÇ ˜å ãíÎæÇåíÏ ÇÓÊİÇÏå ˜äíÏ  ÇäÊÎÇÈ ˜äíÏ
+NoDisc=áØİÇğ í˜ ÓíÏí ÕæÊí æÇÑÏ ˜äíÏ !
+Title=ÚäæÇä
+Length=ãÏÊ
+Size=ÇäÏÇÒå
+MenuRefresh=ÊÇÒå ˜ÑÏä
+MenuSelectAll=ÇäÊÎÇÈ åãå
+MenuSelectNone=ÇäÊÎÇÈ åí ˜ÏÇã
+MenuInverseSelection=ÇäÊÎÇÈ ãÚ˜æÓ
+MenuConfigCDDB=í˜Ñ ÈäÏí ÓíÏí db
+MenuQueryCDDB=ÍİØ ÇØáÇÚÇÊ ÓíÏí db
+MenuEditDiscInfo=æíÑÇíÔ ÇØáÇÚÇÊ ÓíÏí
+MenuEditTrackInfo=æíÑÇíÔ ÇØáÇÚÇÊ ÔíÇÑ
+MenuClearInfo=Ç˜ ˜ÑÏä ÇØáÇÚÇÊ
+ButtonRefresh=ÊÇÒå ˜ÑÏä
+ButtonSelectAll=ÇäÊÎÇÈ åãå
+ButtonSelectNone=ÇäÊÎÇÈ åí ˜ÏÇã
+ButtonInverseSelection=ÇäÊÎÇÈ ãÚ˜æÓ
+ButtonConfigCDDB=í˜Ñ ÈäÏí ÓíÏí db
+ButtonQueryCDDB=ÍİÙ ÇØáÇÚÇÊ ÓíÏí db
+ButtonEditDiscInfo=æíÑÇíÔ ÇØáÇÚÇÊ ÓíÏí
+ButtonEditTrackInfo=æíÑÇíÔ ÇØáÇÚÇÊ ÔíÇÑ
+ButtonClearInfo=Ç˜ ˜ÑÏä ÇØáÇÚÇÊ
+OutputFolder=æÔå ÎÑæÌí
+FileName=äÇã İÇíá
+Priority=ÈÑÊÑí:
+Priority1=Çííä ÊÑíä
+Priority2=Çííä
+Priority3=ÚÇÏí
+Priority4=ÈÇáÇ
+Priority5=ÈÇáÇÊÑíä
+WaveOptions=ÇäÊÎÇÈí ÈÑÇí ÎÑæÌí wave ãæÌæÏ äíÓÊ
+DeleteWave=ÍĞİ İÇíá wave ÈÚÏ ÇÒ ˜ÏÒÇÑí
+Bitrate=ÓÑÚÊ ÈíÊ
+From=ÇÒ :
+To=Èå :
+AudioMode=ÍÇáÊ ÕÏÇ :
+AudioMode1=ãæäæ
+AudioMode2=ÇÓÊÑíæ
+AudioMode3=ÇÓÊÑíæ ãÔÊÑ˜
+Quality=˜íİíÊ :
+MP3EnableVBR=VBR İÚÇá
+MP3WriteVBRHeader=äæÔÊä Ñæíå VBR
+MP3QualityHint=ÈÇáÇ ¡ ÓÑíÚ
+ExtractWave=ÇÓÊÎÑÇÌ ÏÇÏå åÇí ãæÓíŞí 
+EncodeWave=˜ÏĞÇÑí İÇíá ÕæÊí
+CurrentTrack=ÔíÇÑ ÌÇÑí
+TotalProgess=ÌãÚ íÔÑİÊ
+[CDDBConfig]
+Title=ÓíÏí db ÇÊÕÇá
+Server=ÓÑæÑ
+Script=ÍİÙ ÇÓ˜ÑíÊ
+Proxy=İÚÇá ˜ÑÏä Ñæ˜Óí
+Host=åÇÓÊ
+Port=æÑÊ
+Authorization=ÇÎÊíÇÑ
+Name=äÇã
+Password=˜áãå ÚÈæÑ
+[CDDBQuery]
+Title=ÓíÏídb ÇØáÇÚÇÊ
+[CDDBMatch]
+Title=ÊÔÇÈå ÏÑ ÏíÓ˜
+Hint=ÈíÔ ÇÒ í˜ ÚÇãá íÇİÊ ÔÏå áØİÇ ÕÍíÍ ÑÇ ÇäÊÎÇÈ ˜äíÏ
+DiscTitle=ÚäæÇä ÏíÓ˜
+Artist=åäÑãäÏ
+[DiscInfo]
+Title=ÇØáÇÚÇÊ ÏíÓ˜
+[TrackInfo]
+Title=ÇØáÇÚÇÊ ÔíÇÑ
+[Log]
+Title=Log
+OpenOutputFolder=æÔå ÎÑæÌí
+CreatePlaylist=ÇíÌÇÏ áíÓÊ ÎÔ
+[Register]
+Title=ËÈÊ äÇã ˜äíÏ
+Name=äÇã ˜ÇÑÈÑí:
+SN=ÔãÇÑå ÓÑíÇá :
+Buy=ÍÇáÇ ÈÎÑíÏ !
+[About]
+Title=ÏÑÈÇÑå
+Translator=Translate By alicnc2002  (ali fahimi)
+RegisterTo=ËÈÊ äÇã ÔÏå ÊæÓØ
+Unregistered=ËÈÊ äÇã äÔÏå

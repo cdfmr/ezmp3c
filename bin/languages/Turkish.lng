@@ -1,0 +1,160 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=Tamam
+Cancel=Ýptal
+Close=Kapat
+Back=< &Geri
+Next=&Ýleri >
+Exit=&Çýk
+GO=&Baþlat!
+Pause=&Duraklat
+Resume=D&evam
+Abort=&Kes
+Menu=&Menü
+
+[AudioInfo]
+Title=Baþlýk:
+Album=Albüm:
+Artist=Sanatçý:
+Year=Yýl:
+Genre=Tür:
+Comment=Yorum:
+TrackTitles=Parça Adý:
+
+[String]    
+NoDriver=(None)
+
+NoTrackSelected=En az bir parça seçmelisiniz!
+NoCDFound=Sürücüde CD bulunamadý!
+
+CDDBConnect=CD bilgisi  %s ... dan aliniyor.
+CDDBSuccess=CD bilgisi basariyla alindi!
+CDDBFailed=CD bilgisi alinamadi!
+
+OutputFolderError=Geçersiz  klasör!
+FileNameRuleError=Geçersiz dosya adý!
+CreateFolderError=Klasör yaratýlamýyor!
+
+UnknownArtist=Bilinmeyen Sanatçý
+UnkonwnAlbum=Bilinmeyen Albüm
+
+Progress=Isleniyor Parça %d / %d
+
+AbortOperation=Ýþlemi kesmek istiyor musunuz?
+
+LogStart=Baþlýyor...
+LogRip=Okuyor %s...
+LogEncode=Çeviriyor %s...
+LogSuccess=Baþarýlý!
+LogFailed=Tamamlanamadý!
+LogCanceled=Kullanýcý iptali.
+LogFinish=Bitti.
+
+RegInfoNotComplete=Lütfen Kayýt bilginizi giriniz!
+RegFailed=Geçersiz seri numarasý!
+RegSuccess=Kayýt olduðunuz için teþekkürler!
+
+PlaylistFilter=Liste Dosyasý (*.m3u)
+PlaylistFailed=Liste Dosyasý yaratýlamadý!
+
+[Main]
+Unregistered=Kayýtsýz
+MenuHelp=&Yardým Baþlýklarý
+MenuRegister=&Kayýt ol...
+MenuAbout=&Hakkýnda...
+SelectOperation=Tercih ettiðiniz iþlemi seçiniz:
+SelectCDROM=Kullanmak istediðiniz CDROM sürücüsünü seçiniz:
+NoDisc=Lütfen bir müzik CD si yerleþtirin!
+Title=Baþlýk
+Length=Uzunluk
+Size=Boyut (M)
+MenuRefresh=&Tazele
+MenuSelectAll=Hepsini &Seç
+MenuSelectNone=Seçimi Ýptal &Et
+MenuInverseSelection=Seçimi Ters &Çevir
+MenuConfigCDDB=&CDDB Ayarlarý
+MenuQueryCDDB=CDDB &Kullan
+MenuEditDiscInfo=Disk &Bilgisini Düzenle
+MenuEditTrackInfo=&Parça Bilgisini Düzenle
+MenuClearInfo=Bilgileri &Temizle
+ButtonRefresh=Tazele
+ButtonSelectAll=Hepsini Seç
+ButtonSelectNone=Seçimi Ýptal Et
+ButtonInverseSelection=Seçimi Tersine Çevir
+ButtonConfigCDDB=CDDB Ayarlarý
+ButtonQueryCDDB=CDDB Kullan
+ButtonEditDiscInfo=Disk Bilgisini Düzenle
+ButtonEditTrackInfo=Parça Bilgisini Düzenle
+ButtonClearInfo=Bilgileri Temizle
+OutputFolder=Kayýt Klasörü:
+FileName=Dosya Adý:
+Priority=Öncelik:
+Priority1=En Düþük
+Priority2=Düþük
+Priority3=Normal
+Priority4=Yüksek
+Priority5=En Yüksek
+WaveOptions=WAVE dosyasý için seçenek yok
+DeleteWave=WAVE dosyalarýný çözümledikten sonra sil
+Bitrate=Bitrate:
+From=Aralýk
+To=ile
+AudioMode=Müzik Tipi:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Tümleþik Stereo
+Quality=Kalite:
+MP3EnableVBR=VBR yi aç
+MP3WriteVBRHeader=VBR Baþlýðýný yaz
+MP3QualityHint=(0: yüksek, 9: hýzlý)
+ExtractWave=Wave verisini okuyor
+EncodeWave=Müzik dosyalarýný çözüyor
+TotalProgess=Toplam Ýlerleme
+
+[CDDBConfig]
+Title=CDDB Baðlantýsý
+Server=Sunucu:
+Script=Sorgulama Komutu:
+Proxy=Proxy aç
+Host=Host:
+Port=Port:
+Authorization=Otorizasyon
+Name=Kullanýcý Adý:
+Password=Parola:
+
+[CDDBQuery]
+Title=CDDB Bilgisi
+Save=Kaydet
+
+[CDDBMatch]
+Title=Bulunan Diskler
+Hint=Veritabanýnda birden fazla uyumlu disc bulundu. Lütfen uygun olaný seçiniz.
+DiscTitle=Disk Adý
+Artist=Sanatçý
+
+[DiscInfo]
+Title=Disk Bilgisi
+[TrackInfo]
+Title=Parça Bilgisi
+
+[Log]
+Title=Log
+OpenOutputFolder=Kayýt Klasörü
+CreatePlaylist=Parça listesi Yarat
+
+[Register]
+Title=Kayýt ol
+Name=Kullanýcý Adý:
+SN=Seri Numarasý:
+Buy=Þimdi Alýn !
+
+[About]
+Title=Hakkýnda
+Translator=Türkçeleþtiren-Yavuz ERGÝNTAV
+RegisterTo=Kayýtlý Kullanýcý:
+Unregistered=Kayýtsýz

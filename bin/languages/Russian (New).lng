@@ -1,0 +1,165 @@
+;Russian translation by Gubei Vadim aka Kindly [mailto:gubei_vadim@list.ru]
+;Version 1.35
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=OK
+Cancel=Отмена
+Close=Закрыть
+Back=< &Назад
+Next=&Вперед >
+Exit=В&ыход
+GO=&Старт!
+Pause=&Пауза
+Resume=&Запуск
+Abort=&Прервать
+Menu=&Meню
+
+[AudioInfo]
+Title=Название:
+Album=Aльбом:
+Artist=Автор:
+Year=Год:
+Genre=Жанр:
+Comment=Описание:
+TrackTitles=Треки:
+
+[String]    
+NoDriver=(Нету)
+
+NoTrackSelected=Вы должны выбрать хотя бы один трек!
+NoCDFound=Не могу определить диск в выбранном приводе!
+
+CDDBConnect=Поиск информации диска из %s...
+CDDBSuccess=Информация о диске успешно получена!
+CDDBFailed=Получение информации о диске потерпело неудачу!
+
+OutputFolderError=Папка вывода неправильная!
+FileNameRuleError=Выводное имя неправильное!
+CreateFolderError=Не могу создать папку вывода!
+
+UnknownArtist=Неизвестный исполнитель
+UnkonwnAlbum=Неизвестный альбом
+
+Progress=Обработано %d треков из %d
+
+AbortOperation=Вы хотите завершить выполняемые действия?
+
+LogStart=Запуск...
+LogRip=Кодирование %s...
+LogEncode=Декодирование %s...
+LogSuccess=Успешно!
+LogFailed=Неудачно!
+LogCanceled=Отменено пользователем.
+LogFinish=Завершение.
+
+RegInfoNotComplete=Пожалуйста, введите регистрационные данные!
+RegFailed=Неправильный серийный номер!
+RegSuccess=Спасибо за регистрацию!
+
+PlaylistFilter=Файл плейлиста (*.m3u)
+PlaylistFailed=Не могу создать плейлист!
+
+[Main]
+Unregistered=Незарегистрировано
+MenuHelp=&Справка
+MenuRegister=&Регистрация...
+MenuAbout=&О программе...
+SelectOperation=Пожалуйста, выберите желаемое действие:
+SelectCDROM=Пожалуйста, выберите привод для работы:
+NoDisc=Пожалуйста, вставьте аудио диск!
+Title=Название
+Length=Длина
+Size=Размер (M)
+MenuRefresh=&Обновить
+MenuSelectAll=Выбрать &все
+MenuSelectNone=Отменить &выбор всех
+MenuInverseSelection=&Инвертировать выбранное
+MenuConfigCDDB=&Конфигурация CDDB
+MenuQueryCDDB=&Запрос CDDB
+MenuEditDiscInfo=Правка &информации о диске
+MenuEditTrackInfo=Правка &информации о треке
+MenuClearInfo=Очистить ин&формацию
+ButtonRefresh=Обновить
+ButtonSelectAll=Выбрать все
+ButtonSelectNone=Отменить выбор всех
+ButtonInverseSelection=Инвертировать выбранное
+ButtonConfigCDDB=Конфигурация CDDB
+ButtonQueryCDDB=Запрос CDDB
+ButtonEditDiscInfo=Правка информации о диске
+ButtonEditTrackInfo=Правка информации о треке
+ButtonClearInfo=Очистить информацию
+OutputFolder=Папка вывода:
+FileName=Название:
+Priority=Приоритет:
+Priority1=Минимальный
+Priority2=Низкий
+Priority3=Нормальный
+Priority4=Высокий
+Priority5=Максимальный
+WaveOptions=Wave опции отсутствуют
+DeleteWave=Удаление Wave файлов после кодирования
+Bitrate=Битрейт:
+From=из
+To=в
+AudioMode=Режим аудио:
+AudioMode1=Moно
+AudioMode2=Стерeo
+AudioMode3=Смешанное стерео
+Quality=Метод:
+MP3EnableVBR=VBR
+MP3WriteVBRHeader=Запись VBR
+MP3QualityHint=(0:качество, 9:скорость)
+ExtractWave=Извлечение аудио данных
+EncodeWave=Кодирование звуковых файлов
+CurrentTrack=Текущий трек
+TotalProgess=Общий прогресс
+
+[CDDBConfig]
+Title=Соединение CDDB
+Server=Сервер:
+Script=Сценарий:
+Proxy=Включение Proxy
+Host=Хост:
+Port=Порт:
+Authorization=Подтверждение
+Name=Имя:
+Password=Пароль:
+
+[CDDBQuery]
+Title=Информация CDDB
+Save=Сохранить
+
+[CDDBMatch]
+Title=Совпадения диска
+Hint=В базе данных обнаружено более чем одно совпадение, пожалуйста, выберите наиболее подходящее.
+DiscTitle=Заголовок диска
+Artist=Исполнитель
+
+[DiscInfo]
+Title=Информация диска
+
+[TrackInfo]
+Title=Информация трека
+
+[Log]
+Title=Протокол
+OpenOutputFolder=Вывод
+CreatePlaylist=Плейлист
+
+[Register]
+Title=Регистрация
+Name=Пользователь:
+SN=Личный номер:
+Buy=Купить!
+
+[About]
+Title=О программе
+Translator=Русский перевод: Губей Вадим aka Kindly
+RegisterTo=Лицензия на:
+Unregistered=Незарегистрированная копия

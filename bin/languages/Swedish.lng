@@ -1,0 +1,152 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=OK
+Cancel=Avbryt
+Close=Stäng
+Back=< &Tillbaka
+Next=&Nästa >
+Exit=A&vsluta
+GO=&STARTA!
+Pause=&Pause
+Resume=&Fortsätt
+Abort=&Avbryt
+Menu=&Meny
+[AudioInfo]
+Title=Titel:
+Album=Album:
+Artist=Artist:
+Year=År:
+Genre=Genre:
+Comment=Kommentar:
+TrackTitles=Låttitlar:
+[String]
+NoDriver=(Ingen)
+
+NoTrackSelected=Du måste välja minst ett spår!
+NoCDFound=Kan inte läsa/hitta CD-skivan i vald CDROM-enhet.
+
+CDDBConnect=Tar emot CD information från %s ...
+CDDBSuccess=CD information mottagen!
+CDDBFailed=Mottagningen av CD information misslyckades!
+
+OutputFolderError=Mappnamnet är ogiltigt!
+FileNameRuleError=Filnamnet är ogiltigt!
+CreateFolderError=Kan inte skapa mapp!
+
+UnknownArtist=Okänd Artist
+UnkonwnAlbum=Okänt Album
+
+Progress=Bearbetar Spår %d av %d
+
+AbortOperation=Vill du avbyta?
+
+LogStart=Startar...
+LogRip=Rippar %s...
+LogEncode=Kodar %s...
+LogSuccess=Lyckades!
+LogFailed=Misslyckades!
+LogCanceled=Avändaren Avbröt Processen.
+LogFinish=Klar.
+
+RegInfoNotComplete=Ange din registreringsinformation!
+RegFailed=Ogiltigt serienummer!
+RegSuccess=Tack för din registrering!
+
+PlaylistFilter=Spellista (*.m3u)
+PlaylistFailed=Misslyckades att skapa spellista!
+[Main]
+Unregistered=Ej Registrerad
+MenuHelp=&Hjälp
+MenuRegister=&Registrera...
+MenuAbout=&Om...
+SelectOperation=Välj vilken operation du vill utföra:
+SelectCDROM=Välj den CDROM-enhet du vill använda:
+NoDisc=Mata in en ljud-CD!
+Title=Titel
+Length=Längd
+Size=Storlek (M)
+MenuRefresh=&Uppdatera
+MenuSelectAll=Välj &Alla
+MenuSelectNone=Välj &Ingen
+MenuInverseSelection=&Omvänd Markering
+MenuConfigCDDB=&Konfigurera CDDB
+MenuQueryCDDB=&Hämta Från CDDB
+MenuEditDiscInfo=Ändra &Disk Info
+MenuEditTrackInfo=Ändra &Låt Info
+MenuClearInfo=Rensa In&fo
+ButtonRefresh=Uppdatera
+ButtonSelectAll=Välj Alla
+ButtonSelectNone=Välj Ingen
+ButtonInverseSelection=Omvänd Markering
+ButtonConfigCDDB=Konfigurera CDDB
+ButtonQueryCDDB=Hämta Från CDDB
+ButtonEditDiscInfo=Ändra Disk Info
+ButtonEditTrackInfo=Ändra Låt Info
+ButtonClearInfo=Rensa Info
+OutputFolder=Spara i mapp:
+FileName=Filnamn:
+Priority=Prioritet:
+Priority1=Lägsta
+Priority2=Under Normal
+Priority3=Normal
+Priority4=Över Normal
+Priority5=Högsta
+WaveOptions=Inga Alternativ För WAV-fil
+DeleteWave=Tabort WAV-fil efter kodning
+Bitrate=Bitrate:
+From=Från
+To=Till
+AudioMode=Ljud Läge:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Kvalitet:
+MP3EnableVBR=Använd VBR
+MP3WriteVBRHeader=Skriv VBR Huvud
+MP3QualityHint=(0: hög, 9: snabb)
+ExtractWave=Extraherar Wave Data
+EncodeWave=Kodar Musikfil
+TotalProgess=Färdiga Procent
+[CDDBConfig]
+Title=CDDB Anslutning
+Server=Server:
+Script=Fråge Script:
+Proxy=Använd Proxy
+Host=Host:
+Port=Port:
+Authorization=Godkännande
+Name=Namn:
+Password=Lösenord:
+[CDDBQuery]
+Title=CDDB Information
+Save=Spara
+[CDDBMatch]
+Title=Matchande Skivor
+Hint=Flera tänkbara matchande skivor har hittats, välj den som passar bäst.
+DiscTitle=Skivtitel
+Artist=Artist
+[DiscInfo]
+Title=Skivinformation
+[TrackInfo]
+Title=Låtinformation
+[Log]
+Title=Logg
+OpenOutputFolder=Gå Till Filer
+CreatePlaylist=Skapa Spellista
+[Register]
+Title=Registrera
+Name=Användarnamn:
+SN=Serienummer:
+Buy=Köp Nu !
+[About]
+Title=Om
+Translator=Engelsk Språkfil gjord av Linasoft
+RegisterTo=Registrerad till:
+Unregistered=Ej Registrerad

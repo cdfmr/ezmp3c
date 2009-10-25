@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=OK
+Cancel=Cancel
+Close=Close
+Back=< &Back
+Next=&Next >
+Exit=E&xit
+GO=&GO!
+Pause=&Pause
+Resume=&Resume
+Abort=&Abort
+Menu=&Menu
+
+[AudioInfo]
+Title=&Title:
+Album=Al&bum:
+Artist=&Artist:
+Year=&Year:
+Genre=&Genre:
+Comment=&Comment:
+TrackTitles=&Titles:
+
+[String]    
+NoDriver=(None)
+
+NoTrackSelected=You must select one track at least!
+NoCDFound=Can''t detect CD in the selected CDROM unit!
+
+CDDBConnect=Retrieving CD information from %s ...
+CDDBSuccess=CD information retrieved successfully!
+CDDBFailed=Failed retrieving CD information!
+
+OutputFolderError=Output folder is invalid!
+FileNameRuleError=Output filename is invalid!
+CreateFolderError=Can't create output directory!
+
+UnknownArtist=Unknown Artist
+UnkonwnAlbum=Unknown Album
+
+Progress=Processing Track %d of %d
+
+AbortOperation=Do you want to terminate the operation?
+
+LogStart=Starting...
+LogRip=Ripping %s...
+LogEncode=Encoding %s...
+LogSuccess=Success!
+LogFailed=Failed!
+LogCanceled=User cancelled.
+LogFinish=Finish.
+
+RegInfoNotComplete=Please enter your registration information!
+RegFailed=Invalid serial number!
+RegSuccess=Thank you for your registration!
+
+PlaylistFilter=Playlists (*.m3u)|*.m3u
+PlaylistFailed=Failed creating playlist!
+
+[Main]
+Unregistered=Unregistered
+MenuHelp=&Help Topics
+MenuRegister=&Register...
+MenuAbout=&About...
+SelectOperation=Please choose what you wish to do:
+SelectCDROM=Please select the &CDROM device you want to use:
+NoDisc=Please insert an audio CD!
+Title=Title
+Length=Length
+Size=Size (M)
+MenuRefresh=&Refresh
+MenuSelectAll=Select &All
+MenuSelectNone=Select &None
+MenuInverseSelection=&Inverse Selection
+MenuConfigCDDB=&Config CDDB
+MenuQueryCDDB=&Query CDDB
+MenuEditDiscInfo=Edit &Disc Info
+MenuEditTrackInfo=Edit &Track Info
+MenuClearInfo=Clear In&fo
+ButtonRefresh=Refresh
+ButtonSelectAll=Select All
+ButtonSelectNone=Select None
+ButtonInverseSelection=Inverse Selection
+ButtonConfigCDDB=Config CDDB
+ButtonQueryCDDB=Query CDDB
+ButtonEditDiscInfo=Edit Disc Info
+ButtonEditTrackInfo=Edit Track Info
+ButtonClearInfo=Clear Info
+OutputFolder=&Output Folder:
+FileName=&Filename:
+Priority=&Priority:
+Priority1=Lowest
+Priority2=Lower
+Priority3=Normal
+Priority4=Higher
+Priority5=Highest
+WaveOptions=No options for wave output
+Bitrate=&Bitrate:
+From=F&rom
+To=&To
+AudioMode=&Audio Mode:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=&Quality:
+MP3EnableVBR=Enable &VBR
+MP3WriteVBRHeader=Write VBR &Header
+MP3QualityHint=(0: high, 9: fast)
+CurrentTrack=Current Track
+TotalProgess=Total Progress
+
+[CDDBConfig]
+Title=CDDB Connection
+Server=&Server:
+Script=&Query Script:
+Proxy=Enable &Proxy
+Host=&Host:
+Port=P&ort:
+Authorization=&Authorization
+Name=&Name:
+Password=Pass&word:
+
+[CDDBQuery]
+Title=CDDB Information
+Save=Save
+
+[CDDBMatch]
+Title=Disc Matches
+Hint=More than one potential matches have been found in database, please choose the correct one.
+DiscTitle=Disc Title
+Artist=Artist
+
+[DiscInfo]
+Title=Disc Information
+
+[TrackInfo]
+Title=Track Information
+
+[Log]
+Title=Log
+OpenOutputFolder=&Browse
+CreatePlaylist=&Playlist
+
+[Register]
+Title=Register
+Name=&User Name:
+SN=&Serial Number:
+Buy=&Buy Now !
+
+[About]
+Title=About EZ MP3 Creator
+Translator=English Language File by Linasoft
+HomePage=Home Page:
+Support=Support:
+RegisterTo=Registered to:
+Unregistered=Unregistered

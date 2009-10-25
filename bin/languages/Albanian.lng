@@ -1,0 +1,140 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+[Button]
+OK=Dakord
+Cancel=Anulloje
+Close=Mbylle
+Back=<&Kthehu
+Next=&Vazhdo >
+Exit=&Dalje
+GO=&EC!
+Pause=&Pauzë
+Resume=&Vazhdo
+Abort=&Ndërprite
+Menu=&Menuja
+[AudioInfo]
+Title=Titulli:
+Album=Albumi:
+Artist=Artisti:
+Year=Viti:
+Genre=Gjinia:
+Comment=Komente:
+TrackTitles=Titull kënge:
+[String]
+NoDriver=(Nuk ka)
+NoTrackSelected=Duhet të zgjidhni të paktën një këngë!
+NoCDFound=Nuk po gjehet CD në pajisjen CDROM.
+CDDBConnect=Po merret informacioni i CD-së nga %s ...
+CDDBSuccess=Informacioni i CD-së u tërhoq me sukses!
+CDDBFailed=Dështoi marrja e informacionit të CD-së.
+OutputFolderError=Dosja e produktit është e pavlefshme!
+FileNameRuleError=Emri i skedarit produkt është i pavlefshëm!
+CreateFolderError=Nuk mund të krijohet drejtoria e produktit.
+UnknownArtist=Artist i panjohur
+UnkonwnAlbum=Album i panjohur
+Progress=Po përpunohet kënga %d nga %d
+AbortOperation=A doni ta ndërprisni veprimin?
+LogStart=Po filloj...
+LogRip=Po rripet %s ...
+LogEncode=Po kodohet %s ...
+LogSuccess=Me sukses!
+LogFailed=Dështoi!
+LogCanceled=U anullua nga përdoruesi.
+LogFinish=Mbaroi.
+RegInfoNotComplete=Lutemi fusni informacionin e regjistrimit.
+RegFailed=Numër serial i pavlefshëm.
+RegSuccess=Faleminderit që u regjistruat.
+PlaylistFilter=Lista e këngëve (*.m3u)
+PlaylistFailed=Nuk mund të krijohej lista e këngëve.
+[Main]
+Unregistered=I paregjistruar
+MenuHelp=&Tematika e ndihmës
+MenuRegister=&Regjistrohu...
+MenuAbout=&Informacion...
+SelectOperation=Lutemi zgjidhni atë që doni të bëni:
+SelectCDROM=Lutemi zgjidhni pajisjen CDROM që doni të përdorni:
+NoDisc=Lutemi fusni një CD audio!
+Title=Titulli
+Length=Gjatësia
+Size=Përmasa (M)
+MenuRefresh=&Rifreskoje
+MenuSelectAll=&Zgjidhi të tëra
+MenuSelectNone=&Mos zgjidh asnjë
+MenuInverseSelection=Përzgjedhje e k&undërt
+MenuConfigCDDB=K&onfiguro CDDB
+MenuQueryCDDB=&Kërko tek CDDB
+MenuEditDiscInfo=Ndrysho Info &Disku
+MenuEditTrackInfo=Ndrysho Info &Kënge
+MenuClearInfo=Pastro &Informacionin
+ButtonRefresh=Rifreskoje
+ButtonSelectAll=Zgjidhi të tëra
+ButtonSelectNone=Mos zgjidh asnjë
+ButtonInverseSelection=Përzgjedhje e kundërt
+ButtonConfigCDDB=Konfigurimi i CDDB
+ButtonQueryCDDB=Kërkimi i CDDB
+ButtonEditDiscInfo=Ndrysho Info Disku
+ButtonEditTrackInfo=Ndrysho Info Kënge
+ButtonClearInfo=Pastro informacionin
+OutputFolder=Dosja e produktit:
+FileName=Emri i skedarit:
+Priority=Përparësia:
+Priority1=E ulët
+Priority2=Më e ulët
+Priority3=Normale
+Priority4=E lartë
+Priority5=Më e larta
+WaveOptions=Nuk ka konfigurim për produktin wave
+DeleteWave=Fshiji skedarët wave pas kodimit
+Bitrate=Bit-rate:
+From=Nga
+To=Në
+AudioMode=Metoda audio:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Stereo e Plotë
+Quality=Cilësia:
+MP3EnableVBR=Aktivizo VBR
+MP3WriteVBRHeader=Shkruaj Kokën VBR
+MP3QualityHint=(0: i lartë, 9: i shpejtë)
+ExtractWave=Po nxirren të dhënat audio
+EncodeWave=Po kodohen skedarët muzikorë
+CurrentTrack=Kënga aktuale
+TotalProgess=Përparimi i përgjithshëm
+[CDDBConfig]
+Title=Lidhja CDDB
+Server=Serveri:
+Script=Skripti i kërkimit:
+Proxy=Aktivizo Proxy
+Host=Pritësi:
+Port=Porta:
+Authorization=Autorizimi
+Name=Emri:
+Password=Fjalëkalimi:
+[CDDBQuery]
+Title=Informacion CDDB
+Save=Ruaje
+[CDDBMatch]
+Title=Ngjashmëritë e diskut
+Hint=Në bazën e të dhënave u gjetën më shumë se një të ngjashëm me këtë disk, ndaj zgjidhni atë që ju duhet.
+DiscTitle=Titulli i Diskut
+Artist=Artisti
+[DiscInfo]
+Title=Informacion disku
+[TrackInfo]
+Title=Informacion kënge
+[Log]
+Title=Ditari
+OpenOutputFolder=Dosja e produktit
+CreatePlaylist=Krijo listën e këngëve
+[Register]
+Title=Regjistrimi
+Name=Emri i përdoruesit
+SN=Numri serial:
+Buy=Blije tani!
+[About]
+Title=Informacion
+Translator=Skedari i gjuhës shqipe nga Durim Tabaku
+RegisterTo=Regjistruar për:
+Unregistered=I paregjistruar

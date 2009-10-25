@@ -1,0 +1,151 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=Aceptar
+Cancel=Cancelar
+Close=Cerrar
+Back=< &Anterior
+Next=&Siguiente >
+Exit=&Salir
+GO=&Empezar!
+Pause=&Pausa
+Resume=&Continuar
+Abort=&Abortar
+Menu=&Menú
+[AudioInfo]
+Title=Título:
+Album=Álbum:
+Artist=Artista:
+Year=Año:
+Genre=Género
+Comment=Nota:
+TrackTitles=Canciones:
+[String]
+NoDriver=(Ninguna)
+NoTrackSelected=Tienes que escoger al menos una pista!
+NoCDFound=No se puede detectar CD en unidad selecionada!
+CDDBConnect=Accediendo Información del  CD desde %s ...
+CDDBSuccess=Información del CD obtenida!
+CDDBFailed=Error al acceder información de CD!
+OutputFolderError=Nombre de Carpeta de salida Invalido!
+FileNameRuleError=Nombre de Archivo de salida Invalido!
+CreateFolderError=No se puede crear directorio de salida!
+UnknownArtist=Artista Desconocido
+UnkonwnAlbum=Álbum Desconocido
+Progress=Procesando Pista %d of %d
+AbortOperation=Quieres terminar la operación?
+LogStart=Iniciando...
+LogRip=Extrayendo %s...
+LogEncode=Codificando %s...
+LogSuccess=Finalizado!
+LogFailed=Falló!
+LogCanceled=Cancelado por Usuario.
+LogFinish=Terminado.
+RegInfoNotComplete=Intruduce tu información de registro!
+RegFailed=Número de serie Inválido!
+RegSuccess=Gracias por registrarte!
+PlaylistFilter=Archivo de lista de reproducción (*.m3u)
+PlaylistFailed=Error al crear lista de reproducción!
+[Main]
+Unregistered=No registrado
+MenuHelp=&Temas de Ayuda
+MenuRegister=&Registrar...
+MenuAbout=&Acerca...
+SelectOperation=Seleciona la operación que deseas:
+SelectCDROM=Seleciona la unidad de CDROM que deseas utilizar:
+NoDisc=Inserta un CD de audio!
+Title=Título
+Length=Longitud
+Size=Tamaño (M)
+MenuRefresh=&Actualizar
+MenuSelectAll=Selecionar &Todo
+MenuSelectNone=&No Selecionar
+MenuInverseSelection=Seleción &Inversa
+MenuConfigCDDB=&Configurar CDDB
+MenuQueryCDDB=&Localizar  CDDB
+MenuEditDiscInfo=Editar Información del &Disco
+MenuEditTrackInfo=Editar Información de &Pista
+MenuClearInfo=Borrar In&formación
+ButtonRefresh=Actualizar
+ButtonSelectAll=Selecionar Todo
+ButtonSelectNone=Des Selecionar
+ButtonInverseSelection=Seleción Inversa
+ButtonConfigCDDB=Configurar CDDB
+ButtonQueryCDDB=Localizar Títulos en  CDDB
+ButtonEditDiscInfo=Editar Información de Disco
+ButtonEditTrackInfo=Editar Información de Pista
+ButtonClearInfo=Borrar Información
+OutputFolder=Carpeta de Salida:
+FileName=Nombre  Archivo:
+Priority=Prioridad:
+Priority1=La más baja
+Priority2=Baja
+Priority3=Normal
+Priority4=Alta
+Priority5=La más Alta
+WaveOptions=Sin opciones en archivos WAV
+DeleteWave=Borrar Archivos Wave después de Codificarlos
+Bitrate=BitRate:
+From=Desde
+To=Hasta
+AudioMode=Modo de Audio:
+AudioMode1=Mono
+AudioMode2=Estereo
+AudioMode3=Joint Estereo
+Quality=Calidad:
+MP3EnableVBR=Habilitar VBR
+MP3WriteVBRHeader=Escribir Cabecera VBR
+MP3QualityHint=(0: Alto, 9: Rápido)
+ExtractWave=Exrtrayendo datos tipo Wave
+EncodeWave=Codificando Archivos de Música
+TotalProgess=Progreso Total
+[CDDBConfig]
+Title=Conexión A CDDB
+Server=Servidor:
+Script=Buscar Script:
+Proxy=Habilitar Proxy
+Host=Host:
+Port=Puerto:
+Authorization=Autorización
+Name=Nombre:
+Password=Contraseña:
+[CDDBQuery]
+Title=Información  de CD DB
+Save=Salvar
+[CDDBMatch]
+Title=Discos Coincidentes
+Hint=Mas de una información del CD ha sido encontrada en la base de datos, seleciona la correcta.
+DiscTitle=Título del Disco
+Artist=Artista
+[DiscInfo]
+Title=Información del Disco
+[TrackInfo]
+Title=Información de Pista
+[Log]
+Title=Registro
+OpenOutputFolder=Abrir Carpeta
+CreatePlaylist=Crear Playlist
+[Register]
+Title=Registrar
+Name=Usuario:
+SN=Serial:
+Buy=Comprar Ahora!
+[About]
+Title=Acerca
+Translator=Traducido por A.T.O.R@MTY.MX
+RegisterTo=Registrado a:
+Unregistered=No Registrado
+
+
+
+
+; Follow strings are used for maintenance only, don't translate!
+
+[Other]
+HelpFile=ezmp3c.es.chm

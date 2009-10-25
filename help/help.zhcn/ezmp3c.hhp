@@ -1,0 +1,26 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ezmp3c.chm
+Contents file=ezmp3c.hhc
+Default Window=main
+Default topic=what.htm
+Display compile progress=No
+Language=0x804 Chinese (PRC)
+
+[WINDOWS]
+main="EZ MP3 Creator °ïÖú","EZMP3C.hhc",,"what.htm",,,,,,0x42020,200,0x10300e,[20,20,780,560],,,,,,,0
+
+
+[FILES]
+contact.htm
+license.htm
+optionspage.htm
+quickstart.htm
+register.htm
+trackspage.htm
+what.htm
+faq.htm
+thanks.htm
+
+[INFOTYPES]
+

@@ -1,0 +1,139 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+[Button]
+OK=Rendben
+Cancel=Mégsem
+Close=Bezár
+Back=< &Vissza
+Next=&Tovább >
+Exit=K&ilép
+GO=&Kezd!
+Pause=&Szünet
+Resume=&Folytat
+Abort=&Megszakít
+Menu=&Menü
+[AudioInfo]
+Title=Cím:
+Album=Album:
+Artist=Elõadó:
+Year=Év:
+Genre=Mûfaj:
+Comment=Megjegyzés:
+TrackTitles=Szám címek:
+[String]
+NoDriver=(Nincs)
+NoTrackSelected=Legalább egy számot válassz!
+NoCDFound=Nincs lemez a megadott CD meghajtóban!
+CDDBConnect=CD információ töltése innen: %s
+CDDBSuccess=CD információ letöltve!
+CDDBFailed=Sikertelen CD információ letöltés!
+OutputFolderError=A megadott mappa név érvénytelen!
+FileNameRuleError=A megadott filenév érvénytelen!
+CreateFolderError=A megadott mappa nem hozható létre!
+UnknownArtist=Ismeretlen elõadó
+UnkonwnAlbum=Ismeretlen album
+Progress=Feldolgozás  Szám  %d a %d-bõl
+AbortOperation=Megszakítod a folyamatot?
+LogStart=Kezdés...
+LogRip=Rippelés %s...
+LogEncode=Kódolás %s...
+LogSuccess=Sikerült!
+LogFailed=Nem sikerült!
+LogCanceled=Felhasználói megszakítás.
+LogFinish=Vége.
+RegInfoNotComplete=Kérlek, add meg a regisztrációs adatokat!
+RegFailed=Érvénytelen sorozatszám!
+RegSuccess=Köszönjülk a regisztrációt!
+PlaylistFilter=Listafile lejátszása (*.m3u)
+PlaylistFailed=Listafile létrehozása sikertelen!
+[Main]
+Unregistered=Nem regisztrált
+MenuHelp=&Súgó témák
+MenuRegister=&Regisztráció
+MenuAbout=@Névjegy
+SelectOperation=Válaszd a kívánt mûveletet:
+SelectCDROM=Válaszd a kívánt CD meghajtót:
+NoDisc=Helyezz be audió CD-t!
+Title=Cím
+Length=Hossz
+Size=Méret (M)
+MenuRefresh=&Frissítés
+MenuSelectAll=&Összes Kijelölése
+MenuSelectNone=&Nincs kijelölve
+MenuInverseSelection=&Fordított kijelölés
+MenuConfigCDDB=CDDB &Beállítás
+MenuQueryCDDB=CDDB &Lekérdezés
+MenuEditDiscInfo=&Diszk információ szerkesztés
+MenuEditTrackInfo=&Szám információ szerkesztés
+MenuClearInfo=In&formáció törlése
+ButtonRefresh=Frissítés
+ButtonSelectAll=Összes kijelölése
+ButtonSelectNone=Kijelölés megszüntetése
+ButtonInverseSelection=Fordított kijelölés
+ButtonConfigCDDB=CDDB konfigurálás
+ButtonQueryCDDB=CDDB lekérdezés
+ButtonEditDiscInfo=Diszk info szerkesztés
+ButtonEditTrackInfo=Szám info szerkesztés
+ButtonClearInfo=Info törlés
+OutputFolder=Mentési mappa:
+FileName=Filenév:
+Priority=Prioritás
+Priority1=Legkisebb
+Priority2=Kisebb
+Priority3=Normális
+Priority4=Magasabb
+Priority5=Legmagasabb
+WaveOptions=A hangkimenet nem beállítható
+DeleteWave=A .wav file törlése kódolás után
+Bitrate=Bitrate:
+From=-tól
+To=-ig
+AudioMode=Audió mód
+AudioMode1=Mono
+AudioMode2=Sztereó
+AudioMode3=Közös mélycsatorna
+Quality=Minõség
+MP3EnableVBR=VBR engedélyezése
+MP3WriteVBRHeader=VBR fejléc írása
+MP3QualityHint=(0: magas, 9: gyors)
+ExtractWave=Wave adat kibontása
+EncodeWave=Zenei file kódolása
+TotalProgess=Teljes folyamat
+[CDDBConfig]
+Title=CDDB kapcsolat
+Server=Szerver:
+Script=Lekérdezõ szkript
+Proxy=Proxy engedélyezése
+Host=Gazda:
+Port=Port:
+Authorization=Engedélyezés
+Name=Név:
+Password=Jelszó:
+[CDDBQuery]
+Title=CDDB információ
+Save=Mentés
+[CDDBMatch]
+Title=Diszk egyezés
+Hint=Több mint egy megfelelés akadt az adatbázisban, válasszd a megfelelõt.
+DiscTitle=Diszk Cím
+Artist=Elõadó
+[DiscInfo]
+Title=Diszk információ
+[TrackInfo]
+Title=Szám információ
+[Log]
+Title=Log
+OpenOutputFolder=Mentési mappa
+CreatePlaylist=Lejátszási-lista készítés
+[Register]
+Title=Regisztrálás
+Name=Felhasználói név:
+SN=Sorozatszám:
+Buy=Vásárold meg!
+[About]
+Title=Névjegy
+Translator=Magyarosítás készítõje Bánki György
+RegisterTo=Regisztrálva:
+Unregistered=Nem regisztrált

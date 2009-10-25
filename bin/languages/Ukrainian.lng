@@ -1,0 +1,149 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=OK
+Cancel=Відміна 
+Close=Закрити
+Back=< &Назад
+Next=&Вперед >
+Exit=В&ихід
+GO=&Пуск!
+Pause=&Пауза
+Resume=&Резюме
+Abort=&Відмова
+Menu=&Меню
+[AudioInfo]
+Title=Назва:
+Album=Альбом:
+Artist=Артист:
+Year=Рік:
+Genre=Жанр:
+Comment=Коментар:
+TrackTitles=Имя Доріжка:
+[String]
+NoDriver=(Немає)
+
+NoTrackSelected=Ви повинні обрати хочя б одну доріжку!
+NoCDFound=Диск не визначено у вибраному CDROM!
+
+CDDBConnect=Пошук информації на CD з %s...
+CDDBSuccess=Информація з CD вилучена успішно!
+CDDBFailed=Помилка вилучення інформації з CD!
+
+OutputFolderError=Обрана папка яка не існує!
+FileNameRuleError=Обране невірне ім’я файлу!
+CreateFolderError=Неможливо утворити обрану папку!
+
+UnknownArtist=Невідомий Артист
+UnkonwnAlbum=Невідомий Альбом
+
+Progress=Обробка Доріжки %d из %d
+
+AbortOperation=Ви бажаєте припинити операцію?
+
+LogStart=Запуск...
+LogRip=Пограбування %s...
+LogEncode=Кодування %s...
+LogSuccess=Операція успішно виконана!
+LogFailed=Помилка!
+LogCanceled=Відмінено користувачем.
+LogFinish=Фініш.
+
+RegInfoNotComplete=Будь ласка  введіть вашу регенераційну інформацію!
+RegFailed=Невірний серійний номер!
+RegSuccess=Дякуємо вам за регестрацію!
+
+PlaylistFilter=Список відтворення (*.m3u)
+PlaylistFailed=Помилка утворення списку відтворення!
+[Main]
+Unregistered= Не зареєстрована
+MenuHelp=&Допомога
+MenuRegister=&Реєстрація...
+MenuAbout=&Про програму...
+SelectOperation=Оберіть необхідну дію:
+SelectCDROM=Оберіть CDROM, який ви бажаєте використовувати:
+NoDisc=Будь ласка, вставте audio CD!
+Title=Назва
+Length=Довжина
+Size=Розмір (M)
+MenuRefresh=&Обновити 
+MenuSelectAll=Обрати &Все
+MenuSelectNone=Обрати&Нічого
+MenuInverseSelection=&Зворотній вибір
+MenuConfigCDDB=&Настройки CDDB
+MenuQueryCDDB=&Запитання CDDB
+MenuEditDiscInfo=Редагування &Диск Інф.
+MenuEditTrackInfo=Редагування &Дорожка Інф.
+MenuClearInfo=Очистка Ін&ф.
+ButtonRefresh=Обновити %t%t%t
+ButtonSelectAll=Обрати все
+ButtonSelectNone=Обрати нічого
+ButtonInverseSelection=Зворотній Вибір
+ButtonConfigCDDB=Настройки CDDB
+ButtonQueryCDDB=Запитання CDDB
+ButtonEditDiscInfo=Редагування
+ButtonEditTrackInfo=Редагування
+ButtonClearInfo=Очистка
+OutputFolder=Папка:
+FileName=Ім’я файлу:
+Priority=Приоритет:
+Priority1=Найнижчий
+Priority2=Нижчий
+Priority3=Нормальний
+Priority4=Високий
+Priority5=Найвищій
+WaveOptions= Ніякі опції для початку процесу не обрані
+DeleteWave= Знищити файл після кодування
+Bitrate=Скорість:
+From=Із
+To=В
+AudioMode=Якість звуку:
+AudioMode1=Моно
+AudioMode2=Стерео
+AudioMode3=Сумісне Стерео
+Quality=Якість:
+MP3EnableVBR=Включити  VBR
+MP3WriteVBRHeader=Заголовок Запису VBR
+MP3QualityHint=(0: выше, 9: быстрее)
+ExtractWave=Вилучення даних доріжки
+EncodeWave=Кодування Музичного Файлу
+TotalProgess=Спілний Прогрес
+[CDDBConfig]
+Title=CDDB З’єднання 
+Server=Сервер:
+Script=Скрипт Запиту:
+Proxy=Використовувати Proxy
+Host=Хост:
+Port=Порт:
+Authorization=Дозвіл
+Name=І’мя:
+Password=Пароль:
+[CDDBQuery]
+Title=CDDB  Інформація
+Save=Сохранити
+[CDDBMatch]
+Title=Дискові Спички
+Hint=. У базі знайдено більш ніж одне порівняння, оберіть вірне.
+DiscTitle=Назва Диску
+Artist=Артист
+[DiscInfo]
+Title=Диск Інф.
+[TrackInfo]
+Title= Доріжка Інф.
+[Log]
+Title=Журнал
+OpenOutputFolder=Папка
+CreatePlaylist=Утворити Список Відтворення  
+[Register]
+Title=Реєстрація 
+Name=І’мя:
+SN=Серійний номер:
+Buy=Купити!
+[About]
+Title=Про програму
+Translator=Переклад від PSV сайт http://yadren-baton.narod.ru 
+RegisterTo=Власник:
+Unregistered=Не зареєстровано

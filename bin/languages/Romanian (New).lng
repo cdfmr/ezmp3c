@@ -1,0 +1,143 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=OK
+Cancel=Anuleazã
+Close=Închide
+Back=< În&apoi
+Next=&Înainte >
+Exit=Ie&ºire
+GO=&GO!
+Pause=&Pauzã
+Resume=C&ontinuã
+Abort=&Renunþã
+Menu=&Meniu
+[AudioInfo]
+Title=Titlu:
+Album=Album:
+Artist=Artist:
+Year=An:
+Genre=Gen:
+Comment=Comentariu:
+TrackTitles=Titluri melodii:
+[String]
+NoDriver=(Nici unul)
+NoTrackSelected=Trebuie sã selectaþi cel puþin o melodie!
+NoCDFound=Nu pot detecta CD-ul din unitatea CD-ROM selectatã!
+CDDBConnect=Extragere informaþii despre CD de la %s...
+CDDBSuccess=Informaþiile despre CD extrase cu succes!
+CDDBFailed=Eºuare la extragerea informaþiilor despre CD!
+OutputFolderError=Numele directorului destinaþie este invalid!
+FileNameRuleError=Numele fiºierului destinaþie este invalid!
+CreateFolderError=Nu pot crea directorul destinaþie!
+UnknownArtist=Artist necunoscut
+UnkonwnAlbum=Album necunoscut
+Progress=Procesez melodia %d din %d
+AbortOperation=Doriþi sã anulaþi operaþia?
+LogStart=Iniþiez...
+LogRip=Extrag %s...
+LogEncode=Comprim %s...
+LogSuccess=Succes deplin!
+LogFailed=Eºuat!
+LogCanceled=Anulat de cãtre utilizator.
+LogFinish=Încheiat.
+RegInfoNotComplete=Vã rog introduceþi informaþiile de înregistrare!
+RegFailed=Numãr de înregistrare invalid!
+RegSuccess=Vã mulþumim pentru înregistrare!
+PlaylistFilter=Fiºier listã melodii (*.m3u)
+PlaylistFailed=Eºuare la crearea listei de melodii!
+[Main]
+Unregistered=Neînregistrat
+MenuHelp=&Ajutor
+MenuRegister=În&registreazã...
+MenuAbout=&Despre...
+SelectOperation=Selectaþi operaþiunea doritã:
+SelectCDROM=Selectaþi unitatea CD-ROM doritã:
+NoDisc=Vã rog introduceþi un CD audio!
+Title=Titlu
+Length=Duratã
+Size=Mãrime (M)
+MenuRefresh=&Reîmprospãteazã
+MenuSelectAll=Selecteazã to&ate
+MenuSelectNone=&Deselecteazã toate
+MenuInverseSelection=&Inverseazã selecþia
+MenuConfigCDDB=&Configurare CDDB
+MenuQueryCDDB=Interogare CDDB
+MenuEditDiscInfo=Editeazã informaþii C&D
+MenuEditTrackInfo=Edi&teazã informaþii melodie
+MenuClearInfo=ªterge in&formaþii
+ButtonRefresh=Reîmprospãteazã
+ButtonSelectAll=Selecteazã toate
+ButtonSelectNone=Deselecteazã toate
+ButtonInverseSelection=Inverseazã selecþia
+ButtonConfigCDDB=Configurare CDDB
+ButtonQueryCDDB=Interogare CDDB
+ButtonEditDiscInfo=Editeazã informaþii CD
+ButtonEditTrackInfo=Editeazã informaþii melodie
+ButtonClearInfo=ªterge informaþii
+OutputFolder=Destinaþie:
+FileName=Nume fiºier:
+Priority=Prioritate:
+Priority1=Minimã
+Priority2=Micã
+Priority3=Normalã
+Priority4=Mare
+Priority5=Maximã
+WaveOptions=Nu sunt opþiuni pentru fiºierul WAVE de ieºire
+DeleteWave=ªterge fiºierele WAVE dupã comprimare
+Bitrate=Bitrate:
+From=De la
+To=La
+AudioMode=Mod audio:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint stereo
+Quality=Calitate:
+MP3EnableVBR=VBR
+MP3WriteVBRHeader=Scrie antet VBR
+MP3QualityHint=(0: înaltã, 9: rapid)
+ExtractWave=Extrag fiºier WAVE
+EncodeWave=Comprim fiºier WAVE
+TotalProgess=Progres per ansamblu
+[CDDBConfig]
+Title=Conexiune CDDB
+Server=Server:
+Script=Interogare script:
+Proxy=Activeazã Proxy
+Host=Gazdã:
+Port=Port:
+Authorization=Autorizaþie
+Name=Nume:
+Password=Parolã:
+[CDDBQuery]
+Title=Informaþie CDDB
+Save=Salveazã
+[CDDBMatch]
+Title=Discul se potriveºte
+Hint=Mai multepotriviri posibile au fost gãsite în baza de date, vã rog sã alegeþi varianta corectã.
+DiscTitle=Titlu disc
+Artist=Artist
+[DiscInfo]
+Title=Informaþie disc
+[TrackInfo]
+Title=Informaþie melodie
+[Log]
+Title=Jurnal
+OpenOutputFolder=Destinaþie
+CreatePlaylist=Listã melodii
+[Register]
+Title=Înregistreazã
+Name=Nume utilizator
+SN=Numãr serial:
+Buy=Cumpãrã acum!
+[About]
+Title=Despre
+Translator=Tradus cu diacritice: Kangaroo [kangaroo@home.ro]
+RegisterTo=Înregistrat:
+Unregistered=Neînregistrat

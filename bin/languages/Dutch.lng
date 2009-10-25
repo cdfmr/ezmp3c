@@ -1,0 +1,162 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=OK
+Cancel=Anuleren
+Close=Stop
+Back=< &Terug
+Next=&Volgende >
+Exit=&Stop
+GO=&Start!
+Pause=&Pauze
+Resume=&Gadoor
+Abort=&Afbreken
+Menu=&Menu
+
+[AudioInfo]
+Title=Titel:
+Album=Album:
+Artist=Artiest:
+Year=Jaar:
+Genre=Soort:
+Comment=Notitie:
+TrackTitles=Track Titels:
+
+[String]    
+NoDriver=(None)
+
+NoTrackSelected=Je moet minimaal 1 nummer selecteren!
+NoCDFound=Kan geen CD vinden in de geselecteerde CD Speler!
+
+CDDBConnect=CD informatie ontvangen van %s ...
+CDDBSuccess=CD informatie Goed ontvangen!
+CDDBFailed=Kan geen CD informatie ontvangen!
+
+OutputFolderError=Doel map is niet goed!
+FileNameRuleError=Bestand naam is niet goed!
+CreateFolderError=kan geen Doel map maken!
+
+UnknownArtist=Onbekende Artiest
+UnkonwnAlbum=onbekend Album
+
+Progress=Bezig met Track %d van %d
+
+AbortOperation=Wil je Stoppen met deze opdracht?
+
+LogStart=Start...
+LogRip=Ripping %s...
+LogEncode=Encoding %s...
+LogSuccess=gelukt!
+LogFailed=Niet gelukt!
+LogCanceled=Door Gebruiker geanuleerd.
+LogFinish=Klaar.
+
+RegInfoNotComplete=Enter uw registratie informatie AUB!
+RegFailed=Verkeerd serie nummer!
+RegSuccess=Dank u voor het registreren!
+
+PlaylistFilter=afspeellijst (*.m3u)
+PlaylistFailed=kan geen afspeellijst maken!
+
+[Main]
+Unregistered=NIET geregistreerd!
+MenuHelp=&Help Menu
+MenuRegister=&Registreren...
+MenuAbout=&Over EZ MP3...
+SelectOperation=Selecteer een optie:
+SelectCDROM=Selecteer de CD speler welke je wilt gebruiken:
+NoDisc=Doe een Audio CD in de geselecteerde CD speler!
+Title=Titel
+Length=Lengte
+Size=Grootte (M)
+MenuRefresh=&Vernieuwen
+MenuSelectAll=&Alles Selecteren
+MenuSelectNone=Select &None
+MenuInverseSelection=Selectie &Ongedaan maken
+MenuConfigCDDB=&Config CDDB
+MenuQueryCDDB=&Query CDDB
+MenuEditDiscInfo=Bewerk &CD Info
+MenuEditTrackInfo=bewerk &Track Info
+MenuClearInfo=Bewerken &Ongedaan maken
+ButtonRefresh=Vernieuwen
+ButtonSelectAll=Alles Selecteren
+ButtonSelectNone=Selectie Ongedaan maken
+ButtonInverseSelection=Selectie wisselen
+ButtonConfigCDDB=Config CDDB
+ButtonQueryCDDB=Query CDDB
+ButtonEditDiscInfo=Bewerk CD Info
+ButtonEditTrackInfo=Bewerk Track Info
+ButtonClearInfo=Bewerken Ongedaan maken
+OutputFolder=Doel map:
+FileName=Bestand naam:
+Priority=Prioriteit:
+Priority1=Laagst
+Priority2=Lager
+Priority3=Normaal
+Priority4=Hoger
+Priority5=Hoogst
+WaveOptions=Geen options
+DeleteWave=Verwijder Wave bestanden na bewerking
+Bitrate=Bit rate:
+From=Van
+To=Naar
+AudioMode=Audio Mode:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Kwaliteit:
+MP3EnableVBR=Gebruik VBR
+MP3WriteVBRHeader=Maak VBR Inhoud
+MP3QualityHint=(0: hoog, 9: snel)
+ExtractWave=Extracting Wave data
+EncodeWave=Encoding Muziek bestanden
+TotalProgess=Voortgang Totaal
+
+[CDDBConfig]
+Title=CDDB Verbinding
+Server=Server:
+Script=Query Script:
+Proxy=gebruik Proxy
+Host=Host:
+Port=Port:
+Authorization=Autorisatie
+Name=Naam:
+Password=Wachtwoord:
+
+[CDDBQuery]
+Title=CDDB Informatie
+Save=Opslaan
+
+[CDDBMatch]
+Title=schijf vergelijking
+Hint=Meer dan 1 vergelijking gevonden, Kies de juiste.
+DiscTitle=CD titel
+Artist=Artiest
+
+[DiscInfo]
+Title=CD Informatie
+
+[TrackInfo]
+Title=Track Informatie
+
+[Log]
+Title=Log
+OpenOutputFolder=Doel map
+CreatePlaylist=Afspeellijst
+
+[Register]
+Title=Registreer
+Name=Gebruikers Naam:
+SN=Serie Nummer:
+Buy=bestel NU !
+
+[About]
+Title=About
+Translator=vertaald naar het Nederlands door Jan Pronk
+RegisterTo=Geregistreerd:
+Unregistered=NIET geregistreerd
+

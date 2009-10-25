@@ -1,0 +1,143 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=Αποδοχή
+Cancel=’κυρο
+Close=Κλείσιμο
+Back=Προηγούμενο
+Next=Επόμενο
+Exit=Έξοδος
+GO=Εκκίνηση
+Pause=Παύση
+Resume=Επανάκτηση
+Abort=Ματαίωση
+Menu=Μενού
+[AudioInfo]
+Title=Τίτλος
+Album=’λμπουμ
+Artist=Ερμηνεύει
+Year=Έτος
+Genre=Είδος
+Comment=Σχόλιο
+TrackTitles=Τίτλος
+[String]
+NoDriver=(None)
+NoTrackSelected=Πρέπει να επιλέξετε τουλάχιστον ένα θέμα!
+NoCDFound=Δεν υπάρχει CD στη μονάδα CDROM!
+CDDBConnect=Ανάκτηση πληροφοριών για το CD από %s ...
+CDDBSuccess=Η ανάκτηση πληροφοριών για το CD πέτυχε!
+CDDBFailed=Η ανάκτηση πληροφοριών για το CD απέτυχε!
+OutputFolderError=Το όνομα του καταλόγου δεν υπάρχει!
+FileNameRuleError=Το όνομα του αρχείου δεν υπάρχει!
+CreateFolderError=Δεν μπορεί να δημιουργηθεί ο κατάλογος!
+UnknownArtist=’γνωστος Ερμηνευτής
+UnkonwnAlbum=’γνωστο ’λμπουμ
+Progress=Επεξεργασία θέμα %d από %d
+AbortOperation=Επιθυμείτε την ακύρωση της διαδικασίας;
+LogStart=Εκκίνηση...
+LogRip=Μετατροπή %s...
+LogEncode=Κωδικοποίηση %s...
+LogSuccess=Επιτυχία!
+LogFailed=Αποτυχία!
+LogCanceled=Ακύρωση χρήστη.
+LogFinish=Τέλος.
+RegInfoNotComplete=Εισάγετε τις πληροφορίες κατοχύρωσης!
+RegFailed=Το serial number είναι άκυρο!
+RegSuccess=Ευχαριστούμε για την κατοχύρωση!
+PlaylistFilter=Εκτέλεση Λίστας (*.m3u)
+PlaylistFailed=Αποτυχία δημιουργίας λίστας!
+[Main]
+Unregistered=Μη κατοχυρωμένο
+MenuHelp=&Βοήθεια
+MenuRegister=&Κατοχύρωση...
+MenuAbout=&Ταυτότητα...
+SelectOperation=Επιλέξτε την διαδικασία που επιθυμείτε:
+SelectCDROM=Επιλέξτε την μονάδα CDROM που επιθυμείτε:
+NoDisc=Παρακαλούμε εισάγετε ένα μουσικό CD!
+Title=Τίτλος
+Length=Διάρκεια
+Size=Μέγεθος (M)
+MenuRefresh=&Ανανέωση
+MenuSelectAll=Επιλογή &Όλων
+MenuSelectNone=Επιλογή &Κανενός
+MenuInverseSelection=&Αντιστροφή Επιλογής
+MenuConfigCDDB=&Διαμόρφωση CDDB
+MenuQueryCDDB=&Αναζήτηση CDDB
+MenuEditDiscInfo=Επεξεργασία &Πληροφοριών Δίσκου
+MenuEditTrackInfo=Επεξεργασία &Πληροφοριών Θέματος
+MenuClearInfo=Εκκαθάριση &Πληροφοριών
+ButtonRefresh=Ανανέωση
+ButtonSelectAll=Επιλογή Όλων
+ButtonSelectNone=Επιλογή Κανενός
+ButtonInverseSelection=Αντιστροφή Επιλογής
+ButtonConfigCDDB=Διαμόρφωση CDDB
+ButtonQueryCDDB=Αναζήτηση CDDB
+ButtonEditDiscInfo=Επεξεργασία Πληροφοριών Δίσκου
+ButtonEditTrackInfo=Επεξεργασία Πληροφοριών Θέματος
+ButtonClearInfo=Εκκαθάριση Πληροφοριών
+OutputFolder=Κατάλογος:
+FileName=Όνομα Αρχείου:
+Priority=Προτεραιότητα
+Priority1=Χαμηλότερη
+Priority2=Χαμηλή
+Priority3=Κανονική
+Priority4=Υψηλή
+Priority5=Υψηλότερη
+WaveOptions=Δεν υπάρχουν επιλογές εξόδου σε wave
+DeleteWave=Διαγραφή των Αρχείων Wave μετά την Κωδικοποίηση
+Bitrate=Bitrate:
+From=Από
+To=Έως
+AudioMode=Μέθοδος Ήχου:
+AudioMode1=Μονοφωνική
+AudioMode2=Στερεοφωνική
+AudioMode3=Αλληλέγγυη Στερεοφωνική
+Quality=Ποιότητα:
+MP3EnableVBR=Ενεργό VBR
+MP3WriteVBRHeader=Εγγρ. VBR Header
+MP3QualityHint=(0: υψηλή, 9: γρήγορη)
+ExtractWave=Εξαγωγή Δεδομένων Wave
+EncodeWave=Κωδικοποίηση Μουσικού αρχείου
+TotalProgess=Σύνολο Εξέλιξης
+[CDDBConfig]
+Title=CDDB Connection
+Server=Server:
+Script=Query Script:
+Proxy=Enable Proxy
+Host=Host:
+Port=Host:
+Authorization=Authorization
+Name=Name:
+Password=Password:
+[CDDBQuery]
+Title=CDDB Information
+Save=Save
+[CDDBMatch]
+Title=Disc Matches
+Hint=More than one potential matches have been found in database, please choose the correct one.
+DiscTitle=Disc Title
+Artist=Artist
+[DiscInfo]
+Title=Πληροφορίες Δίσκου
+[TrackInfo]
+Title=Πληροφορίες Θέματος
+[Log]
+Title=Αναφορά
+OpenOutputFolder=Κατάλογος
+CreatePlaylist=Δημιουργία Playlist
+[Register]
+Title=Κατοχύρωση
+Name=Όνομα
+SN=Serial Number:
+Buy=Αγοράστε το!
+[About]
+Title=Ταυτότητα
+Translator=Greek Language File by Stelios Sofiadis
+RegisterTo=Κατοχύρωση:
+Unregistered=Μη Κατοχυρωμένο

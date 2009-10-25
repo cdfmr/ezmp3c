@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=OK
+Cancel=Avbryt
+Close=Lukk
+Back=< &Tilbake
+Next=&Neste >
+Exit=A&vslutt
+GO=&Start!
+Pause=&Pause
+Resume=&Start på nytt
+Abort=&Abort
+Menu=&Meny
+
+[AudioInfo]
+Title=Tittel:
+Album=Album:
+Artist=Artist:
+Year=År:
+Genre=Kategori:
+Comment=Kommentar:
+TrackTitles=Spor tittel:
+
+[String]    
+NoDriver=(None)
+
+NoTrackSelected=Du må velge minst et spor!
+NoCDFound=Kan ikke detektere cd i valgt cd rom enhet!
+
+CDDBConnect=Innhenter CD informasjon fra %s ...
+CDDBSuccess=CD informasjon innhenting vellykket!
+CDDBFailed=Mislyktes i å innhente cd informasjon!
+
+OutputFolderError=Mål katalognavn er ikke gyldig!
+FileNameRuleError=Mål filnavn er ikke gyldig!
+CreateFolderError=Kan ikke opprette destinasjon katalog!!
+
+UnknownArtist=Ukjent Artist
+UnkonwnAlbum=Ukjent Album
+
+Progress=Prosesserer Spor %d av %d
+
+AbortOperation=Vil du avbryte operasjonen?
+
+LogStart=Starter...
+LogRip=Ripping %s...
+LogEncode=Encoding %s...
+LogSuccess=Success!
+LogFailed=Failed!
+LogCanceled=User canceled.
+LogFinish=Finish.
+
+RegInfoNotComplete=Skriv inn din registrerings informasjon!
+RegFailed=Ugyldig serie nummer!
+RegSuccess=Takk for at du registrerte deg!
+
+PlaylistFilter=Spille liste fil (Play List) (*.m3u)
+PlaylistFailed=Feil ved opprettelse av spille liste!
+
+[Main]
+Unregistered=Uregistrert
+MenuHelp=&Hjelpe områder
+MenuRegister=&Registrer...
+MenuAbout=&om...
+SelectOperation=Velg ønsket operasjon:
+SelectCDROM=Vel CD rom enhet du vil bruke:
+NoDisc=Sett inn en Audio CD!
+Title=Tittel
+Length=Lengde
+Size=Størrelse (M)
+MenuRefresh=&Refresh
+MenuSelectAll=Velg &Alle
+MenuSelectNone=Velg &Ingen
+MenuInverseSelection=&Inverter valg
+MenuConfigCDDB=&Konfigurer CDDB
+MenuQueryCDDB=&Innhent informasjon fra CDDB
+MenuEditDiscInfo=Endre &Disk Informasjon
+MenuEditTrackInfo=Endre &Spor Informasjon
+MenuClearInfo=Fjern In&formasjon
+ButtonRefresh=Refresh
+ButtonSelectAll=Velg Alle
+ButtonSelectNone=Velg Ingen
+ButtonInverseSelection=Inverter Valg
+ButtonConfigCDDB=Konfigurer CDDB
+ButtonQueryCDDB=Innhent informasjon fra CDDB
+ButtonEditDiscInfo=Endre Disk Informasjon
+ButtonEditTrackInfo=Endre Spor Informasjon
+ButtonClearInfo=Fjern Informasjon
+OutputFolder=Mål katalog:
+FileName=Fil navn:
+Priority=Priority:
+Priority1=Lavest
+Priority2=Lav
+Priority3=Normal
+Priority4=Høy
+Priority5=Høyest
+WaveOptions=Ingen valg for Wave destinasjon
+DeleteWave=Fjern Wave filer etter koding
+Bitrate=Bitrate:
+From=Fra
+To=Til
+AudioMode=Audio Mode:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Kvalitet:
+MP3EnableVBR=Aktiver VBR
+MP3WriteVBRHeader=Skriv VBR Header
+MP3QualityHint=(0: high, 9: fast)
+ExtractWave=Pakker ut Wave Data
+EncodeWave=Koder Musikk filer
+TotalProgess=Total progresjon
+
+[CDDBConfig]
+Title=CDDB forbindelse
+Server=Server:
+Script=Spørring Script:
+Proxy=Aktiver Proxy
+Host=Host:
+Port=Port:
+Authorization=Autorisasjon
+Name=Name:
+Password=Passord:
+
+[CDDBQuery]
+Title=CDDB Informasjon
+Save=Lagre
+
+[CDDBMatch]
+Title=Disk treff
+Hint=Flere mulige titler har blitt funnet i databasen, velg den riktige.
+DiscTitle=Disk Tittel
+Artist=Artist
+
+[DiscInfo]
+Title=Disk Informasjon
+
+[TrackInfo]
+Title=Spor Informasjon
+
+[Log]
+Title=Logg
+OpenOutputFolder=Mål katalog
+CreatePlaylist=Lag spilleliste
+
+[Register]
+Title=Registrer
+Name=Bruker Navn:
+SN=Serie Nummer:
+Buy=Kjøp nå !
+
+[About]
+Title=Om
+Translator=Norsk språk fil av Arnfinn Johansen
+RegisterTo=Registrert til:
+Unregistered=Uregistrert

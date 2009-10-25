@@ -1,0 +1,153 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=OK
+Cancel=Peruuta
+Close=Sulje
+Back=< &Takaisin
+Next=&Seuraava>
+Exit=Sulje
+GO=&Aloita!
+Pause=&Pysäytä
+Resume=&Aloita uudelleen
+Abort=&Keskeytä
+Menu=&Valikko
+[AudioInfo]
+Title=Otsikko:
+Album=Albumi:
+Artist=Artisti:
+Year=Vuosi:
+Genre=Tyylisuunta:
+Comment=Kommentti:
+TrackTitles=Kappaleen Nimi:
+[String]
+NoDriver=(Ei lainkaan)
+
+NoTrackSelected=Valitse yksi kappale!
+NoCDFound=Tunnistamaton CD valitussa CDROM yksikössä!
+
+CDDBConnect=Haetaan tietoja CD:ltä ...
+CDDBSuccess=CD:n tiedot haettu onnistuneesti!
+CDDBFailed=CD:n tietojen haku epäonnistui! 
+
+OutputFolderError=Valitsemasi kansio ei kelpaa!
+FileNameRuleError=Valitsemasi tiedostonimi ei kelpaa!
+CreateFolderError=Valitsemaasi hakemistoa ei voida luoda!
+
+UnknownArtist=Tuntematon Artisti
+UnkonwnAlbum=Tuntematon Albumi
+
+Progress=Prosessoi Kappaletta %d :ia %d :sta
+
+AbortOperation=Haluatko keskeyttää toiminnon?
+
+LogStart=Aloitetaan toimintoa...
+LogRip=Käännetään %s...
+LogEncode=Koodataan %s...
+LogSuccess=Toiminto onnistui!
+LogFailed=Toiminto epäonnistui!
+LogCanceled=Käyttäjä keskeyttänyt.
+LogFinish=Valmis.
+
+RegInfoNotComplete=Ole hyvä ja anna rekisteröinti tietosi!
+RegFailed=Väärä sarja numero!
+RegSuccess=Kiitos rekisteröinnistäsi!
+
+PlaylistFilter=Soitto Listan Tiedosto (*.m3u)
+PlaylistFailed=Soittolistan luonti epäonnistui!
+[Main]
+Unregistered=Rekisteröimätön
+MenuHelp=&Ohjeen Aiheet
+MenuRegister=&Rekisteri...
+MenuAbout=&Tiedot...
+SelectOperation=Valitse toiminto:
+SelectCDROM=Valitse CDROM laite, jota haluat käyttää:
+NoDisc=Aseta audio CD asemaan!
+Title=Otsikko
+Length=Pituus
+Size=Koko (M)
+MenuRefresh=&Päivitä
+MenuSelectAll=Valitse &Kaikki
+MenuSelectNone=Tyhjennä &Valinta
+MenuInverseSelection=&Käännä Valinta
+MenuConfigCDDB=&Asetukset CDDB
+MenuQueryCDDB=&Kysely CDDB
+MenuEditDiscInfo=Editoi &Levyn Tietoja
+MenuEditTrackInfo=Editoi &Kappaleen Tietoja
+MenuClearInfo=Tyhjennä tiedot
+ButtonRefresh=Päivitä
+ButtonSelectAll=Valitse Kaikki
+ButtonSelectNone=Tyhjennä Valinta
+ButtonInverseSelection=Käännä Valitut
+ButtonConfigCDDB=Asetukset CDDB
+ButtonQueryCDDB=Kysely CDDB
+ButtonEditDiscInfo=Editoi Levyn Tiedot
+ButtonEditTrackInfo=Editoi Kappaleen tiedot
+ButtonClearInfo=Tyhjennä Valinta
+OutputFolder=Tallenna Kansioon:
+FileName=Tiedostonimi:
+Priority=Tärkeys:
+Priority1=Matalin
+Priority2=Matala
+Priority3=Normaali
+Priority4=Korkea
+Priority5=Korkein
+WaveOptions=Ei valintoja wave:lle
+DeleteWave=Poista Wave -Tiedostot Käännöksen jälkeen
+Bitrate=Bitti nopeus:
+From=Lukien
+To=Asti
+AudioMode=Audio Tila:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Laatu:
+MP3EnableVBR=Mahdollista VBR
+MP3WriteVBRHeader=Kirjoita VBR Otsikko
+MP3QualityHint=(0: korkea, 9: nopea)
+ExtractWave=Puretaan Audio Dataa
+EncodeWave=Käännetään Musiikki Tiedostoja
+CurrentTrack=Nykyinen Kappale
+TotalProgess=Kokonaisprosessi
+[CDDBConfig]
+Title=CDDB Yhteys
+Server=Serveri:
+Script=Kysely Skripti:
+Proxy=Mahdollista Proxy
+Host=Host:
+Port=Portti:
+Authorization=Tunnistus
+Name=Nimi:
+Password=Salasana:
+[CDDBQuery]
+Title=CDDB Tiedot
+Save=Tallenna
+[CDDBMatch]
+Title=Sopivat Levyt
+Hint=Tiedostoista löytyi useita sopivia levyjä. Valitse oikea levy. 
+DiscTitle=Levyn Otsikko
+Artist=Artisti
+[DiscInfo]
+Title=Levyn Tiedot
+[TrackInfo]
+Title=Kappaleen Tiedot
+[Log]
+Title=Logi
+OpenOutputFolder=Kansio
+CreatePlaylist=Luo Soittolista
+[Register]
+Title=Rekisteri
+Name=Käyttäjä Nimi:
+SN=Sarjanumero:
+Buy=Osta Nyt!
+[About]
+Title=Tietoja
+Translator=Suomennos Tiedosto Mira Luoma
+RegisterTo=Rekisteröity:
+Unregistered=Rekisteröimätön

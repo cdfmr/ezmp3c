@@ -1,0 +1,161 @@
+[Font]
+שם הפונט=Tahoma
+גודל הפונט=8
+כותרת שם הפונט=Tahoma
+גודל כותרת הפונט=10
+
+[Button]
+OK=אישור
+Cancel=ביטול
+Close=סגור
+Back=< הקודם
+Next=הבא >
+Exit=יציאה
+GO=בצע
+Pause=הפסקה
+Resumeהמשך
+Abort=בטל פעולה
+Menu=תפריט
+
+[AudioInfo]
+Title=כותרת:
+Album=אלבום:
+Artist=אמן:
+Year=שנה:
+Genre=סוג:
+Comment=הערה:
+TrackTitles=שמות הקבצים:
+
+[String]    
+NoDriver=(אין)
+
+NoTrackSelected=עליך לבחור לפחות קובץ אחד !
+NoCDFound=לא מוצא דיסק בכונן !
+
+CDDBConnect=המחשב מקבל את המידע מ %s ...
+CDDBSuccess=המחשב קיבל את המידע בהצלחה !
+CDDBFailed=המחשב לא הצליח לקבל את המידע!
+
+OutputFolderError=שם תיקיית הייצוא אינו חוקי!
+FileNameRuleError=שם קובץ הייצוא אינו חוקי!
+CreateFolderError=המחשב לא מצליח ליצור תיקיית יצוא!
+
+UnknownArtist=אמן לא ידוע
+UnkonwnAlbum=אלבום לא ידוע
+
+Progress=מייצא %d מ %d
+
+AbortOperation=האם ברצונך לבטל את הפעולה?
+
+LogStart=מתחיל...
+LogRip=צורב %s...
+LogEncode=מקליט %s...
+LogSuccess=המחשב הצליח!
+LogFailed=המחשב נכשל!
+LogCanceled=הפעולה בוטלה בידי המשתמש.
+LogFinish=גמור.
+
+RegInfoNotComplete=הקש בבקשה את הפרטים !
+RegFailed=המספר שהקשת אינו נכון!
+RegSuccess=תודה!
+
+PlaylistFilter=קובץ רשימת השמעה (*.m3u)
+PlaylistFailed=לא הצליח ליצור רשימת השמעה!
+
+[Main]
+Unregistered=Unregistered
+MenuHelp=נושאי עזרה
+MenuRegister=הקלד פרטי משתמש...
+MenuAbout=על התוכנה...
+SelectOperation=בחר את הפעולה שברצונך לבצע:
+SelectCDROM=בחר את הכונן שברצונו אתה רוצה להשתמש:
+NoDisc=הכנס בבקשה דיסק מוסיקה!
+Title=כותרת
+Length=אורך
+Size=גודל (M)
+MenuRefresh=רענן
+MenuSelectAll=בחר הכל
+MenuSelectNone=בטל בחירה
+MenuInverseSelection=הפוך את הבחירה
+MenuConfigCDDB=פרטי CDDB
+MenuQueryCDDB=שאילתת CDDB
+MenuEditDiscInfo=ערוך פרטי הסידי
+MenuEditTrackInfo=ערוך הקובץ פרטי
+MenuClearInfo=מחק מידע
+ButtonRefresh=רענן
+ButtonSelectAll=בחר הכל
+ButtonSelectNone=בטל בחירה
+ButtonInverseSelection=הפוך את הבחירה
+ButtonConfigCDDB=פרטי CDDB
+ButtonQueryCDDB=שאילתת CDDB
+ButtonEditDiscInfo=ערוך פרטי דיסק
+ButtonEditTrackInfo=ערוך פרטי קובץ
+ButtonClearInfo=מחק מידע
+OutputFolder=תיקיית ייצוא:
+FileName=שם הקובץ:
+Priority=קדימות:
+Priority1=תחתון
+Priority2=למטה
+Priority3=רגיל
+Priority4=למעלה
+Priority5=עליון
+WaveOptions=אין אפשקרויות לייצוא WAVE
+DeleteWave=מחק את קבצי ה WAVE לאחר הייצור
+Bitrate=העברה:
+From=מ
+To=אל
+AudioMode=מצב שמיעה:
+AudioMode1=מונו
+AudioMode2=סטראו
+AudioMode3=סטראו מצורף
+Quality=איכות:
+MP3EnableVBR=הפעל VBR
+MP3WriteVBRHeader=כתוב כותרת VBR
+MP3QualityHint=(0: גבוה, 9: מהיר)
+ExtractWave=מייצא מידע קובץ
+EncodeWave=סוג קובץ מוסיקה
+TotalProgess=התקדמות כוללת :
+
+[CDDBConfig]
+Title=CDDB התחברות
+Server=שרת:
+Script=שאילתת Script:
+Proxy=הפעל Proxy
+Host=מארח:
+Port=יציאה:
+Authorization=מידע התחברות
+Name=שם:
+Password=סיסמא:
+
+[CDDBQuery]
+Title=CDDB מידע
+Save=שמור
+
+[CDDBMatch]
+Title=התאמות דיסק
+Hint=נמצאו יותר מתוצאה אחת מתאימה. בחר את הנכונה.
+DiscTitle=שם הדיסק
+Artist=אמן
+
+[DiscInfo]
+Title=מידע הדיסק
+
+[TrackInfo]
+Title=מידע הקובץ
+
+[Log]
+Title=התחבר
+OpenOutputFolder=תיקייית ייצוא
+CreatePlaylist=צור רשימת השמעה
+
+[Register]
+Title=Register
+Name=שם משתמש:
+SN=מספר משתמש:
+Buy=קנה עכשיו !
+
+[About]
+Title=על התוכנה
+Translator=קובץ שפה בעברית נכתב ע"י אור ברלוביץ.
+RegisterTo=רשום ל:
+Unregistered=Unregistered

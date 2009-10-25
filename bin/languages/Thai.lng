@@ -1,0 +1,161 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=ตกลง
+Cancel=ยกเลิก
+Close=ปิด
+Back=< ย้อนหลัง
+Next=เดินหน้า >
+Exit=ออก
+GO=เริ่มได้
+Pause=หยุดชั่วคราว
+Resume=เริ่มใหม่
+Abort=ยุติ
+Menu=รายการหลัก
+
+[AudioInfo]
+Title=ชื่อเรื่อง:
+Album=ชื่อหมวดหมู่:
+Artist=ชื่อผู้สร้าง:
+Year=ปี:
+Genre=แนวเพลง:
+Comment=ข้อสังเกตุ:
+TrackTitles=ชื่อแทรค:
+
+[String]    
+NoDriver=(ไม่พบไดร์ฟเวอร์)
+
+NoTrackSelected=คุณต้องเลือกอย่างน้อย 1 แทรคก่อน!
+NoCDFound=ไม่พบแผ่นซีดีในช่องใส่ซีดี
+
+CDDBConnect=Retrieving CD information from %s ...
+CDDBSuccess=CD information retrieved successfully!
+CDDBFailed=Failed retrieving CD information!
+
+OutputFolderError=Output folder is invalid!
+FileNameRuleError=Output filename is invalid!
+CreateFolderError=Can't create output directory!
+
+UnknownArtist=ไม่ปรากฏชื่อศิลปิน
+UnkonwnAlbum=ไม่ปรากฏ ชื่ออัลบั้ม
+
+Progress=กำลังทำงานที่แทรก %d ในจำนวนทั้งหมด %d
+
+AbortOperation=คุณต้องการยกเลิกภารกิจนี้หรือไม่
+
+LogStart=กำลังเริ่มทำงาน...
+LogRip=กำลัง Ripping %s...
+LogEncode=กำลัง Encoding %s...
+LogSuccess=สำเร็จแล้ว..ดีใจจัง!
+LogFailed=ว้า! แย่จัง...ไม่สำเร็จ
+LogCanceled=ยกเลิกโดยผู้ใช้
+LogFinish=เสร็จแล้วครับ.....
+
+RegInfoNotComplete=โปรดกรอกข้อมูลเกี่ยวกับการลงทะเบียนของท่าน
+RegFailed=ขอโทษครับ..คุณใส่ serial number ผิด
+RegSuccess=ขอบคุณมาก...สำหรับการลงทะเบียน
+
+PlaylistFilter=Playlists (*.m3u)|*.m3u
+PlaylistFailed=สร้างรายการเพลงล้มเหลว
+
+[Main]
+Unregistered=ยังไม่ได้ลงทะเบียน
+MenuHelp=หัวข้อการช่วยเหลือ
+MenuRegister=ลงทะเบียน...
+MenuAbout=เกี่ยวกับโปรแกรมนี้...
+SelectOperation=กรุณาเลือกสิ่งที่คุณต้องการ:
+SelectCDROM=กรุณาเลือกช่องใส่ &CDROM ที่คุณต้องการใช้:
+NoDisc=กรุณาใส่แผ่นซีดีเพลง (CD Audio)
+Title=หัวเรื่อง
+Length=ความยาว
+Size=ขนาด (M)
+MenuRefresh=&Refresh
+MenuSelectAll=เลือกทั้งหมด
+MenuSelectNone=ไม่เลือกทั้งหมด
+MenuInverseSelection=สลับการเลือก
+MenuConfigCDDB=&Config CDDB
+MenuQueryCDDB=&Query CDDB
+MenuEditDiscInfo=แก้ไขข้อมูลของ Disc
+MenuEditTrackInfo=แก้ไขข้อมูลของ Track
+MenuClearInfo=ล้างข้อมูล
+ButtonRefresh=Refresh
+ButtonSelectAll=เลือกทั้งหมด
+ButtonSelectNone=ไม่เลือกทั้งหมด
+ButtonInverseSelection=สลับการเลือก
+ButtonConfigCDDB=Config CDDB
+ButtonQueryCDDB=Query CDDB
+ButtonEditDiscInfo=แก้ไขข้อมูลของแผ่น
+ButtonEditTrackInfo=แก้ไขข้อมูลของ Track
+ButtonClearInfo=ล้างข้อมูล
+OutputFolder=&Output Folder:
+FileName=&Filename:
+Priority=จัดลำดับความสำคัญ:
+Priority1=ต่ำสุดๆ
+Priority2=ต่ำ
+Priority3=ปกติ
+Priority4=สูง
+Priority5=สูงสุด
+WaveOptions=No options for wave output
+Bitrate=&Bitrate:
+From=F&rom
+To=&To
+AudioMode=&Audio Mode:
+AudioMode1=โมโน
+AudioMode2=สเตริโอ
+AudioMode3=Joint Stereo
+Quality=&Quality:
+MP3EnableVBR=Enable &VBR
+MP3WriteVBRHeader=Write VBR &Header
+MP3QualityHint=(0: high, 9: fast)
+CurrentTrack=แทรคที่กำลังทำงาน
+TotalProgess=จำนวนแทรคทั้งหมด
+
+[CDDBConfig]
+Title=CDDB Connection
+Server=&Server:
+Script=&Query Script:
+Proxy=Enable &Proxy
+Host=&Host:
+Port=P&ort:
+Authorization=&Authorization
+Name=&Name:
+Password=Pass&word:
+
+[CDDBQuery]
+Title=CDDB Information
+Save=บันทึก
+
+[CDDBMatch]
+Title=Disc Matches
+Hint=More than one potential matches have been found in database, please choose the correct one.
+DiscTitle=Disc Title
+Artist=Artist
+
+[DiscInfo]
+Title=ข้อมูลเกี่ยวกับแผ่นดิส
+
+[TrackInfo]
+Title=ข้อมูลแทรค
+
+[Log]
+Title=Log
+OpenOutputFolder=&Browse
+CreatePlaylist=&Playlist
+
+[Register]
+Title=Register
+Name=&User Name:
+SN=&Serial Number:
+Buy=&Buy Now !
+
+[About]
+Title=เกี่ยวกับ EZ MP3 Creator
+Translator=Thai Language File by พรเทพ จรัสศรี
+HomePage=Home Page:http://www.geocities.com/chuanchuenkaerai
+Support=Support:pornthep.charatsri@gmail.com
+RegisterTo=Registered to:
+Unregistered=Unregistered

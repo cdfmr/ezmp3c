@@ -1,0 +1,144 @@
+Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+$Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=Ok
+Cancel=Tühista
+Close=Sule
+Back=Tagasi
+Next=Edasi
+Exit=Sule
+GO=&ALUSTA!
+Pause=&Paus
+Resume=&Jätka
+Abort=&Katkesta
+Menu=&Menüü
+[AudioInfo]
+Title=Tiitel:
+Album=Album:
+Artist=Esitaja:
+Year=Aasta:
+Genre=Þanr:
+Comment=Kommentaar:
+TrackTitles=Muusikafailid:
+[String]
+NoDriver=(Pole)
+NoTrackSelected=Sa pead valima vähemalt ühe audiofaili!
+NoCDFound=Ei saa tuvastada valitud faile CDROM'il!
+CDDBConnect=Püüan saada CD informatsiooni %s...
+CDDBSuccess=CD informatsioon saabus!
+CDDBFailed=CD informatsioon ei saabunud
+OutputFolderError=Väljalaske kaust on vale!
+FileNameRuleError=Väljalaske failinimi pole õige!
+CreateFolderError=Ei saa koostada väljalaske kausta
+UnknownArtist=Tundmatu Esitaja
+UnkonwnAlbum=Tundmatu Album
+Progress=Töötlen pala %d %d'st
+AbortOperation=Kas sa tahad katkestada tegevust?
+LogStart=Alustan...
+LogRip=Ripin %s...
+LogEncode=Kodeerin %s...
+LogSuccess=Õnnitlused!
+LogFailed=Ebaõnnestus!
+LogCanceled=Kasutaja katkestas tegevuse.
+LogFinish=Lõpp
+RegInfoNotComplete=Palun sisesta enda registratsiooni informatsioon!
+RegFailed=Vale Seerial kood!
+RegSuccess=Aitäh registreerimast!
+PlaylistFilter=Pleilist fail (*.m3u)
+PlaylistFailed=Ebaõnnestus pleilisti koostamine!
+[Main]
+Unregistered=Registreerimata
+MenuHelp=&Abiteemad
+MenuRegister=&Registreeri...
+MenuAbout=&Programmist...
+SelectOperation=Palun vali mida sa teha tahad:
+SelectCDROM=Vali CDROM seade mida kasutada:
+NoDisc=Palun sisesta Muusika CD!
+Title=Tiitel
+Length=Pikkus
+Size=Suurus (M)
+MenuRefresh=&Värskenda
+MenuSelectAll=Vali &Kõik
+MenuSelectNone=Ära vali &mitteühtegi
+MenuInverseSelection=&Pöördvalik
+MenuConfigCDDB=&Konfigueeri CDDB
+MenuQueryCDDB=&CDDB Järjekord
+MenuEditDiscInfo=Muuda &Plaadi infot
+MenuEditTrackInfo=Muuda &Pala infot
+MenuClearInfo=Puhasta In&fo
+ButtonRefresh=Värskenda
+ButtonSelectAll=Vali kõik
+ButtonSelectNone=Ära vali mitteühtegi
+ButtonInverseSelection=Pöördvalik
+ButtonConfigCDDB=Konfigueeri CDDB
+ButtonQueryCDDB=CDDB Järjekord
+ButtonEditDiscInfo=Muuda Plaadi Infot
+ButtonEditTrackInfo=Muuda pala infot
+ButtonClearInfo=Puhasta info
+OutputFolder=Väljalaske kaust:
+FileName=Failinimi:
+Priority=Prioriteet:
+Priority1=Madalaim
+Priority2=Madal
+Priority3=Normaalne
+Priority4=Kõrge
+Priority5=Kõrgeim
+WaveOptions=Pole valikuid lainefailide väljalaskmiseks
+DeleteWave=Kustuta Lainefailid pärast Kodeerimist
+Bitrate=Bitthinne:
+From=Asukohast
+To=Asukohta
+AudioMode=Audio viis:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Ühendatud Stereo
+Quality=Kvaliteet:
+MP3EnableVBR=Luba VBR
+MP3WriteVBRHeader=Kirjuta VBR Päis
+MP3QualityHint=(0: kõrgus, 9: kiirus)
+ExtractWave=Viib Audio Datat
+EncodeWave=Kodeerin Muusikafaile
+CurrentTrack=Hetkene fail
+TotalProgess=Terve Progress
+[CDDBConfig]
+Title=CDDB Ühendus
+Server=Server:
+Script=Järjekorra kood:
+Proxy=Luba Proxy
+Host=Hostia:
+Port=Port:
+Authorization=Autoriseerimine
+Name=Nimi:
+Password=Parool:
+[CDDBQuery]
+Title=CDDB Informatsioon
+Save=Salvesta
+[CDDBMatch]
+Title=Plaat sobib
+Hint=Rohkem kui üks potensiaalne sobivus leitud databaasist, palun vali õige.
+DiscTitle=Plaadi Pealkiri
+Artist=Esitaja
+[DiscInfo]
+Title=Plaadi Informatsioon
+[TrackInfo]
+Title=Pala informatsioon
+[Log]
+Title=Logi
+OpenOutputFolder=Väljalaske kaust
+CreatePlaylist=Koosta pleilist
+[Register]
+Title=Registreeri
+Name=Kasutajanimi:
+SN=Seerial Kood:
+Buy=Osta Kohe!
+[About]
+Title=Programmist
+Translator=Eestikeelne Keelefail Indrek Ardel'ilt
+RegisterTo=Registreeritud:
+Unregistered=Registreerimata

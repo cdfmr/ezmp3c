@@ -1,0 +1,143 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=OK
+Cancel=Cancelar
+Close=Fechar
+Back=< &Anterior
+Next=Segui&nte >
+Exit=&Sair
+GO=&Ir
+Pause=&Pausa
+Resume=Continua&r
+Abort=A&bortar
+Menu=&Menu
+[AudioInfo]
+Title=Título:
+Album=Álbum:
+Artist=Artista:
+Year=Ano:
+Genre=Género:
+Comment=Comentário:
+TrackTitles=Títulos das Faixas:
+[String]
+NoDriver=(None)
+NoTrackSelected=Tem que seleccionar pelo menos uma faixa!
+NoCDFound=Não foi detectado nenhum CD na drive seleccionada!
+CDDBConnect=A receber informação do CD %s ...
+CDDBSuccess=Informação do CD bem recebida!
+CDDBFailed=Informação do CD falhada!
+OutputFolderError=A nome da pasta é inválido!
+FileNameRuleError=O nome do ficheiro é inválido!
+CreateFolderError=Não é possível criar a pasta!
+UnknownArtist=Artista desconhecido
+UnkonwnAlbum=Álbum desconhecido
+Progress=Progresso da faixa %d de %d
+AbortOperation=Deseja terminar a operação?
+LogStart=Iniciando...
+LogRip=Retirando %s...
+LogEncode=Codificando %s...
+LogSuccess=Bem sucedido!
+LogFailed=Falhou!
+LogCanceled=Cancelado.
+LogFinish=Terminado.
+RegInfoNotComplete=Por favor, entre os seus dados de registo!
+RegFailed=Número de série inválido!
+RegSuccess=Obrigado pelo seu registo!
+PlaylistFilter=Ficheiro de Lista de Músicas (*.m3u)
+PlaylistFailed=Falha ao criar lista de músicas!
+[Main]
+Unregistered=Não registado
+MenuHelp=Tópicos d&e Ajuda
+MenuRegister=&Registe-se...
+MenuAbout=&Acerca...
+SelectOperation=Seleccione a operação que deseja:
+SelectCDROM=Seleccione a drive de CD-ROM que deseja usar:
+NoDisc=Por favor, insira um CD de música!
+Title=Título
+Length=Duração
+Size=Tamanho (M)
+MenuRefresh=Actualiza&r
+MenuSelectAll=Seleccion&ar Tudo
+MenuSelectNone=Deseleccio&nar
+MenuInverseSelection=&Inverter Selecção
+MenuConfigCDDB=&Configurar CDDB
+MenuQueryCDDB=&Query CDDB
+MenuEditDiscInfo=Editar Informação do &Disco
+MenuEditTrackInfo=Edi&tar Informação das Faixas
+MenuClearInfo=Limpar In&formação
+ButtonRefresh=Actualizar
+ButtonSelectAll=Seleccionar Tudo
+ButtonSelectNone=Deseleccionar
+ButtonInverseSelection=Inverter Selecção
+ButtonConfigCDDB=Configurar CDDB
+ButtonQueryCDDB=Query CDDB
+ButtonEditDiscInfo=Editar Informação do Disco
+ButtonEditTrackInfo=Editar Informação das Faixas
+ButtonClearInfo=Limpar Informação
+OutputFolder=Nome da Pasta:
+FileName=Nome do Ficheiro:
+Priority=Prioridade:
+Priority1=Muito baixa
+Priority2=Baixa
+Priority3=Normal
+Priority4=Alta
+Priority5=Muito alta
+WaveOptions=Sem opções para ficheiros wave
+DeleteWave=Apagar Ficheiros Wave após codificação
+Bitrate=Velocidade:
+From=De
+To=Para
+AudioMode=Modo de Áudio:
+AudioMode1=Mono
+AudioMode2=Estéreo
+AudioMode3=Estéreo Joint
+Quality=Qualidade:
+MP3EnableVBR=Permitir VBR
+MP3WriteVBRHeader=Escrever Cabeçalho VBR
+MP3QualityHint=(0: alta, 9: rápida)
+ExtractWave=Extraindo Dados Wave
+EncodeWave=Codificando Ficheiros de Música
+TotalProgess=Progresso Total
+[CDDBConfig]
+Title=Conexão CDDB
+Server=Servidor:
+Script=Query Script:
+Proxy=Permitir Proxy
+Host=Host:
+Port=Porta:
+Authorization=Autorização
+Name=Nome:
+Password=Palavra-chave:
+[CDDBQuery]
+Title=Informação CDDB
+Save=Guardar
+[CDDBMatch]
+Title=Nome do Disco
+Hint=Mais do que um nome foi encontrado na base se dados. Por favor, escolha o correcto.
+DiscTitle=Título do Disco
+Artist=Artista
+[DiscInfo]
+Title=Informação do Disco
+[TrackInfo]
+Title=Informação da Faixa
+[Log]
+Title=Log
+OpenOutputFolder=Pasta
+CreatePlaylist=Criar Playlist
+[Register]
+Title=Registe-se
+Name=Nome do Utilizador:
+SN=Número de Série:
+Buy=Compre Agora!
+[About]
+Title=Acerca
+Translator=Portuguese Language File by Nuno Machado
+RegisterTo=Registe-se para:
+Unregistered=Não registado

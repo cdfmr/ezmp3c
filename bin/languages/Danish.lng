@@ -1,0 +1,152 @@
+ Translation made with Translator 1.32 (http://www2.arnes.si/~sopjsimo/translator.html)
+ $Translator:NL=%n:TB=%t
+
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+[Button]
+OK=OK
+Cancel=Fortryd
+Close=Luk
+Back=< &Tilbage
+Next=&Næste >
+Exit=L&uk
+GO=&START!
+Pause=&Pause
+Resume=&Fortsæt
+Abort=&Fortryd
+Menu=&Menu
+[AudioInfo]
+Title=Titel:
+Album=Album:
+Artist=Kunstner:
+Year=Årstal:
+Genre=Genre:
+Comment=Kommentar:
+TrackTitles=Nummer Titler:
+[String]
+NoDriver=(Ingen)
+
+NoTrackSelected=Du skal vælge mindst et nummer!
+NoCDFound=Kan ikke finde en CD i det valgte CDROM drev!
+
+CDDBConnect=Modtager CD information fra %s ...
+CDDBSuccess=CD information motaget med succes!
+CDDBFailed=Kunne ikke modtage CD information!
+
+OutputFolderError=Output mappenavn er forkert eller findes ikke!
+FileNameRuleError=Output filnavn duer ikke!
+CreateFolderError=Kan ikke lave output mappe!
+
+UnknownArtist=Ukendt Kunstner
+UnkonwnAlbum=Ukendt Album
+
+Progress=Arbejder på Nummer %d af %d
+
+AbortOperation=Vil du Afbryde arbejdet?
+
+LogStart=Starter...
+LogRip=Ripper %s...
+LogEncode=Omformer %s...
+LogSuccess=Succes!
+LogFailed=Mislykket!
+LogCanceled=Bruger afbrød.
+LogFinish=Færdig.
+
+RegInfoNotComplete=Vær venlig at indtaste din registrerings information!
+RegFailed=Forkert serial nummer!
+RegSuccess=Tak for din registrering!
+
+PlaylistFilter=Play List Fil (*.m3u)
+PlaylistFailed=Kunne ikke lave play listen!
+[Main]
+Unregistered=Uregistreret
+MenuHelp=&Hjælpe Emner
+MenuRegister=&Registrer...
+MenuAbout=&Om...
+SelectOperation=Vælg den funktion du vil udføre:
+SelectCDROM=Vælg CDROM drevet du vil bruge:
+NoDisc=Indsæt venligst en audio CD!
+Title=Titel
+Length=Længde
+Size=Størelse (M)
+MenuRefresh=&Opfrisk
+MenuSelectAll=Vælg &Alle
+MenuSelectNone=Vælg &Ingen
+MenuInverseSelection=&Omvendt Valg
+MenuConfigCDDB=&Konfigurer CDDB
+MenuQueryCDDB=&Forespørg CDDB
+MenuEditDiscInfo=Editer &Disk Info
+MenuEditTrackInfo=Editer &Nummer Info
+MenuClearInfo=Slet In&fo
+ButtonRefresh=Opfrisk
+ButtonSelectAll=Vælg Alle
+ButtonSelectNone=Vælg Ingen
+ButtonInverseSelection=Omvendt Valg
+ButtonConfigCDDB=Konfigurer CDDB
+ButtonQueryCDDB=Forespørg CDDB
+ButtonEditDiscInfo=Editer Disk Info
+ButtonEditTrackInfo=Editer Nummer Info
+ButtonClearInfo=Slet Info
+OutputFolder=Output Mappe:
+FileName=Fil Navn:
+Priority=Prioitet:
+Priority1=Laveste
+Priority2=Lav
+Priority3=Normal
+Priority4=Høj
+Priority5=Højest
+WaveOptions=Ingen valgmuligheder for wave output
+DeleteWave=Slet Wave Filer Efter Omformning
+Bitrate=Bitrate:
+From=Fra
+To=Til
+AudioMode=Audio Tilstand:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Sammensat Stereo
+Quality=Kvalitet:
+MP3EnableVBR=Slå VBR til
+MP3WriteVBRHeader=Skriv VBR Header
+MP3QualityHint=(0: høj, 9: hurtig)
+ExtractWave=Kopierer Wave Data
+EncodeWave=Omformer Musik Filer
+TotalProgess=Total Udvikling
+[CDDBConfig]
+Title=CDDB Tilslutning
+Server=Server:
+Script=Forespørgelses Script:
+Proxy=Start Proxy
+Host=Vært:
+Port=Port:
+Authorization=Autorisation
+Name=Navn:
+Password=Password:
+[CDDBQuery]
+Title=CDDB Information
+Save=Gem
+[CDDBMatch]
+Title=Disk overensstemmelse
+Hint=Der er fundet mere end en cd i databasen. Vælg venligst den korrekte.
+DiscTitle=Disk Titel
+Artist=Kunstner
+[DiscInfo]
+Title=Disk Information
+[TrackInfo]
+Title=Nummer Information
+[Log]
+Title=Log
+OpenOutputFolder=Output Mappe
+CreatePlaylist=Lav Playliste
+[Register]
+Title=Registrer
+Name=Bruger Navn:
+SN=Serial Nummer:
+Buy=Køb Nu !
+[About]
+Title=Om
+Translator=Danish Language File by Morten Grønvig
+RegisterTo=Registreret til:
+Unregistered=Uregistreret

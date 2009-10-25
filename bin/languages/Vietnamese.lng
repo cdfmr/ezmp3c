@@ -1,0 +1,162 @@
+[Font]
+FontName=Tahoma
+FontSize=8
+TitleFontName=Tahoma
+TitleFontSize=10
+
+[Button]
+OK=OK
+Cancel=BO
+Close=Dong
+Back=< &Tro Lai
+Next=Di Toi >
+Exit=Di Ra
+GO=&Bac dau!
+Pause=&Tro
+Resume=&Tiep Tuc
+Abort=&Xoa Di
+Menu=&Chon lua
+
+[AudioInfo]
+Title=Bai hat:
+Album=Anbom:
+Artist=Ca Si:
+Year=Nam:
+Genre=The Loai:
+Comment=Chu thich:
+TrackTitles=Bai hat:
+
+[String]    
+NoDriver=Khong co
+
+NoTrackSelected=Phai trong mot bai!
+NoCDFound=Kiem dia khong duoc!
+
+CDDBConnect=Dang tim tai lieu dia CD %s ...
+CDDBSuccess=Tai lieu dia CD kim duoc roi!
+CDDBFailed=Tai lieu dia CD kim khong duoc!
+
+OutputFolderError=Noi giu that bai!
+FileNameRuleError=Noi giu xai!
+CreateFolderError=Tao noi giu khong duoc!
+
+UnknownArtist=Khong biet Ca Si
+UnkonwnAlbum=Khong biet Anbom
+
+Progress=Dang thau bai "%d" o trong "%d" bai
+
+AbortOperation=Co moun ngung lai khong?
+
+LogStart=Bach dau...
+LogRip=Dan doc %s...
+LogEncode=Dan viet %s...
+LogSuccess=Thang cong!
+LogFailed=That bai!
+LogCanceled=Ban ngung lai.
+LogFinish=Xong.
+
+RegInfoNotComplete=Xin dieng so dang ky!
+RegFailed=So dang ky sai!
+RegSuccess=So dang ky dung, Cam on!
+
+PlaylistFilter=Danh sach bai hat (*.m3u)
+PlaylistFailed=Viet bai hat that bai!
+
+[Main]
+Unregistered=Khong vao so
+MenuHelp=&Giup do
+MenuRegister=&Dien so dang ky...
+MenuAbout=&Tai lieu...
+SelectOperation=Ban muon lam cai vi:
+SelectCDROM=Xin chon may doc dia CD:
+NoDisc=Xin duoc vo dia CD!
+Title=Bai hat
+Length=Bao lau
+Size=Bao lon (Mb)
+MenuRefresh=&Doc dia CD lai
+MenuSelectAll=Chon het
+MenuSelectNone=Bo het
+MenuInverseSelection=&Nguoc lai
+MenuConfigCDDB=&Hinh the CDDB
+MenuQueryCDDB=&Tim CDDB
+MenuEditDiscInfo=Doi tai lieu cua dia CD
+MenuEditTrackInfo=Doi tai lieu cua bai hat
+MenuClearInfo=Xoa tai lieu
+ButtonRefresh=Doc dia CD lai
+ButtonSelectAll=Chon het
+ButtonSelectNone=Xoa het
+ButtonInverseSelection=Nguoc lai
+ButtonConfigCDDB=Hinh the CDDB
+ButtonQueryCDDB=Tim CDDB
+ButtonEditDiscInfo=Doi tai lieu cua dia CD
+ButtonEditTrackInfo=Doi tai lieu cua bai hat
+ButtonClearInfo=Xoa tai lieu
+OutputFolder=Noi giu nhac:
+FileName=Giu sao?:
+Priority=Chat luong:
+Priority1=Thap nhac
+Priority2=Thap
+Priority3=Thuong
+Priority4=Cao
+Priority5=Cao nhac
+WaveOptions=Trong giu loai wave khong duoc
+DeleteWave=Xoa nhung loai bai Wave sao viec nhac
+Bitrate=Bitrate:
+From=Tu
+To=Toi
+AudioMode=Am thanh nhac:
+AudioMode1=Mono
+AudioMode2=Stereo
+AudioMode3=Joint Stereo
+Quality=Loai tot:
+MP3EnableVBR=Xai VBR
+MP3WriteVBRHeader=Viec dau VBR
+MP3QualityHint=(0: Tot nhat, 9: Mau nhat)
+ExtractWave=Dang doc nhac
+EncodeWave=Dang viec nhac
+CurrentTrack=Bai dang thau
+TotalProgess=Toan bo
+
+[CDDBConfig]
+Title=Lien he CDDB
+Server=May tinh dien tu:
+Script=Bai cau hoi:
+Proxy=Cho sai Proxy
+Host=Host:
+Port=Port:
+Authorization=Su cho phep
+Name=Ten:
+Password=Khau lenh:
+
+[CDDBQuery]
+Title=CDDB tai lieu
+Save=Giu
+
+[CDDBMatch]
+Title=Kiem douc dia dung
+Hint=Kiem duoc ko the hen mot cai bai hat, xin chong mot cai bai hat 
+DiscTitle=Ten dia CD
+Artist=Ca si
+
+[DiscInfo]
+Title=Dia Ten
+
+[TrackInfo]
+Title=Bai hat tai lieu
+
+[Log]
+Title=Ten nhat ky
+OpenOutputFolder=Noi giu
+CreatePlaylist=Tao danh sach
+
+[Register]
+Title=Dien so dang ky
+Name=Ten dang ky:
+SN=So dang ky:
+Buy=Mua!
+
+[About]
+Title=Tai lieu
+Translator=Bai Anh vanh cua Linasoft 
+RegisterTo=Nguoi mua la:
+Unregistered=Khong vao so

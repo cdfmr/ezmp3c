@@ -1,0 +1,6 @@
+LIBRARY    WMAUDSDK.DLL
+
+EXPORTS
+    WMAudioCreateInfo@8    = WMAudioCreateInfo              @3   ; WMAudioCreateInfo
+    WMAudioCreateReader@16 = WMAudioCreateReader            @1   ; WMAudioCreateReader
+    WMAudioCreateWriter@8  = WMAudioCreateWriter            @2   ; WMAudioCreateWriter
