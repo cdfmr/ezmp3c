@@ -7,6 +7,11 @@ help of this program, you can store  cd music with  high quality
 and small size. You can also extract cd tracks  and save them as
 wave files without encoded.
 
+Binary
+----------------------------------------------------------------
+
+https://github.com/cdfmr/ezmp3c/downloads/
+
 Build
 ----------------------------------------------------------------
 
